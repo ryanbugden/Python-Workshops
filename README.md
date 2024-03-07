@@ -9,10 +9,10 @@
 - Resources & links
 
 ### Resources:
-- [DrawBot](drawbot.com) API, for scripting in DrawBot
+- [DrawBot](https://drawbot.com/content/shapes/primitives.html) API, for scripting in DrawBot
 - [FontParts](https://fontparts.robotools.dev/en/stable/objectref/objects/index.html) API, for scripting with UFO files
-- [Scripting in RoboFont](robofont.com/documentation/tutorials/python/), specifically
-- [Scripting in Glyphs](glyphsapp.com/learn/), specifically
+- [Scripting in RoboFont](https://robofont.com/documentation/reference/fontparts/), specifically
+- [Scripting in Glyphs](https://glyphsapp.com/learn/scripting-glyphs-part-1), specifically
 - [Python for Designers](https://pythonfordesigners.com/), by Roberto Arista
  
 
