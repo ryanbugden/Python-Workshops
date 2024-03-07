@@ -8,6 +8,14 @@
 - Notes
 - Resources & links
 
+### Resources:
+- [DrawBot](drawbot.com) API, for scripting in DrawBot
+- [FontParts](https://fontparts.robotools.dev/en/stable/objectref/objects/index.html) API, for scripting with UFO files
+- [Scripting in RoboFont](robofont.com/documentation/tutorials/python/), specifically
+- [Scripting in Glyphs](glyphsapp.com/learn/), specifically
+- [Python for Designers](https://pythonfordesigners.com/), by Roberto Arista
+ 
+
 
 ### Acknowledgments:
 
