@@ -14,8 +14,6 @@
 - [Scripting in RoboFont](https://robofont.com/documentation/reference/fontparts/), specifically
 - [Scripting in Glyphs](https://glyphsapp.com/learn/scripting-glyphs-part-1), specifically
 - [Python for Designers](https://pythonfordesigners.com/), by Roberto Arista
- 
-
 
 ### Acknowledgments:
 
