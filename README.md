@@ -15,6 +15,9 @@
 - [Scripting in Glyphs](https://glyphsapp.com/learn/scripting-glyphs-part-1), specifically
 - [Python for Designers](https://pythonfordesigners.com/), by Roberto Arista
 
+### Extra tools:
+- [DrawBot Grid](https://github.com/mathieureguer/drawbotgrid), by Mathieu Reguer
+
 ### Acknowledgments:
 
 *Highly influenced by [Ben Kiel’s](https://github.com/benkiel/python_workshops/tree/master) and [Andy Clymer’s](https://github.com/andyclymer/pythonworkshop) repositories for teaching Python*.
