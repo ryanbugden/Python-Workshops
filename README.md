@@ -15,8 +15,9 @@
 - [Scripting in Glyphs](https://glyphsapp.com/learn/scripting-glyphs-part-1), specifically
 - [Python for Designers](https://pythonfordesigners.com/), by Roberto Arista
 
-### Extra tools:
+### Extra resources:
 - [DrawBot Grid](https://github.com/mathieureguer/drawbotgrid), by Mathieu Reguer
+- [Basics of Unicode in Python](https://gist.github.com/arrowtype/713dad14fe9a574d58d1aab61ba9b2f0), by Stephen Nixon & others
 
 ### Acknowledgments:
 
