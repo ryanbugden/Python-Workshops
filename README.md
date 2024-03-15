@@ -18,6 +18,8 @@
 ### Extra resources:
 - [DrawBot Grid](https://github.com/mathieureguer/drawbotgrid), by Mathieu Reguer
 - [Basics of Unicode in Python](https://gist.github.com/arrowtype/713dad14fe9a574d58d1aab61ba9b2f0), by Stephen Nixon & others
+- [DrawBot Proofing](https://github.com/adobe-type-tools/drawBotProofing), by Frank Grießhammer & Josh Hadley
+- [Proof Generator](https://github.com/grillitype/ProofGenerator), by Grilli Type
 
 ### Acknowledgments:
 
