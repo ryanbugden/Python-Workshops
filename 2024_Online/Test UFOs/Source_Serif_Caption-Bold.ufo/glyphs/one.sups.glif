@@ -4,21 +4,21 @@
 	<advance width="427"/>
 	<outline>
 		<contour>
-			<point x="64" y="418" type="line"/>
-			<point x="365" y="418" type="line"/>
-			<point x="365" y="471" type="line"/>
-			<point x="244" y="471" type="line"/>
-			<point x="177" y="471" type="line"/>
-			<point x="64" y="471" type="line"/>
+			<point x="365" y="843" type="line"/>
+			<point x="64" y="843" type="line"/>
+			<point x="64" y="790" type="line"/>
+			<point x="185" y="790" type="line"/>
+			<point x="252" y="790" type="line"/>
+			<point x="365" y="790" type="line"/>
 		</contour>
 		<contour>
-			<point x="153" y="418" type="line"/>
-			<point x="279" y="418" type="line"/>
-			<point x="279" y="843" type="line"/>
-			<point x="236" y="843" type="line"/>
-			<point x="83" y="795" type="line"/>
-			<point x="83" y="743" type="line"/>
-			<point x="153" y="752" type="line"/>
+			<point x="276" y="843" type="line"/>
+			<point x="150" y="843" type="line"/>
+			<point x="150" y="418" type="line"/>
+			<point x="193" y="418" type="line"/>
+			<point x="346" y="466" type="line"/>
+			<point x="346" y="518" type="line"/>
+			<point x="276" y="509" type="line"/>
 		</contour>
 	</outline>
 </glyph>

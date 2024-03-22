@@ -4,40 +4,40 @@
 	<advance width="749"/>
 	<outline>
 		<contour>
-			<point x="14" y="0" type="line"/>
-			<point x="249" y="0" type="line"/>
-			<point x="249" y="75" type="line"/>
-			<point x="142" y="75" type="line"/>
-			<point x="118" y="75" type="line"/>
-			<point x="14" y="75" type="line"/>
+			<point x="734" y="658" type="line"/>
+			<point x="499" y="658" type="line"/>
+			<point x="499" y="583" type="line"/>
+			<point x="606" y="583" type="line"/>
+			<point x="630" y="583" type="line"/>
+			<point x="734" y="583" type="line"/>
 		</contour>
 		<contour>
-			<point x="57" y="0" type="line"/>
-			<point x="144" y="0" type="line"/>
-			<point x="261" y="370" type="line"/>
-			<point x="297" y="560" type="line"/>
-			<point x="310" y="560" type="line"/>
-			<point x="495" y="0" type="line"/>
-			<point x="689" y="0" type="line"/>
-			<point x="450" y="658" type="line"/>
-			<point x="289" y="658" type="line"/>
+			<point x="691" y="658" type="line"/>
+			<point x="604" y="658" type="line"/>
+			<point x="487" y="288" type="line"/>
+			<point x="451" y="98" type="line"/>
+			<point x="438" y="98" type="line"/>
+			<point x="253" y="658" type="line"/>
+			<point x="59" y="658" type="line"/>
+			<point x="298" y="0" type="line"/>
+			<point x="459" y="0" type="line"/>
 		</contour>
 		<contour>
-			<point x="176" y="183" type="line"/>
-			<point x="512" y="183" type="line"/>
-			<point x="512" y="251" type="line"/>
-			<point x="176" y="251" type="line"/>
+			<point x="572" y="475" type="line"/>
+			<point x="236" y="475" type="line"/>
+			<point x="236" y="407" type="line"/>
+			<point x="572" y="407" type="line"/>
 		</contour>
 		<contour>
-			<point x="386" y="0" type="line"/>
-			<point x="734" y="0" type="line"/>
-			<point x="734" y="75" type="line"/>
-			<point x="609" y="75" type="line"/>
-			<point x="511" y="75" type="line"/>
-			<point x="386" y="75" type="line"/>
+			<point x="362" y="658" type="line"/>
+			<point x="14" y="658" type="line"/>
+			<point x="14" y="583" type="line"/>
+			<point x="139" y="583" type="line"/>
+			<point x="237" y="583" type="line"/>
+			<point x="362" y="583" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="aboveUC" x="368" y="677"/>
-	<anchor name="belowLC" x="328" y="-20"/>
-	<anchor name="ogonek" x="604" y="0"/>
+	<anchor name="aboveUC" x="380" y="-19"/>
+	<anchor name="belowLC" x="420" y="678"/>
+	<anchor name="ogonek" x="144" y="658"/>
 </glyph>

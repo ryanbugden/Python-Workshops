@@ -3,12 +3,16 @@
 <plist version="1.0">
 	<array>
 		<array>
-			<string>public.default</string>
-			<string>glyphs</string>
+			<string>pizzatime</string>
+			<string>glyphs.pizzatime</string>
 		</array>
 		<array>
 			<string>com.adobe.type.processedglyphs</string>
 			<string>glyphs.com.adobe.type.processedglyphs</string>
+		</array>
+		<array>
+			<string>upside_down</string>
+			<string>glyphs</string>
 		</array>
 	</array>
 </plist>
