@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Rcommaaccent" format="2">
-	<unicode hex="0156"/>
 	<advance width="639"/>
 	<outline>
 		<contour>
@@ -61,7 +60,7 @@
 			<point x="28" y="657" type="line"/>
 		</contour>
 		<contour>
-			<point name="hintSet0029" x="396" y="-119" type="curve"/>
+			<point x="396" y="-119" type="curve"/>
 			<point x="396" y="-105"/>
 			<point x="393" y="-89"/>
 			<point x="389" y="-75" type="curve"/>
@@ -93,11 +92,11 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 26.5</string>
-							<string>hstem 310 25</string>
-							<string>hstem 630 27</string>
-							<string>vstem 98 140</string>
-							<string>vstem 396 135</string>
+							<string>hstem 0 20.5</string>
+							<string>hstem 310 24</string>
+							<string>hstem 646 24</string>
+							<string>vstem 123 71</string>
+							<string>vstem 419 75</string>
 						</array>
 					</dict>
 					<dict>
@@ -105,11 +104,11 @@
 						<string>hintSet0006</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 26.5</string>
-							<string>hstem 310 25</string>
-							<string>hstem 631 26</string>
-							<string>vstem 98 140</string>
-							<string>vstem 396 135</string>
+							<string>hstem 0 20.5</string>
+							<string>hstem 310 24</string>
+							<string>hstem 649.5 20.5</string>
+							<string>vstem 123 71</string>
+							<string>vstem 419 75</string>
 						</array>
 					</dict>
 					<dict>
@@ -117,28 +116,17 @@
 						<string>hintSet0019</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -11 37</string>
-							<string>hstem 320 15</string>
-							<string>hstem 630 27</string>
-							<string>vstem 98 140</string>
-							<string>vstem 396 135</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hintSet0029</string>
-						<key>stems</key>
-						<array>
-							<string>hstem 0 26.5</string>
-							<string>hstem 310 25</string>
-							<string>hstem 630 27</string>
-							<string>vstem 98 140</string>
-							<string>vstem 288 108</string>
+							<string>hstem -8 27.5</string>
+							<string>hstem 320 14</string>
+							<string>hstem 646 24</string>
+							<string>vstem 123 71</string>
+							<string>vstem 288 93</string>
+							<string>vstem 419 75</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>3dd0383d78250febed05e14f53d7153eb45799ce9a73497432b837d72755c1223e0282990f0ed2ad79b7da85b346faef25f34c47351d43d847ad87fd52e8bdf1</string>
+				<string>a3aa3c49ab8b747aeed0b0bcd92d898c250c74cea0aecd05d4b90291a39bc4cf1e3e3ee7c9a00f63d10855781834b30221c84b927dcba8ece754862c4af57053</string>
 			</dict>
 		</dict>
 	</lib>

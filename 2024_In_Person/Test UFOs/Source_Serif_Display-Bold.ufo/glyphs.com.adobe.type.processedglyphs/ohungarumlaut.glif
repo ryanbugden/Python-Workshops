@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ohungarumlaut" format="2">
-	<unicode hex="0151"/>
 	<advance width="529"/>
 	<outline>
 		<contour>
@@ -71,15 +70,15 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -15 26</string>
-							<string>hstem 447 25</string>
-							<string>vstem 34 143</string>
-							<string>vstem 351 144</string>
+							<string>hstem -12 21</string>
+							<string>hstem 443 21</string>
+							<string>vstem 44 73</string>
+							<string>vstem 384 74</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>476721b4a43904a420dc55a07c3193ae1fec45bbe213c770b25b897d04f5d50e31fcef184797b93f12e655d0058e186251bed22d51b86c3ffdbb3b81d09e4468</string>
+				<string>6c3e80ab6908066018c4468dce97bf33a954332afb69f92281cb4b18491d76ff5b8d8ad20f8515e7cde398b50042264cb93824ff382c35ad2fd7b28eab4358be</string>
 			</dict>
 		</dict>
 	</lib>

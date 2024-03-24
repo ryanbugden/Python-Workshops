@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="z" format="2">
-	<unicode hex="007A"/>
 	<advance width="435"/>
 	<outline>
 		<contour>
@@ -31,14 +30,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 28</string>
-							<string>hstem 430 28</string>
-							<string>vstem 35 14</string>
+							<string>hstem 0 22</string>
+							<string>hstem 430 22</string>
+							<string>vstem 42.5 13.5</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w435l250l4060l414159l394159l33628l17428l405443l405458l38458l32306l49304l109430l256430l2515</string>
+				<string>w413l280l3820l389156l375156l32822l10822l377440l377452l44452l41312l56310l100430l297430l2812</string>
 			</dict>
 		</dict>
 	</lib>

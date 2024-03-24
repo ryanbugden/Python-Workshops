@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Thorn" format="2">
+	<advance width="586"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="264" y="306" type="curve"/>
+			<point x="264" y="350" type="line"/>
+			<point x="264" y="397"/>
+			<point x="264" y="449"/>
+			<point x="266" y="499" type="curve"/>
+			<point x="272" y="499" type="line"/>
+			<point x="334" y="499"/>
+			<point x="386" y="453"/>
+			<point x="386" y="346" type="curve"/>
+			<point x="386" y="239"/>
+			<point x="334" y="184"/>
+			<point x="272" y="184" type="curve"/>
+			<point x="266" y="184" type="line"/>
+			<point x="264" y="225"/>
+			<point x="264" y="267"/>
+		</contour>
+		<contour>
+			<point x="21" y="0" type="line"/>
+			<point x="325" y="0" type="line"/>
+			<point x="325" y="26" type="line"/>
+			<point x="269" y="35" type="line"/>
+			<point x="267" y="70"/>
+			<point x="265" y="114"/>
+			<point x="266" y="157" type="curve"/>
+			<point x="274" y="157" type="line"/>
+			<point x="494" y="157"/>
+			<point x="567" y="235"/>
+			<point x="567" y="352" type="curve"/>
+			<point x="567" y="467"/>
+			<point x="494" y="527"/>
+			<point x="274" y="527" type="curve"/>
+			<point name="hintSet0016" x="265" y="527" type="line"/>
+			<point x="267" y="559"/>
+			<point x="268" y="588"/>
+			<point x="269" y="616" type="curve"/>
+			<point x="325" y="625" type="line"/>
+			<point x="325" y="649" type="line"/>
+			<point name="hintSet0020" x="21" y="649" type="line"/>
+			<point x="21" y="625" type="line"/>
+			<point x="78" y="615" type="line"/>
+			<point x="81" y="539"/>
+			<point x="83" y="437"/>
+			<point x="83" y="350" type="curve"/>
+			<point x="83" y="306" type="line"/>
+			<point x="83" y="218"/>
+			<point x="81" y="112"/>
+			<point x="78" y="35" type="curve"/>
+			<point x="21" y="26" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 20.5</string>
+							<string>hstem 170 24</string>
+							<string>hstem 509 24</string>
+							<string>hstem 649.5 20.5</string>
+							<string>vstem 123 71</string>
+							<string>vstem 415 75</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0016</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 20.5</string>
+							<string>hstem 170 24</string>
+							<string>hstem 509 24</string>
+							<string>hstem 649.5 20.5</string>
+							<string>vstem 123 72</string>
+							<string>vstem 415 75</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0020</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 20.5</string>
+							<string>hstem 170 24</string>
+							<string>hstem 509 24</string>
+							<string>hstem 649.5 20.5</string>
+							<string>vstem 123 71</string>
+							<string>vstem 415 75</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>61fa691970f1d1ec62510132af7fb38beef061cfec2efdc61c447781e2e9700b67b196f5f4b002e44dca3febb11c6e113b3cc1d0e05600a7b42d6320e41ea8d9</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

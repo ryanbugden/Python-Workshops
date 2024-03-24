@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ohornhoi" format="2">
-	<unicode hex="1EDE"/>
 	<advance width="646"/>
 	<outline>
 		<contour>
@@ -80,11 +79,11 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -16 26</string>
-							<string>hstem 647 26</string>
-							<string>vstem 36 151</string>
-							<string>vstem 346 56</string>
-							<string>vstem 458 151</string>
+							<string>hstem -16 22</string>
+							<string>hstem 664 22</string>
+							<string>vstem 47 80</string>
+							<string>vstem 352 36</string>
+							<string>vstem 513 80</string>
 						</array>
 					</dict>
 					<dict>
@@ -92,11 +91,11 @@
 						<string>hintSet0008</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -16 26</string>
-							<string>hstem 647 26</string>
-							<string>vstem 36 151</string>
-							<string>vstem 346 56</string>
-							<string>vstem 545 65</string>
+							<string>hstem -16 22</string>
+							<string>hstem 664 22</string>
+							<string>vstem 47 80</string>
+							<string>vstem 352 36</string>
+							<string>vstem 535 46</string>
 						</array>
 					</dict>
 					<dict>
@@ -104,11 +103,11 @@
 						<string>hintSet0016</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -16 26</string>
-							<string>hstem 647 26</string>
-							<string>vstem 36 151</string>
-							<string>vstem 346 56</string>
-							<string>vstem 458 151</string>
+							<string>hstem -16 22</string>
+							<string>hstem 664 22</string>
+							<string>vstem 47 80</string>
+							<string>vstem 352 36</string>
+							<string>vstem 513 80</string>
 						</array>
 					</dict>
 					<dict>
@@ -116,17 +115,17 @@
 						<string>hintSet0018</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -16 26</string>
-							<string>hstem 647 26</string>
-							<string>hstem 808 79</string>
-							<string>vstem 36 151</string>
-							<string>vstem 346 56</string>
-							<string>vstem 458 151</string>
+							<string>hstem -16 22</string>
+							<string>hstem 664 22</string>
+							<string>hstem 818 53</string>
+							<string>vstem 47 80</string>
+							<string>vstem 352 36</string>
+							<string>vstem 513 80</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>a100e79523b66ddbdab0cbcceeb9750658b399afb1b6f4fff8f349e0b8d79411b375bc29ea4279ad672bf3c989d066ac4dd096b5d04f85dfc1a934ae9f044bda</string>
+				<string>a80a61c9c0d046bf46c67301936910216f896d244b67dbeff14dc6be3bce81defaf33cd2c9e78ea025b1431c5790b2ae80bb63a9475a99ed230f85187a255cdf</string>
 			</dict>
 		</dict>
 	</lib>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="amacron" format="2">
-	<unicode hex="0101"/>
 	<advance width="485"/>
 	<outline>
 		<contour>
@@ -84,11 +83,11 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -14 56</string>
-							<string>hstem 444 28</string>
-							<string>hstem 557 67</string>
-							<string>vstem 28 126</string>
-							<string>vstem 278 133</string>
+							<string>hstem -8 37</string>
+							<string>hstem 438 26</string>
+							<string>hstem 570 48</string>
+							<string>vstem 39 71</string>
+							<string>vstem 291 68</string>
 						</array>
 					</dict>
 					<dict>
@@ -96,11 +95,11 @@
 						<string>hintSet0016</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -15 68</string>
-							<string>hstem 444 28</string>
-							<string>hstem 557 67</string>
-							<string>vstem 28 126</string>
-							<string>vstem 278 133</string>
+							<string>hstem -12 49</string>
+							<string>hstem 438 26</string>
+							<string>hstem 570 48</string>
+							<string>vstem 39 71</string>
+							<string>vstem 292 67</string>
 						</array>
 					</dict>
 					<dict>
@@ -108,11 +107,11 @@
 						<string>hintSet0018</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -14 56</string>
-							<string>hstem 444 28</string>
-							<string>hstem 557 67</string>
-							<string>vstem 28 126</string>
-							<string>vstem 278 133</string>
+							<string>hstem -8 37</string>
+							<string>hstem 438 26</string>
+							<string>hstem 570 48</string>
+							<string>vstem 39 71</string>
+							<string>vstem 291 68</string>
 						</array>
 					</dict>
 					<dict>
@@ -120,10 +119,10 @@
 						<string>hintSet0019</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -15 68</string>
-							<string>hstem 444 28</string>
-							<string>hstem 557 67</string>
-							<string>vstem 104 262</string>
+							<string>hstem -12 49</string>
+							<string>hstem 438 26</string>
+							<string>hstem 570 48</string>
+							<string>vstem 109 220</string>
 						</array>
 					</dict>
 					<dict>
@@ -131,16 +130,16 @@
 						<string>hintSet0023</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -15 68</string>
-							<string>hstem 444 28</string>
-							<string>hstem 557 67</string>
-							<string>vstem 28 126</string>
-							<string>vstem 278 133</string>
+							<string>hstem -12 49</string>
+							<string>hstem 438 26</string>
+							<string>hstem 570 48</string>
+							<string>vstem 39 71</string>
+							<string>vstem 291 68</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>7c70443ca14931593648312ef7501637360db65038441b5dc6d9ba307db194a2cf8dfe93e7b5e6e5e67d213d0ee4497549346efb4fecb6543b48daac835d8c72</string>
+				<string>2b81cd199ae8e4dcee56427e713504180204ef2b8e0fb677986ead912e92b8f2f5a6bd790e17ec5fd4e67f98e5d00e133d17d91c841527608c00fe1bdff61c57</string>
 			</dict>
 		</dict>
 	</lib>

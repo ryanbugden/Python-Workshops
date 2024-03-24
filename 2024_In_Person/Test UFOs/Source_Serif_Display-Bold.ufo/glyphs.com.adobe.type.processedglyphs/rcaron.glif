@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rcaron" format="2">
-	<unicode hex="0159"/>
 	<advance width="429"/>
 	<outline>
 		<contour>
@@ -29,7 +28,7 @@
 			<point x="245" y="429"/>
 			<point x="213" y="340" type="curve"/>
 			<point name="hintSet0012" x="213" y="462" type="line"/>
-			<point name="hintSet0013" x="199" y="472" type="line"/>
+			<point x="199" y="472" type="line"/>
 			<point x="20" y="420" type="line"/>
 			<point x="20" y="402" type="line"/>
 			<point x="78" y="385" type="line"/>
@@ -63,9 +62,9 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 26.5</string>
-							<string>hstem 462 -20</string>
-							<string>vstem 80 133</string>
+							<string>hstem 0 20.5</string>
+							<string>hstem 456 -20</string>
+							<string>vstem 109 67</string>
 						</array>
 					</dict>
 					<dict>
@@ -73,9 +72,9 @@
 						<string>hintSet0005</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 26.5</string>
-							<string>hstem 336 136</string>
-							<string>vstem 80 133</string>
+							<string>hstem 0 20.5</string>
+							<string>hstem 374 90</string>
+							<string>vstem 109 67</string>
 						</array>
 					</dict>
 					<dict>
@@ -83,24 +82,14 @@
 						<string>hintSet0012</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 26.5</string>
-							<string>hstem 462 -20</string>
-							<string>vstem 80 133</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hintSet0013</string>
-						<key>stems</key>
-						<array>
-							<string>hstem 0 26.5</string>
-							<string>hstem 336 136</string>
-							<string>vstem 80 133</string>
+							<string>hstem 0 20.5</string>
+							<string>hstem 456 -20</string>
+							<string>vstem 109 67</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>b8ad376d99c5a25d7db9a7bb3da85f1a912d3afc96de90c3bc4cc62b835b29b4b72d412ab77cbb5dae4642e7e7d3f2d144d47170326056935b74fc2090108d5f</string>
+				<string>359754b32ba9adad45529852f04f32c0d62652bad11ce14fd990d6f078ca32aa02cb4849bc5ca723531c27ed14386f334be13af38e37048e3260b3166558382a</string>
 			</dict>
 		</dict>
 	</lib>

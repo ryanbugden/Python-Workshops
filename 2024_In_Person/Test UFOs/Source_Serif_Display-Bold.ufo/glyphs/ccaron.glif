@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ccaron" format="2">
-	<unicode hex="010D"/>
 	<advance width="452"/>
 	<outline>
 		<component base="c"/>

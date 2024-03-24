@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="icircumflex" format="2">
-	<unicode hex="00EE"/>
 	<advance width="286"/>
 	<outline>
 		<contour>
@@ -13,7 +12,7 @@
 			<point x="213" y="209" type="curve"/>
 			<point x="213" y="330" type="line"/>
 			<point name="hintSet0006" x="217" y="462" type="line"/>
-			<point name="hintSet0007" x="203" y="472" type="line"/>
+			<point x="203" y="472" type="line"/>
 			<point x="20" y="420" type="line"/>
 			<point x="20" y="402" type="line"/>
 			<point x="78" y="385" type="line"/>
@@ -47,9 +46,9 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 26</string>
-							<string>hstem 472 -20</string>
-							<string>vstem 80 133</string>
+							<string>hstem 0 20</string>
+							<string>hstem 464 -20</string>
+							<string>vstem 109 67</string>
 						</array>
 					</dict>
 					<dict>
@@ -57,24 +56,14 @@
 						<string>hintSet0006</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 26</string>
-							<string>hstem 462 -20</string>
-							<string>vstem 80 133</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hintSet0007</string>
-						<key>stems</key>
-						<array>
-							<string>hstem 0 26</string>
-							<string>hstem 472 -20</string>
-							<string>vstem 80 133</string>
+							<string>hstem 0 20</string>
+							<string>hstem 456 -20</string>
+							<string>vstem 109 67</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>2ede9eacc8e14e398bdb59fbba951ac4d4f0296fc773a23dc1d986da8caa872ddf8ca9b336c5a222d9ab219379c57b8b0f04ed3dc338c158330d0e5999b9dedb</string>
+				<string>b0558e0b2c868f6c1a9cac893fafcf5fb5059a8d5790a6d4a620ae7752bfbf2888c85e6cec29fafa9edf8113b2f80f6440ceddc7c2772ef65941220938dc75f8</string>
 			</dict>
 		</dict>
 	</lib>

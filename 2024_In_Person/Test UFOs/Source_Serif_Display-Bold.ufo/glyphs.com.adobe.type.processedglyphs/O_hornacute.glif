@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ohornacute" format="2">
-	<unicode hex="1EDA"/>
 	<advance width="646"/>
 	<outline>
 		<contour>
@@ -82,10 +81,10 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -16 26</string>
-							<string>hstem 647 26</string>
-							<string>vstem 36 151</string>
-							<string>vstem 458 151</string>
+							<string>hstem -16 22</string>
+							<string>hstem 664 22</string>
+							<string>vstem 47 80</string>
+							<string>vstem 513 80</string>
 						</array>
 					</dict>
 					<dict>
@@ -93,10 +92,10 @@
 						<string>hintSet0008</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -16 26</string>
-							<string>hstem 647 26</string>
-							<string>vstem 36 151</string>
-							<string>vstem 545 65</string>
+							<string>hstem -16 22</string>
+							<string>hstem 664 22</string>
+							<string>vstem 47 80</string>
+							<string>vstem 535 46</string>
 						</array>
 					</dict>
 					<dict>
@@ -104,15 +103,15 @@
 						<string>hintSet0016</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -16 26</string>
-							<string>hstem 647 26</string>
-							<string>vstem 36 151</string>
-							<string>vstem 458 151</string>
+							<string>hstem -16 22</string>
+							<string>hstem 664 22</string>
+							<string>vstem 47 80</string>
+							<string>vstem 513 80</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>96236d6d5c913e6f7b80960f82b677e799d534b227e1dfa4096e9a251d5a307b59f22076b593ffd6102f995295f620533481a4cc6cc4eb3c9962bec51ad07597</string>
+				<string>1c8a425dd327aa20ea4b308242e01f3101172984c9f61f3538d5f89e7c88268ca4308d310dc93b6c1740933c2025e7ccd3751d0fa06db74bac782e49087a974f</string>
 			</dict>
 		</dict>
 	</lib>

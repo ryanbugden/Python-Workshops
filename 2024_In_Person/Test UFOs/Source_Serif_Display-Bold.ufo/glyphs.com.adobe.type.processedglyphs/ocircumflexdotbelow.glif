@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ocircumflexdotbelow" format="2">
-	<unicode hex="1ED9"/>
 	<advance width="529"/>
 	<outline>
 		<contour>
@@ -18,7 +17,7 @@
 			<point x="226" y="-209"/>
 		</contour>
 		<contour>
-			<point name="hintSet0005" x="264" y="11" type="curve"/>
+			<point x="264" y="11" type="curve"/>
 			<point x="209" y="11"/>
 			<point x="177" y="62"/>
 			<point x="177" y="228" type="curve"/>
@@ -66,28 +65,17 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -209 137</string>
-							<string>hstem -15 26</string>
-							<string>hstem 447 25</string>
-							<string>vstem 194 140</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hintSet0005</string>
-						<key>stems</key>
-						<array>
-							<string>hstem -209 137</string>
-							<string>hstem -15 26</string>
-							<string>hstem 447 25</string>
-							<string>vstem 34 143</string>
-							<string>vstem 194 140</string>
-							<string>vstem 351 144</string>
+							<string>hstem -187 105</string>
+							<string>hstem -12 21</string>
+							<string>hstem 443 21</string>
+							<string>vstem 44 73</string>
+							<string>vstem 198 106</string>
+							<string>vstem 384 74</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>88ee3df2283f3c822badaf45ba371982b5a25f7e68e81b9e23ed82076fd0431dc8e93b12407f7b44cd8d7745d117967f44a66040245cfbfa4265f201791dfe66</string>
+				<string>b5a69c72fc41f2e7114b5d248406654bd2cecfeaae90dc04afe5eccd4eaef991ca2494b081b4c5c1408f7412f214b5922d69111865c3e52d8729df5e11903106</string>
 			</dict>
 		</dict>
 	</lib>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Acircumflexacute" format="2">
-	<unicode hex="1EA4"/>
 	<advance width="620"/>
 	<outline>
 		<contour>
@@ -18,7 +17,7 @@
 			<point x="547" y="32" type="line"/>
 			<point x="347" y="660" type="line"/>
 			<point x="272" y="660" type="line"/>
-			<point x="74" y="31" type="line"/>
+			<point name="hintSet0014" x="74" y="31" type="line"/>
 			<point x="12" y="22" type="line"/>
 		</contour>
 		<contour>
@@ -61,15 +60,26 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 26.5</string>
-							<string>hstem 217 27</string>
-							<string>hstem 660 -20</string>
-							<string>vstem 12 170</string>
+							<string>hstem 0 21</string>
+							<string>hstem 239 24</string>
+							<string>hstem 678 -20</string>
+							<string>vstem 12 588</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0014</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 20.5</string>
+							<string>hstem 239 24</string>
+							<string>hstem 678 -20</string>
+							<string>vstem 12 588</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>ac632a1b51a9b757412d8ed2db7c260df7eeb3e94f1bd963195fe13f111eb85276ca3590c231f670355e3fe897c327c24fd6e7eb0ab9c1836d6a288e4707c838</string>
+				<string>704380503aa1ee53eb117d3e52ce675b0c75ae86a115133045818928bc125e37b5659689e24e0a5a582e876430a37fb36689b28e61a3949c6c22cd3f5731bf54</string>
 			</dict>
 		</dict>
 	</lib>

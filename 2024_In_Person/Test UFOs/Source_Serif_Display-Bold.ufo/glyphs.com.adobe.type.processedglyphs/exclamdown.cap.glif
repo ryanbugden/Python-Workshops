@@ -45,9 +45,9 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 12 -21</string>
-							<string>hstem 522 149</string>
-							<string>vstem 56 149</string>
+							<string>hstem 14 -21</string>
+							<string>hstem 578 108</string>
+							<string>vstem 80 108</string>
 						</array>
 					</dict>
 					<dict>
@@ -55,14 +55,14 @@
 						<string>hintSet0005</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 12 -21</string>
-							<string>hstem 522 149</string>
-							<string>vstem 56 150</string>
+							<string>hstem 14 -21</string>
+							<string>hstem 578 108</string>
+							<string>vstem 117 34.5</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>4132cf037b1913c1af1bc40f43b00017d59ed30857bc21e721fc4f786136ccaae7ab0ed459bfbf8739c9c9c1d5f18cac7bcd6ccc8a2d3e7f26142420ec767839</string>
+				<string>929840f197e4a473f6cc891ea3f901ea33306ccf2020c5e3a31a44f838a0895f02184dc8f92a3cbd50c7a9665562c0b14bf345185cd0cbfa3ed4f5c76011eb64</string>
 			</dict>
 		</dict>
 	</lib>

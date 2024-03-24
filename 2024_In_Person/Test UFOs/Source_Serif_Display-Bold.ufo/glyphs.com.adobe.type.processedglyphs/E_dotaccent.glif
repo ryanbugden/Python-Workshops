@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Edotaccent" format="2">
-	<unicode hex="0116"/>
 	<advance width="532"/>
 	<outline>
 		<contour>
@@ -67,11 +66,11 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 26.5</string>
-							<string>hstem 321 29</string>
-							<string>hstem 631 26</string>
-							<string>vstem 98 140</string>
-							<string>vstem 371 21</string>
+							<string>hstem 0 20.5</string>
+							<string>hstem 330 24</string>
+							<string>hstem 649.5 20.5</string>
+							<string>vstem 123 71</string>
+							<string>vstem 355 16</string>
 						</array>
 					</dict>
 					<dict>
@@ -79,11 +78,11 @@
 						<string>hintSet0006</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 27</string>
-							<string>hstem 321 29</string>
-							<string>hstem 630 27</string>
-							<string>vstem 98 140</string>
-							<string>vstem 371 21</string>
+							<string>hstem 0 24</string>
+							<string>hstem 330 24</string>
+							<string>hstem 646 24</string>
+							<string>vstem 123 71</string>
+							<string>vstem 355 16</string>
 						</array>
 					</dict>
 					<dict>
@@ -91,17 +90,18 @@
 						<string>hintSet0028</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 27</string>
-							<string>hstem 321 29</string>
-							<string>hstem 630 27</string>
-							<string>hstem 714 136</string>
-							<string>vstem 220 140</string>
-							<string>vstem 371 21</string>
+							<string>hstem 0 24</string>
+							<string>hstem 330 24</string>
+							<string>hstem 646 24</string>
+							<string>hstem 744 105</string>
+							<string>vstem 123 71</string>
+							<string>vstem 238 106</string>
+							<string>vstem 355 16</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>93a4ff2121bb941772ec6a517360a1ee2f3684a153920f486f28cec5bdd6168230b0488a8563668294fc2a274b83a4a9c60efcfbbac2090051f1199309e62cac</string>
+				<string>e103c9eeab31f11793c1129ac80097257afbbbc1ea0a123cd10c30b1139ce4cda07e9d79d0b9c76e823732b32683be0aeeccaa4dea8695b62777f6efb1b2de35</string>
 			</dict>
 		</dict>
 	</lib>

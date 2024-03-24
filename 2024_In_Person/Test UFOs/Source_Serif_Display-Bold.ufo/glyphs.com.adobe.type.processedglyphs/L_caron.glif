@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lcaron" format="2">
-	<unicode hex="013D"/>
 	<advance width="512"/>
 	<outline>
 		<contour>
@@ -10,7 +9,7 @@
 			<point x="98" y="443"/>
 			<point x="98" y="354" type="curve"/>
 			<point x="98" y="310" type="line"/>
-			<point x="98" y="219"/>
+			<point name="hintSet0004" x="98" y="219"/>
 			<point x="97" y="110"/>
 			<point x="94" y="31" type="curve"/>
 			<point x="28" y="22" type="line"/>
@@ -57,10 +56,21 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 26.5</string>
-							<string>hstem 631 26</string>
-							<string>vstem 98 140</string>
-							<string>vstem 394 87</string>
+							<string>hstem 0 24</string>
+							<string>hstem 649.5 20.5</string>
+							<string>vstem 123 71</string>
+							<string>vstem 376 64</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0004</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 20.5</string>
+							<string>hstem 649.5 20.5</string>
+							<string>vstem 123 71</string>
+							<string>vstem 376 64</string>
 						</array>
 					</dict>
 					<dict>
@@ -68,10 +78,10 @@
 						<string>hintSet0006</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 27</string>
-							<string>hstem 631.5 25.5</string>
-							<string>vstem 98 140</string>
-							<string>vstem 394 87</string>
+							<string>hstem 0 24</string>
+							<string>hstem 649.5 20.5</string>
+							<string>vstem 123 71</string>
+							<string>vstem 376 64</string>
 						</array>
 					</dict>
 					<dict>
@@ -79,10 +89,10 @@
 						<string>hintSet0021</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 27</string>
-							<string>hstem 631.5 25.5</string>
-							<string>vstem 98 140</string>
-							<string>vstem 394 21</string>
+							<string>hstem 0 24</string>
+							<string>hstem 649.5 20.5</string>
+							<string>vstem 123 71</string>
+							<string>vstem 376 14</string>
 						</array>
 					</dict>
 					<dict>
@@ -90,15 +100,15 @@
 						<string>hintSet0022</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 27</string>
-							<string>hstem 631.5 25.5</string>
-							<string>vstem 98 140</string>
-							<string>vstem 394 87</string>
+							<string>hstem 0 24</string>
+							<string>hstem 649.5 20.5</string>
+							<string>vstem 123 71</string>
+							<string>vstem 376 64</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>b5d0e8031cc758d906c13ce4e5f6fb8dc2f8cab316f7838151393736b7143aa36ad0597eceeac3c5e183818df26d2cf2476a79e7d692f3e9645cbefd57ed0a8f</string>
+				<string>a186b403d42f69a6d31b9bd28e979989fe3dacfc1b63babca639c9fda48e23d83212f1c52275a040c66dd0f2e088450777eca7104a7ecb138e8add7d445da9c6</string>
 			</dict>
 		</dict>
 	</lib>

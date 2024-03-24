@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Amacron" format="2">
+	<advance width="614"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="12" y="0" type="line"/>
+			<point x="199" y="0" type="line"/>
+			<point x="199" y="17" type="line"/>
+			<point x="109" y="27" type="line"/>
+			<point x="175" y="235" type="line"/>
+			<point x="379" y="235" type="line"/>
+			<point x="443" y="27" type="line"/>
+			<point x="359" y="17" type="line"/>
+			<point x="359" y="0" type="line"/>
+			<point x="601" y="0" type="line"/>
+			<point x="601" y="17" type="line"/>
+			<point x="536" y="27" type="line"/>
+			<point x="322" y="675" type="line"/>
+			<point x="288" y="675" type="line"/>
+			<point name="hintSet0014" x="79" y="26" type="line"/>
+			<point x="12" y="17" type="line"/>
+		</contour>
+		<contour>
+			<point name="hintSet0016" x="178" y="746" type="line"/>
+			<point x="432" y="746" type="line"/>
+			<point x="432" y="797" type="line"/>
+			<point x="178" y="797" type="line"/>
+		</contour>
+		<contour>
+			<point x="183" y="260" type="line"/>
+			<point x="279" y="563" type="line"/>
+			<point x="372" y="260" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 21</string>
+							<string>hstem 239 24</string>
+							<string>hstem 678 -20</string>
+							<string>hstem 750 48</string>
+							<string>vstem 12 588</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0014</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 20.5</string>
+							<string>hstem 239 24</string>
+							<string>hstem 678 -20</string>
+							<string>hstem 750 48</string>
+							<string>vstem 12 588</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0016</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 21</string>
+							<string>hstem 239 24</string>
+							<string>hstem 678 -20</string>
+							<string>hstem 750 48</string>
+							<string>vstem 179 250</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>fe26fbe78675aff915a7a35fa0da34563171b0477368a15562cf6e9839ca9558a037f5758578345f7fd60702c68141cbc2cddea5487ad8c11370c45800620e38</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

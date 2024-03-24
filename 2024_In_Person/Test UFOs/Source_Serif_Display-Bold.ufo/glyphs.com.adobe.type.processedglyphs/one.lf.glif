@@ -11,8 +11,8 @@
 			<point x="260" y="156"/>
 			<point x="260" y="209" type="curve"/>
 			<point x="260" y="428" type="line"/>
-			<point name="hintSet0006" x="264" y="632" type="line"/>
-			<point name="hintSet0007" x="251" y="644" type="line"/>
+			<point x="264" y="632" type="line"/>
+			<point x="251" y="644" type="line"/>
 			<point x="36" y="572" type="line"/>
 			<point x="36" y="551" type="line"/>
 			<point x="127" y="561" type="line"/>
@@ -34,34 +34,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 22</string>
-							<string>hstem 644 -20</string>
-							<string>vstem 127 133</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hintSet0006</string>
-						<key>stems</key>
-						<array>
-							<string>hstem 0 22</string>
-							<string>hstem 632 -20</string>
-							<string>vstem 127 133</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hintSet0007</string>
-						<key>stems</key>
-						<array>
-							<string>hstem 0 22</string>
-							<string>hstem 644 -20</string>
-							<string>vstem 127 133</string>
+							<string>hstem 0 16</string>
+							<string>hstem 652 -20</string>
+							<string>vstem 184 68</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w370l300l3520l35222l2633826189260156c260209l260428l264632l251644l36572l36551l127561l12720912715712790c12538l3022</string>
+				<string>w412l640l3720l37216l2553025382252160c252212l252447l256643l247652l64593l64579l184592l18421218416018383c18131l6416</string>
 			</dict>
 		</dict>
 	</lib>

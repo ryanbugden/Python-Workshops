@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Dcroat" format="2">
-	<unicode hex="0110"/>
 	<advance width="640"/>
 	<outline>
 		<contour>
@@ -61,11 +60,11 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 27</string>
-							<string>hstem 324 25</string>
-							<string>hstem 630 27</string>
-							<string>vstem 98 140</string>
-							<string>vstem 456 148</string>
+							<string>hstem 0 24</string>
+							<string>hstem 332 22</string>
+							<string>hstem 646 24</string>
+							<string>vstem 123 71</string>
+							<string>vstem 509 80</string>
 						</array>
 					</dict>
 					<dict>
@@ -73,11 +72,11 @@
 						<string>hintSet0011</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 26.5</string>
-							<string>hstem 324 25</string>
-							<string>hstem 631 26</string>
-							<string>vstem 98 140</string>
-							<string>vstem 456 148</string>
+							<string>hstem 0 20.5</string>
+							<string>hstem 332 22</string>
+							<string>hstem 649.5 20.5</string>
+							<string>vstem 123 71</string>
+							<string>vstem 509 80</string>
 						</array>
 					</dict>
 					<dict>
@@ -85,16 +84,16 @@
 						<string>hintSet0021</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 27</string>
-							<string>hstem 324 25</string>
-							<string>hstem 630 27</string>
-							<string>vstem 98 140</string>
-							<string>vstem 456 148</string>
+							<string>hstem 0 24</string>
+							<string>hstem 332 22</string>
+							<string>hstem 646 24</string>
+							<string>vstem 123 71</string>
+							<string>vstem 509 80</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>47b9a2039f5cf90f1fa9ee5d873d6a3be266bde4862850179bf17669dd440bbcdf2891d77d9198e0d84429012c51a32caf619fd9b0106a2e06039bd1a765a6cb</string>
+				<string>acfc145510bfb77db53b2f25768331d768a63986ff2546454d3ab5f6fd025afa2ba5917e3dbd94700d465b3bbf2060caf612e002c7ea551859592669201fcb52</string>
 			</dict>
 		</dict>
 	</lib>

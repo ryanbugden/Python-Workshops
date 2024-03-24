@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abrevedotbelow" format="2">
+	<advance width="613"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="12" y="0" type="line"/>
+			<point x="201" y="0" type="line"/>
+			<point x="201" y="17" type="line"/>
+			<point x="110" y="27" type="line"/>
+			<point x="177" y="237" type="line"/>
+			<point x="382" y="237" type="line"/>
+			<point x="447" y="27" type="line"/>
+			<point x="362" y="17" type="line"/>
+			<point x="362" y="0" type="line"/>
+			<point x="601" y="0" type="line"/>
+			<point x="601" y="17" type="line"/>
+			<point x="534" y="27" type="line"/>
+			<point x="320" y="676" type="line"/>
+			<point x="289" y="676" type="line"/>
+			<point name="hintSet0014" x="79" y="26" type="line"/>
+			<point x="12" y="17" type="line"/>
+		</contour>
+		<contour>
+			<point x="184" y="261" type="line"/>
+			<point x="281" y="568" type="line"/>
+			<point x="375" y="261" type="line"/>
+		</contour>
+		<contour>
+			<point x="166" y="846" type="line"/>
+			<point x="178" y="788"/>
+			<point x="221" y="728"/>
+			<point x="304" y="728" type="curve"/>
+			<point x="387" y="728"/>
+			<point x="430" y="788"/>
+			<point x="443" y="846" type="curve"/>
+			<point x="422" y="854" type="line"/>
+			<point x="404" y="810"/>
+			<point x="364" y="779"/>
+			<point x="304" y="779" type="curve"/>
+			<point x="245" y="779"/>
+			<point x="205" y="810"/>
+			<point x="187" y="854" type="curve"/>
+		</contour>
+		<contour>
+			<point x="285" y="-189" type="curve"/>
+			<point x="315" y="-189"/>
+			<point x="340" y="-168"/>
+			<point x="340" y="-135" type="curve"/>
+			<point x="340" y="-102"/>
+			<point x="315" y="-81"/>
+			<point x="285" y="-81" type="curve"/>
+			<point x="255" y="-81"/>
+			<point x="231" y="-102"/>
+			<point x="231" y="-135" type="curve"/>
+			<point x="231" y="-168"/>
+			<point x="255" y="-189"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 21</string>
+							<string>hstem 239 24</string>
+							<string>hstem 678 -20</string>
+							<string>hstem 730 49</string>
+							<string>vstem 235 106</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0014</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -187 105</string>
+							<string>hstem 0 20.5</string>
+							<string>hstem 239 24</string>
+							<string>hstem 678 -20</string>
+							<string>hstem 730 49</string>
+							<string>vstem 235 106</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>ed0cfd0cf5c1f6842d1d6478384b28e98ffdb65bdbd4ae44fef95d4c39d82a6d2ffac8e7923f71d1693580fcdd1cdc7eeb8b07c53ba26a4116e4c97934bf59d4</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

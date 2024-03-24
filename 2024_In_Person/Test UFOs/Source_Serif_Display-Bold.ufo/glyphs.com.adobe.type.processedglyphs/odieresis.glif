@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="odieresis" format="2">
-	<unicode hex="00F6"/>
 	<advance width="529"/>
 	<outline>
 		<contour>
@@ -71,10 +70,10 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -15 26</string>
-							<string>hstem 447 25</string>
-							<string>vstem 34 143</string>
-							<string>vstem 351 144</string>
+							<string>hstem -12 21</string>
+							<string>hstem 443 21</string>
+							<string>vstem 44 73</string>
+							<string>vstem 384 74</string>
 						</array>
 					</dict>
 					<dict>
@@ -82,16 +81,16 @@
 						<string>hintSet0010</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -15 26</string>
-							<string>hstem 447 25</string>
-							<string>hstem 558 117</string>
-							<string>vstem 106 122</string>
-							<string>vstem 300 122</string>
+							<string>hstem -12 21</string>
+							<string>hstem 443 21</string>
+							<string>hstem 569 97</string>
+							<string>vstem 112 97</string>
+							<string>vstem 293 97</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>7208150cc1739e73cae5ebbe8237b684a77841d118fa305eabd80c3f4e8602c7d9f4421a5da0a1015f4df5546029000b4d44c3364804d9f3525d7e896de07ad8</string>
+				<string>badf7f7526711366ea3008081bb5527629f19c9f176bf511e4fe3fadae6c4630973d2598d653b89ada8884725226031f69dfb37c3e0b41447f934acc7bce45ab</string>
 			</dict>
 		</dict>
 	</lib>

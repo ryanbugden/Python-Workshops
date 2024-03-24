@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ocaron" format="2">
-	<unicode hex="01D2"/>
 	<advance width="529"/>
 	<outline>
 		<contour>
@@ -52,15 +51,15 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -15 26</string>
-							<string>hstem 447 25</string>
-							<string>vstem 34 143</string>
-							<string>vstem 351 144</string>
+							<string>hstem -12 21</string>
+							<string>hstem 443 21</string>
+							<string>vstem 44 73</string>
+							<string>vstem 384 74</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>e2ab20bbb74396c6b4e5ea3bb5c0498d2d7aca64fa7e6f7ab7c1b4801b1b423dddb4b1e4fe6f1dd7d5b436c32a2d76fda657f4e70cc0094e1d141c50891013e8</string>
+				<string>5e039d7e1459ecd1af8e7863ec761f9d3a1e5f2a900104e1485972f469831c595da318ab2349ff51369b499c3919656e7acb265e3dba8e5dddb4f488fa9cf698</string>
 			</dict>
 		</dict>
 	</lib>

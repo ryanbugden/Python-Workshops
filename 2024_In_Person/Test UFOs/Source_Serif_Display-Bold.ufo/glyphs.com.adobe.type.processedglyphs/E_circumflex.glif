@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ecircumflex" format="2">
-	<unicode hex="00CA"/>
 	<advance width="532"/>
 	<outline>
 		<contour>
@@ -62,11 +61,11 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 27</string>
-							<string>hstem 321 29</string>
-							<string>hstem 630 27</string>
-							<string>vstem 98 140</string>
-							<string>vstem 371 21</string>
+							<string>hstem 0 24</string>
+							<string>hstem 330 24</string>
+							<string>hstem 646 24</string>
+							<string>vstem 123 71</string>
+							<string>vstem 355 16</string>
 						</array>
 					</dict>
 					<dict>
@@ -74,11 +73,11 @@
 						<string>hintSet0007</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 26.5</string>
-							<string>hstem 321 29</string>
-							<string>hstem 631 26</string>
-							<string>vstem 98 140</string>
-							<string>vstem 371 21</string>
+							<string>hstem 0 20.5</string>
+							<string>hstem 330 24</string>
+							<string>hstem 649.5 20.5</string>
+							<string>vstem 123 71</string>
+							<string>vstem 355 16</string>
 						</array>
 					</dict>
 					<dict>
@@ -86,16 +85,16 @@
 						<string>hintSet0013</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 27</string>
-							<string>hstem 321 29</string>
-							<string>hstem 630 27</string>
-							<string>vstem 98 140</string>
-							<string>vstem 371 21</string>
+							<string>hstem 0 24</string>
+							<string>hstem 330 24</string>
+							<string>hstem 646 24</string>
+							<string>vstem 123 71</string>
+							<string>vstem 355 16</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>b7d7a40d93dbbf278606880d11396fa77afabf3978bccb398a2603560ace4014500056fe5036a79fa9275b9c05e85a6c1913eebadfca2fd49dab9f80f97a4811</string>
+				<string>60fdbc10ede63342ea2e631db75c1d463980e7d8cf434fd3380aaa308486d4a8a61e2c4472e42bf38056e3c5f94f1c81cc47b28d15cc1ea49d9084d65399b938</string>
 			</dict>
 		</dict>
 	</lib>

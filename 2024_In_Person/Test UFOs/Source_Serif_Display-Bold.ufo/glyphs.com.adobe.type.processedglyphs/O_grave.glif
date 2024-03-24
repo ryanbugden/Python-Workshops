@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ograve" format="2">
-	<unicode hex="00D2"/>
 	<advance width="646"/>
 	<outline>
 		<contour>
@@ -61,15 +60,15 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -16 26</string>
-							<string>hstem 647 26</string>
-							<string>vstem 36 151</string>
-							<string>vstem 458 151</string>
+							<string>hstem -16 22</string>
+							<string>hstem 664 22</string>
+							<string>vstem 47 80</string>
+							<string>vstem 513 80</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>5f371dae879fe0420c705c812f0cb24313ed2e17480fd489d7ef83d4a9657b74e931edd8180808865242bad585cff83eb49f5d6906b982c2717f60dcf6dd8f04</string>
+				<string>265cc8e0c9119a30ddced758d481f8a0d52bb47d7fe5519a0db4c3b96b7128b87bd131c79f61ef1826341dab00c0a1bedb02015c05d44dbcca153cc4aefca6b2</string>
 			</dict>
 		</dict>
 	</lib>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lacute" format="2">
-	<unicode hex="013A"/>
 	<advance width="286"/>
 	<outline>
 		<contour>
@@ -12,7 +11,7 @@
 			<point x="213" y="154"/>
 			<point x="213" y="209" type="curve"/>
 			<point x="213" y="521" type="line"/>
-			<point x="217" y="720" type="line"/>
+			<point name="hintSet0006" x="217" y="720" type="line"/>
 			<point x="203" y="731" type="line"/>
 			<point x="20" y="683" type="line"/>
 			<point x="20" y="665" type="line"/>
@@ -53,14 +52,24 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 26</string>
-							<string>hstem 731 -20</string>
-							<string>vstem 80 133</string>
+							<string>hstem 0 20</string>
+							<string>hstem 744 -20</string>
+							<string>vstem 109 67</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0006</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 20</string>
+							<string>hstem 736 -20</string>
+							<string>vstem 109 67</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>613fe0c99b7efa82a215b7ab85c66a63e6e017dd2190e7d7cc2439534c20ab050daad15817bebff99e2a23c8acbe94cefed8b7ab536180348c9041047c713b5b</string>
+				<string>965b3403a779ebb0a067b247d63638fd76782b694f9134f612c579c1725dd04bed97db98c840fd566b34f8d3c91d86b844946d46e5f6a2eda0211065b534d610</string>
 			</dict>
 		</dict>
 	</lib>

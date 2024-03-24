@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zdotbelow" format="2">
+	<advance width="457"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="22" y="0" type="line"/>
+			<point x="430" y="0" type="line"/>
+			<point x="439" y="162" type="line"/>
+			<point x="413" y="162" type="line"/>
+			<point x="344" y="34" type="line"/>
+			<point x="240" y="34" type="line"/>
+			<point x="433" y="446" type="line"/>
+			<point x="433" y="464" type="line"/>
+			<point x="32" y="464" type="line"/>
+			<point x="23" y="300" type="line"/>
+			<point x="42" y="298" type="line"/>
+			<point x="118" y="430" type="line"/>
+			<point x="215" y="430" type="line"/>
+			<point x="22" y="18" type="line"/>
+		</contour>
+		<contour>
+			<point x="239" y="-231" type="curve"/>
+			<point x="286" y="-231"/>
+			<point x="326" y="-195"/>
+			<point x="326" y="-148" type="curve"/>
+			<point x="326" y="-98"/>
+			<point x="286" y="-62"/>
+			<point x="239" y="-62" type="curve"/>
+			<point x="192" y="-62"/>
+			<point x="152" y="-98"/>
+			<point x="152" y="-148" type="curve"/>
+			<point x="152" y="-195"/>
+			<point x="192" y="-231"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -187 105</string>
+							<string>hstem 0 22</string>
+							<string>hstem 430 22</string>
+							<string>vstem 42.5 13.5</string>
+							<string>vstem 162 106</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>203829245b97fa2fe755236af7c6020d6eef37ce3b721ef4ae91e234b1e44716c61271cb43e04f8c61ff23fec0ad5347a27ab47f3596deee2754539855341e99</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

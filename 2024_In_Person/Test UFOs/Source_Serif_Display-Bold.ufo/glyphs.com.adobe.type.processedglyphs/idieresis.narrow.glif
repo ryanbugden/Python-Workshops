@@ -65,10 +65,10 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 26</string>
-							<string>hstem 558 117</string>
-							<string>vstem 20 108</string>
-							<string>vstem 163 108</string>
+							<string>hstem 0 20</string>
+							<string>hstem 569 97</string>
+							<string>vstem 27 97</string>
+							<string>vstem 163 97</string>
 						</array>
 					</dict>
 					<dict>
@@ -76,13 +76,13 @@
 						<string>hintSet0011</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 26</string>
-							<string>vstem 80 133</string>
+							<string>hstem 0 20</string>
+							<string>vstem 109 67</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>9666888e26294a780f065d7cd20e735cc1e6d932d7399de8cbe6cb883184bc44ce581115295f570ae600adb84b0297065fcb6b1bd7a0de99f8a9d1eb1f5bf4a5</string>
+				<string>a28dda21754b7bd67cffcb12f9b39049f01cf8b6ddb3a03faf2043b939abda27108482261ab1ff7b9d8015d9450ba6caa104503691064267f3d7e332a34f36a6</string>
 			</dict>
 		</dict>
 	</lib>

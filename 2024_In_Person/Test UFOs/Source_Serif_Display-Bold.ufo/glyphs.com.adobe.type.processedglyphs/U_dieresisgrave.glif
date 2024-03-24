@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Udieresisgrave" format="2">
-	<unicode hex="01DB"/>
 	<advance width="637"/>
 	<outline>
 		<contour>
@@ -16,12 +15,12 @@
 			<point x="470" y="-16"/>
 			<point x="544" y="59"/>
 			<point x="544" y="260" type="curve"/>
-			<point name="hintSet0006" x="544" y="626" type="line"/>
+			<point x="544" y="626" type="line"/>
 			<point x="608" y="636" type="line"/>
-			<point name="hintSet0008" x="608" y="657" type="line"/>
+			<point x="608" y="657" type="line"/>
 			<point x="442" y="657" type="line"/>
-			<point name="hintSet0010" x="442" y="636" type="line"/>
-			<point name="hintSet0011" x="514" y="626" type="line"/>
+			<point x="442" y="636" type="line"/>
+			<point x="514" y="626" type="line"/>
 			<point x="514" y="244" type="line"/>
 			<point x="514" y="102"/>
 			<point x="456" y="52"/>
@@ -30,7 +29,7 @@
 			<point x="233" y="102"/>
 			<point x="233" y="243" type="curve"/>
 			<point x="233" y="352" type="line"/>
-			<point name="hintSet0016" x="233" y="442"/>
+			<point x="233" y="442"/>
 			<point x="233" y="549"/>
 			<point x="236" y="627" type="curve"/>
 			<point x="299" y="636" type="line"/>
@@ -91,65 +90,10 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -16 68</string>
-							<string>hstem 631.5 25.5</string>
-							<string>vstem 93 140</string>
-							<string>vstem 514 30</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hintSet0006</string>
-						<key>stems</key>
-						<array>
-							<string>hstem -16 68</string>
-							<string>hstem 636 21</string>
-							<string>vstem 93 140</string>
-							<string>vstem 514 30</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hintSet0008</string>
-						<key>stems</key>
-						<array>
-							<string>hstem -16 68</string>
-							<string>hstem 631.5 25.5</string>
-							<string>vstem 93 140</string>
-							<string>vstem 514 30</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hintSet0010</string>
-						<key>stems</key>
-						<array>
-							<string>hstem -16 68</string>
-							<string>hstem 636 21</string>
-							<string>vstem 93 140</string>
-							<string>vstem 514 30</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hintSet0011</string>
-						<key>stems</key>
-						<array>
-							<string>hstem -16 68</string>
-							<string>hstem 631 26</string>
-							<string>vstem 93 140</string>
-							<string>vstem 514 30</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hintSet0016</string>
-						<key>stems</key>
-						<array>
-							<string>hstem -16 68</string>
-							<string>hstem 631.5 25.5</string>
-							<string>vstem 93 140</string>
-							<string>vstem 514 30</string>
+							<string>hstem -16 45</string>
+							<string>hstem 649.5 20.5</string>
+							<string>vstem 115 71</string>
+							<string>vstem 522 27</string>
 						</array>
 					</dict>
 					<dict>
@@ -157,16 +101,18 @@
 						<string>hintSet0020</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -16 68</string>
-							<string>hstem 631.5 25.5</string>
-							<string>hstem 716 118</string>
-							<string>vstem 191 122</string>
-							<string>vstem 413 122</string>
+							<string>hstem -16 45</string>
+							<string>hstem 649.5 20.5</string>
+							<string>hstem 734 97</string>
+							<string>vstem 115 71</string>
+							<string>vstem 201 97</string>
+							<string>vstem 398 97</string>
+							<string>vstem 522 27</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>ca32385565d1ab85efd705251970dccad8dea99d77884065dfad94c7f0f693ed845945c925ce08ddbec5fb5d63c0c4b0a538e9cee61b5050f70dce37e5d00624</string>
+				<string>5096d198c85fadcf9925fd4101d946b436eeea3da690fb22739a936e7a3bf6188b9a2e7ac1755ff11f94c01a6a6a2f27ffa3c784d0a9672cd928a6127f908fdc</string>
 			</dict>
 		</dict>
 	</lib>

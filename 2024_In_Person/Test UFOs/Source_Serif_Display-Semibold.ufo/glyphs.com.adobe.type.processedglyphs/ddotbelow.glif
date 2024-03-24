@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ddotbelow" format="2">
+	<advance width="538"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="150" y="222" type="curve"/>
+			<point x="150" y="356"/>
+			<point x="199" y="413"/>
+			<point x="259" y="413" type="curve"/>
+			<point x="296" y="413"/>
+			<point x="319" y="401"/>
+			<point x="348" y="371" type="curve"/>
+			<point x="348" y="94" type="line"/>
+			<point x="323" y="63"/>
+			<point x="294" y="42"/>
+			<point x="259" y="42" type="curve"/>
+			<point x="196" y="42"/>
+			<point x="150" y="92"/>
+		</contour>
+		<contour>
+			<point name="hintSet0006" x="348" y="-12" type="line"/>
+			<point name="hintSet0007" x="514" y="0" type="line"/>
+			<point name="hintSet0008" x="514" y="20" type="line"/>
+			<point name="hintSet0009" x="455" y="28" type="line"/>
+			<point x="455" y="525" type="line"/>
+			<point x="459" y="726" type="line"/>
+			<point x="448" y="736" type="line"/>
+			<point x="284" y="693" type="line"/>
+			<point x="284" y="677" type="line"/>
+			<point x="349" y="660" type="line"/>
+			<point x="349" y="397" type="line"/>
+			<point x="317" y="448"/>
+			<point x="277" y="469"/>
+			<point x="229" y="469" type="curve"/>
+			<point x="122" y="469"/>
+			<point x="38" y="375"/>
+			<point x="38" y="215" type="curve"/>
+			<point x="38" y="65"/>
+			<point x="113" y="-14"/>
+			<point x="214" y="-14" type="curve"/>
+			<point x="273" y="-14"/>
+			<point x="318" y="20"/>
+			<point x="348" y="69" type="curve"/>
+		</contour>
+		<contour>
+			<point x="270" y="-200" type="curve"/>
+			<point x="305" y="-200"/>
+			<point x="333" y="-175"/>
+			<point x="333" y="-138" type="curve"/>
+			<point x="333" y="-101"/>
+			<point x="305" y="-76"/>
+			<point x="270" y="-76" type="curve"/>
+			<point x="236" y="-76"/>
+			<point x="207" y="-101"/>
+			<point x="207" y="-138" type="curve"/>
+			<point x="207" y="-175"/>
+			<point x="236" y="-200"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -187 105</string>
+							<string>hstem -12 37</string>
+							<string>hstem 426 38</string>
+							<string>hstem 744 -20</string>
+							<string>vstem 44 71</string>
+							<string>vstem 365 67</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0006</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -187 105</string>
+							<string>hstem -10 30.5</string>
+							<string>hstem 426 38</string>
+							<string>hstem 744 -20</string>
+							<string>vstem 44 71</string>
+							<string>vstem 365 67</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0007</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -187 105</string>
+							<string>hstem 21 -21</string>
+							<string>hstem 426 38</string>
+							<string>hstem 744 -20</string>
+							<string>vstem 44 71</string>
+							<string>vstem 365 67</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0008</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -187 105</string>
+							<string>hstem -10 30.5</string>
+							<string>hstem 426 38</string>
+							<string>hstem 744 -20</string>
+							<string>vstem 44 71</string>
+							<string>vstem 365 67</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0009</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -187 105</string>
+							<string>hstem -12 37</string>
+							<string>hstem 426 38</string>
+							<string>hstem 736 -20</string>
+							<string>vstem 44 71</string>
+							<string>vstem 198 106</string>
+							<string>vstem 365 67</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>9f5445b0971e4119701838febdebd2e80cba67c1e94973974ea2380948561293b9e7ab9761b79c3c00cb00d1a0ff03b543e31e42fee5f2dcba5ff0b9b50ff532</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

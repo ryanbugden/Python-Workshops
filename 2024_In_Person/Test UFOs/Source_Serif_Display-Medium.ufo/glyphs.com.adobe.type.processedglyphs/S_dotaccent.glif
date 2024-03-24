@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sdotaccent" format="2">
+	<advance width="474"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="217" y="-16" type="curve"/>
+			<point x="358" y="-16"/>
+			<point x="434" y="58"/>
+			<point x="434" y="174" type="curve"/>
+			<point x="434" y="286"/>
+			<point x="354" y="330"/>
+			<point x="275" y="368" type="curve"/>
+			<point x="241" y="385" type="line"/>
+			<point x="176" y="416"/>
+			<point x="118" y="454"/>
+			<point x="118" y="528" type="curve"/>
+			<point x="118" y="624"/>
+			<point x="181" y="661"/>
+			<point x="254" y="661" type="curve"/>
+			<point name="hintSet0006" x="284" y="661"/>
+			<point x="312" y="658"/>
+			<point x="340" y="645" type="curve"/>
+			<point x="384" y="490" type="line"/>
+			<point x="401" y="490" type="line"/>
+			<point x="405" y="635" type="line"/>
+			<point x="368" y="665"/>
+			<point x="319" y="683"/>
+			<point x="253" y="683" type="curve"/>
+			<point x="137" y="683"/>
+			<point x="51" y="617"/>
+			<point x="51" y="503" type="curve"/>
+			<point x="51" y="394"/>
+			<point x="128" y="348"/>
+			<point x="205" y="311" type="curve"/>
+			<point x="239" y="294" type="line"/>
+			<point name="hintSet0014" x="305" y="263"/>
+			<point x="362" y="227"/>
+			<point x="362" y="151" type="curve"/>
+			<point x="362" y="48"/>
+			<point x="300" y="6"/>
+			<point x="216" y="6" type="curve"/>
+			<point x="171" y="6"/>
+			<point x="140" y="13"/>
+			<point x="105" y="30" type="curve"/>
+			<point x="65" y="189" type="line"/>
+			<point x="48" y="189" type="line"/>
+			<point x="40" y="36" type="line"/>
+			<point name="hintSet0020" x="85" y="5"/>
+			<point x="147" y="-16"/>
+		</contour>
+		<contour>
+			<point name="hintSet0021" x="254" y="738" type="curve"/>
+			<point x="285" y="738"/>
+			<point x="310" y="759"/>
+			<point x="310" y="793" type="curve"/>
+			<point x="310" y="828"/>
+			<point x="285" y="849"/>
+			<point x="254" y="849" type="curve"/>
+			<point x="223" y="849"/>
+			<point x="197" y="828"/>
+			<point x="197" y="793" type="curve"/>
+			<point x="197" y="759"/>
+			<point x="223" y="738"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -16 21</string>
+							<string>hstem 665 21</string>
+							<string>vstem 52 58</string>
+							<string>vstem 367 62</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0006</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -16 21</string>
+							<string>hstem 665 21</string>
+							<string>vstem 52 58</string>
+							<string>vstem 381 18</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0014</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -16 21</string>
+							<string>hstem 665 21</string>
+							<string>vstem 44 20</string>
+							<string>vstem 367 62</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0020</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -16 21</string>
+							<string>hstem 665 21</string>
+							<string>vstem 52 58</string>
+							<string>vstem 367 62</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0021</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -16 21</string>
+							<string>hstem 665 21</string>
+							<string>hstem 744 105</string>
+							<string>vstem 52 58</string>
+							<string>vstem 199 106</string>
+							<string>vstem 367 62</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>aa0af4d69e0825bdc1439dd5d73e43ef489add736f5f4340c0cee2b204710ed1cd821c28551bde353ca92c9777f66717a719cb4e2176281defa3f0907c3b16fc</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

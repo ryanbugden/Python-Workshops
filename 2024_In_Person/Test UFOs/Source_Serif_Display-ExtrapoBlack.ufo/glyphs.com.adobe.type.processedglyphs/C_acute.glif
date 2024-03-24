@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Cacute" format="2">
+	<advance width="560"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="351" y="-16" type="curve"/>
+			<point x="407" y="-16"/>
+			<point x="471" y="-1"/>
+			<point x="506" y="16" type="curve"/>
+			<point x="516" y="200" type="line"/>
+			<point x="489" y="200" type="line"/>
+			<point x="394" y="16" type="line"/>
+			<point x="386" y="17"/>
+			<point x="377" y="15"/>
+			<point x="367" y="15" type="curve"/>
+			<point x="303" y="15"/>
+			<point x="241" y="85"/>
+			<point x="241" y="320" type="curve"/>
+			<point x="241" y="556"/>
+			<point x="303" y="629"/>
+			<point x="364" y="629" type="curve"/>
+			<point x="371" y="629"/>
+			<point x="385" y="627"/>
+			<point x="397" y="627" type="curve"/>
+			<point x="492" y="462" type="line"/>
+			<point x="520" y="462" type="line"/>
+			<point x="508" y="627" type="line"/>
+			<point x="469" y="645"/>
+			<point x="416" y="660"/>
+			<point x="350" y="660" type="curve"/>
+			<point x="211" y="660"/>
+			<point x="25" y="585"/>
+			<point x="25" y="320" type="curve"/>
+			<point x="25" y="63"/>
+			<point x="198" y="-16"/>
+		</contour>
+		<contour>
+			<point x="253" y="705" type="curve"/>
+			<point x="269" y="681" type="line"/>
+			<point x="350" y="711"/>
+			<point x="403" y="722"/>
+			<point x="443" y="736" type="curve"/>
+			<point x="494" y="755"/>
+			<point x="504" y="779"/>
+			<point x="504" y="801" type="curve"/>
+			<point x="504" y="830"/>
+			<point x="482" y="868"/>
+			<point x="442" y="868" type="curve"/>
+			<point x="416" y="868"/>
+			<point x="399" y="857"/>
+			<point x="368" y="828" type="curve"/>
+			<point x="301" y="765"/>
+			<point x="278" y="735"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -16 21</string>
+							<string>hstem 665 21</string>
+							<string>vstem 47 80</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>78a2dc7bb9c1654146d854e96d52db075435769fa528e930389ef729533e9cab71792cfa98f5e8306827128979a3888551811e6432f812c2f9b5dc88b0101131</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name=".notdef" format="2">
+	<advance width="640"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="80" y="0" type="line"/>
+			<point x="560" y="0" type="line"/>
+			<point x="560" y="662" type="line"/>
+			<point x="80" y="662" type="line"/>
+		</contour>
+		<contour>
+			<point x="193" y="59" type="line"/>
+			<point x="320" y="267" type="line"/>
+			<point x="447" y="59" type="line"/>
+		</contour>
+		<contour>
+			<point x="149" y="549" type="line"/>
+			<point x="282" y="331" type="line"/>
+			<point x="149" y="114" type="line"/>
+		</contour>
+		<contour>
+			<point x="358" y="331" type="line"/>
+			<point x="491" y="549" type="line"/>
+			<point x="491" y="114" type="line"/>
+		</contour>
+		<contour>
+			<point x="193" y="604" type="line"/>
+			<point x="447" y="604" type="line"/>
+			<point x="320" y="395" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 51</string>
+							<string>hstem 620 50</string>
+							<string>vstem 80 61</string>
+							<string>vstem 499 61</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w640l800l5600l560670l80670l17351l320286l46751l141572l290335l14198l350335l499572l49998l172620l468620l320384</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

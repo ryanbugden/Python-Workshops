@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zacute" format="2">
-	<unicode hex="0179"/>
 	<advance width="520"/>
 	<outline>
 		<contour>
@@ -49,14 +48,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 27</string>
-							<string>hstem 630 27</string>
-							<string>vstem 24 473</string>
+							<string>hstem 0 24</string>
+							<string>hstem 646 24</string>
+							<string>vstem 24 457</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>021f8815397de05acecf1dc0bfc55920ca51704aaf516faa6d19d52b76f11167b2ea48e80f6ccd980c5a5a9089e9696c3c44be763feeeee7267c8cf564b44f27</string>
+				<string>7f011dd5f1f5d5742db06326beac18a588a27004f752dd023bb22d27614c08c9ff514096eb4e79b62617008c5fe9e43812f13e830633d0c9241a24916c6d9e22</string>
 			</dict>
 		</dict>
 	</lib>

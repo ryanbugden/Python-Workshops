@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tcommaaccent" format="2">
-	<unicode hex="021A"/>
 	<advance width="580"/>
 	<outline>
 		<contour>
@@ -66,9 +65,9 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 27</string>
-							<string>hstem 630 27</string>
-							<string>vstem 220 140</string>
+							<string>hstem 0 21</string>
+							<string>hstem 646 24</string>
+							<string>vstem 249 71</string>
 						</array>
 					</dict>
 					<dict>
@@ -76,14 +75,14 @@
 						<string>hintSet0020</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 27</string>
-							<string>hstem 630 27</string>
-							<string>vstem 235 108</string>
+							<string>hstem 0 21</string>
+							<string>hstem 646 24</string>
+							<string>vstem 243 93</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>fbca4f7d80b5e84f35184bc9ac092050270f6f82890bc5b14640f8a802a0511f3fbffd24a000ab72b648ceb296f9af22b2c509dcb1ef8798322d955ae9eae183</string>
+				<string>4dcae3d20f1c59ec21323b12180026e4df0c381d92b852af80d631423bbae6a7c086e023a79405a4ce734963532225593980308d6d31258c6aa6a094c98b0c81</string>
 			</dict>
 		</dict>
 	</lib>

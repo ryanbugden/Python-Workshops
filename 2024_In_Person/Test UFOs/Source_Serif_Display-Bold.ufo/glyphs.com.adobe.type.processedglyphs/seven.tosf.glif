@@ -24,13 +24,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 386 112</string>
-							<string>vstem 42 423</string>
+							<string>hstem -137 12</string>
+							<string>hstem 446 64</string>
+							<string>vstem 40 390</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w508l108-133l243-133l465425l465498l42498l42386l411386l100-118</string>
+				<string>w470l127-137l202-137l430476l430510l40510l40446l394446l119-125</string>
 			</dict>
 		</dict>
 	</lib>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="S" format="2">
+	<advance width="473"/>
+	<outline>
+		<contour>
+			<point x="217" y="-16" type="curve" smooth="yes"/>
+			<point x="356" y="-16"/>
+			<point x="432" y="57"/>
+			<point x="432" y="173" type="curve" smooth="yes"/>
+			<point x="432" y="286"/>
+			<point x="353" y="329"/>
+			<point x="273" y="367" type="curve" smooth="yes"/>
+			<point x="239" y="384" type="line" smooth="yes"/>
+			<point x="174" y="415"/>
+			<point x="116" y="453"/>
+			<point x="116" y="528" type="curve" smooth="yes"/>
+			<point x="116" y="626"/>
+			<point x="179" y="662"/>
+			<point x="252" y="662" type="curve" smooth="yes"/>
+			<point x="301" y="662"/>
+			<point x="343" y="656"/>
+			<point x="388" y="611" type="curve"/>
+			<point x="384" y="637" type="line"/>
+			<point x="336" y="657" type="line"/>
+			<point x="383" y="491" type="line"/>
+			<point x="400" y="491" type="line"/>
+			<point x="404" y="636" type="line"/>
+			<point x="367" y="666"/>
+			<point x="318" y="684"/>
+			<point x="252" y="684" type="curve" smooth="yes"/>
+			<point x="138" y="684"/>
+			<point x="51" y="619"/>
+			<point x="51" y="505" type="curve" smooth="yes"/>
+			<point x="51" y="396"/>
+			<point x="129" y="350"/>
+			<point x="205" y="313" type="curve" smooth="yes"/>
+			<point x="240" y="296" type="line" smooth="yes"/>
+			<point x="306" y="265"/>
+			<point x="363" y="229"/>
+			<point x="363" y="152" type="curve" smooth="yes"/>
+			<point x="363" y="47"/>
+			<point x="301" y="6"/>
+			<point x="216" y="6" type="curve" smooth="yes"/>
+			<point x="155" y="6"/>
+			<point x="120" y="18"/>
+			<point x="64" y="52" type="curve"/>
+			<point x="64" y="37" type="line"/>
+			<point x="108" y="12" type="line"/>
+			<point x="65" y="188" type="line"/>
+			<point x="48" y="188" type="line"/>
+			<point x="40" y="36" type="line"/>
+			<point x="84" y="6"/>
+			<point x="146" y="-16"/>
+		</contour>
+	</outline>
+	<anchor name="aboveUC" x="253" y="688"/>
+	<anchor name="baseLC" x="219" y="0"/>
+	<anchor name="belowLC" x="222" y="-20"/>
+</glyph>

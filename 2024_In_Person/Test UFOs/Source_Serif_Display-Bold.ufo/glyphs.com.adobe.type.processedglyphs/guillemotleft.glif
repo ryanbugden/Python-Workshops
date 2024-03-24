@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guillemotleft" format="2">
-	<unicode hex="00AB"/>
 	<advance width="509"/>
 	<outline>
 		<contour>
@@ -33,13 +32,13 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 28 426</string>
-							<string>vstem 22 452</string>
+							<string>hstem 38 401</string>
+							<string>vstem 28 395</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w509l26028l27342l126241l273440l260454l22257l22225l46128l47442l327241l474440l461454l223257l223225</string>
+				<string>w443l22638l23850l86238l238427l226439l28254l28222l41138l42350l271238l423427l411439l213254l213222</string>
 			</dict>
 		</dict>
 	</lib>

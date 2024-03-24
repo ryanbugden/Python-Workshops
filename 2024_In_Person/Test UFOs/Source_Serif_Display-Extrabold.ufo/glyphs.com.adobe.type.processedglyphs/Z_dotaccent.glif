@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zdotaccent" format="2">
+	<advance width="524"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="24" y="0" type="line"/>
+			<point x="488" y="0" type="line"/>
+			<point x="500" y="188" type="line"/>
+			<point x="478" y="188" type="line"/>
+			<point x="406" y="28" type="line"/>
+			<point x="195" y="28" type="line"/>
+			<point x="489" y="635" type="line"/>
+			<point x="489" y="654" type="line"/>
+			<point x="47" y="654" type="line"/>
+			<point x="35" y="472" type="line"/>
+			<point x="58" y="472" type="line"/>
+			<point x="130" y="627" type="line"/>
+			<point x="319" y="627" type="line"/>
+			<point x="24" y="20" type="line"/>
+		</contour>
+		<contour>
+			<point x="266" y="708" type="curve"/>
+			<point x="305" y="708"/>
+			<point x="339" y="736"/>
+			<point x="339" y="779" type="curve"/>
+			<point x="339" y="822"/>
+			<point x="305" y="850"/>
+			<point x="266" y="850" type="curve"/>
+			<point x="226" y="850"/>
+			<point x="192" y="822"/>
+			<point x="192" y="779" type="curve"/>
+			<point x="192" y="736"/>
+			<point x="226" y="708"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 24</string>
+							<string>hstem 646 24</string>
+							<string>hstem 744 105</string>
+							<string>vstem 191 106</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>8ff51bf484adc986b86432d898e9b46a74d506dc184fbe74c03c343b6f8f254a94bbc283c818bd7df9a9f8ea8d42163d31b5e2f52616e8ad11ea2d536f737ee4</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

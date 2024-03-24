@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ncaron" format="2">
+	<advance width="560"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="33" y="0" type="line"/>
+			<point x="248" y="0" type="line"/>
+			<point x="248" y="17" type="line"/>
+			<point x="186" y="25" type="line"/>
+			<point x="183" y="77"/>
+			<point x="183" y="157"/>
+			<point x="183" y="211" type="curve"/>
+			<point x="183" y="350" type="line"/>
+			<point x="227" y="389"/>
+			<point x="267" y="412"/>
+			<point x="311" y="412" type="curve"/>
+			<point x="366" y="412"/>
+			<point x="388" y="389"/>
+			<point x="388" y="307" type="curve"/>
+			<point x="388" y="211" type="line"/>
+			<point x="388" y="157"/>
+			<point x="387" y="77"/>
+			<point x="385" y="26" type="curve"/>
+			<point x="319" y="17" type="line"/>
+			<point x="319" y="0" type="line"/>
+			<point x="534" y="0" type="line"/>
+			<point x="534" y="17" type="line"/>
+			<point x="471" y="25" type="line"/>
+			<point x="469" y="77"/>
+			<point x="468" y="157"/>
+			<point x="468" y="211" type="curve"/>
+			<point x="468" y="308" type="line"/>
+			<point x="468" y="423"/>
+			<point x="426" y="465"/>
+			<point x="350" y="465" type="curve"/>
+			<point x="283" y="465"/>
+			<point x="224" y="422"/>
+			<point x="183" y="372" type="curve"/>
+			<point name="hintSet0019" x="183" y="457" type="line"/>
+			<point x="174" y="465" type="line"/>
+			<point x="29" y="420" type="line"/>
+			<point x="29" y="405" type="line"/>
+			<point x="101" y="388" type="line"/>
+			<point x="103" y="347"/>
+			<point x="104" y="312"/>
+			<point x="104" y="255" type="curve"/>
+			<point x="104" y="211" type="line"/>
+			<point x="104" y="157"/>
+			<point x="103" y="78"/>
+			<point x="101" y="26" type="curve"/>
+			<point x="33" y="17" type="line"/>
+		</contour>
+		<contour>
+			<point x="162" y="724" type="line"/>
+			<point x="146" y="710" type="line"/>
+			<point x="269" y="541" type="line"/>
+			<point x="302" y="541" type="line"/>
+			<point x="425" y="710" type="line"/>
+			<point x="410" y="724" type="line"/>
+			<point x="286" y="614" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 20</string>
+							<string>hstem 415 49</string>
+							<string>vstem 109 67</string>
+							<string>vstem 394 68</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0019</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 20</string>
+							<string>hstem 456 -20</string>
+							<string>vstem 109 67</string>
+							<string>vstem 394 68</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>fb6f6f595171ba450f191644cadb6471387d411471a75e943c216b4c36eb16ca1b40a0c84e3064204f2ecd87fb949b59f9af40ea24e96a88bdd671add013bb16</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

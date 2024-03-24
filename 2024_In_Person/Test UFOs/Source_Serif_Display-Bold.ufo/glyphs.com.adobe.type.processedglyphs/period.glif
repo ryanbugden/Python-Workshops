@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="period" format="2">
-	<unicode hex="002E"/>
 	<advance width="261"/>
 	<outline>
 		<contour>
@@ -29,13 +28,13 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -11 150</string>
-							<string>vstem 56 149</string>
+							<string>hstem -7 108</string>
+							<string>vstem 75 108</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w261c130-11172-1120522c20564205105172139c1301398913956105c5664562289-11</string>
+				<string>w258c129-7159-718314c1834718379159101c1291011001017579c75477514100-7</string>
 			</dict>
 		</dict>
 	</lib>

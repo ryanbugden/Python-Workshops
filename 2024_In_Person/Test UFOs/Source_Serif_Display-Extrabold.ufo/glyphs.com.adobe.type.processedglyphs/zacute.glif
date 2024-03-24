@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zacute" format="2">
+	<advance width="439"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="24" y="0" type="line"/>
+			<point x="411" y="0" type="line"/>
+			<point x="419" y="160" type="line"/>
+			<point x="398" y="160" type="line"/>
+			<point x="338" y="29" type="line"/>
+			<point x="187" y="29" type="line"/>
+			<point x="411" y="444" type="line"/>
+			<point x="411" y="459" type="line"/>
+			<point x="37" y="459" type="line"/>
+			<point x="30" y="305" type="line"/>
+			<point x="48" y="303" type="line"/>
+			<point x="111" y="430" type="line"/>
+			<point x="248" y="430" type="line"/>
+			<point x="24" y="16" type="line"/>
+		</contour>
+		<contour>
+			<point x="176" y="546" type="curve"/>
+			<point x="194" y="530" type="line"/>
+			<point x="218" y="546"/>
+			<point x="240" y="558"/>
+			<point x="302" y="603" type="curve"/>
+			<point x="341" y="631"/>
+			<point x="370" y="655"/>
+			<point x="370" y="683" type="curve"/>
+			<point x="370" y="716"/>
+			<point x="345" y="735"/>
+			<point x="320" y="735" type="curve"/>
+			<point x="290" y="735"/>
+			<point x="271" y="711"/>
+			<point x="247" y="670" type="curve"/>
+			<point x="207" y="600"/>
+			<point x="190" y="571"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 22</string>
+							<string>hstem 430 22</string>
+							<string>vstem 42.5 13.5</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>5de962313950ffad7f1849eca67ff38df32dfacca89fd4115710c03ace298a7ec69d37fee36a44a3ebdd543b2b98ba3b59638ffd642f7c0b6d8eeb16719856ee</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Dcaron" format="2">
-	<unicode hex="010E"/>
 	<advance width="640"/>
 	<outline>
 		<contour>
@@ -62,10 +61,10 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 27</string>
-							<string>hstem 630 27</string>
-							<string>vstem 98 140</string>
-							<string>vstem 456 148</string>
+							<string>hstem 0 24</string>
+							<string>hstem 646 24</string>
+							<string>vstem 123 71</string>
+							<string>vstem 509 80</string>
 						</array>
 					</dict>
 					<dict>
@@ -73,10 +72,10 @@
 						<string>hintSet0008</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 26.5</string>
-							<string>hstem 631 26</string>
-							<string>vstem 98 140</string>
-							<string>vstem 456 148</string>
+							<string>hstem 0 20.5</string>
+							<string>hstem 649.5 20.5</string>
+							<string>vstem 123 71</string>
+							<string>vstem 509 80</string>
 						</array>
 					</dict>
 					<dict>
@@ -84,15 +83,15 @@
 						<string>hintSet0014</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 27</string>
-							<string>hstem 630 27</string>
-							<string>vstem 98 140</string>
-							<string>vstem 456 148</string>
+							<string>hstem 0 24</string>
+							<string>hstem 646 24</string>
+							<string>vstem 123 71</string>
+							<string>vstem 509 80</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>c4251354883f5415c5d78440e4de95973faf74efa33f3d1ed4571f9f7c4e0ffc70480efd7c0dd9a2cbf522dfddd5892976712d5fb8fd2a749db525b3591a4626</string>
+				<string>55b048ca6c7cfcf06fee02bab6b168a7ebcb442a853813b86c0b96e1c2297d72af737991cf9a3e244639bc51094889553669e2fcdc9594311c77147cebfa7472</string>
 			</dict>
 		</dict>
 	</lib>

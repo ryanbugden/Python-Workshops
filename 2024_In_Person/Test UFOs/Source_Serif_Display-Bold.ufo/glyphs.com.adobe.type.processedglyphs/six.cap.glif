@@ -27,14 +27,14 @@
 			<point x="484" y="335"/>
 			<point x="403" y="394"/>
 			<point x="309" y="394" type="curve"/>
-			<point x="260" y="394"/>
+			<point name="hintSet0009" x="260" y="394"/>
 			<point x="218" y="380"/>
 			<point x="181" y="338" type="curve"/>
 			<point x="204" y="508"/>
 			<point x="287" y="610"/>
 			<point x="439" y="652" type="curve"/>
 			<point x="435" y="673" type="line"/>
-			<point x="194" y="651"/>
+			<point name="hintSet0012" x="194" y="651"/>
 			<point x="31" y="464"/>
 			<point x="31" y="256" type="curve"/>
 			<point x="31" y="82"/>
@@ -52,16 +52,40 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -15 26</string>
-							<string>hstem 341 53</string>
-							<string>hstem 673 -20</string>
-							<string>vstem 31 143</string>
-							<string>vstem 345 139</string>
+							<string>hstem -12 21</string>
+							<string>hstem 362 41</string>
+							<string>hstem 686 -20</string>
+							<string>vstem 48 74</string>
+							<string>vstem 376 69</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0009</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -12 21</string>
+							<string>hstem 362 41</string>
+							<string>hstem 686 -20</string>
+							<string>vstem 48 77</string>
+							<string>vstem 376 69</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0012</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -12 21</string>
+							<string>hstem 362 41</string>
+							<string>hstem 686 -20</string>
+							<string>vstem 48 74</string>
+							<string>vstem 376 69</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>921d110c121c283970da8ab05706b40528299fc8994ca60e9fc21fc110d580b54b1952a746aa451916981f9b982c81b2481ff39e36a22170c692a95e0f05db6b</string>
+				<string>efb93717b70e311995886bb0845d03dad69b014be1064d123e3dfa06177303cac8dea12b910f13d88b3bb2920a5bd96ff68d26fde694326708a0317c4a48576d</string>
 			</dict>
 		</dict>
 	</lib>

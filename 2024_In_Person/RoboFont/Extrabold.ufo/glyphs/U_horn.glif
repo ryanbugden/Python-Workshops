@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uhorn" format="2">
+	<advance width="661"/>
+	<outline>
+		<contour>
+			<point x="337" y="-16" type="curve" smooth="yes"/>
+			<point x="462" y="-16"/>
+			<point x="549" y="53"/>
+			<point x="549" y="243" type="curve" smooth="yes"/>
+			<point x="549" y="669" type="line"/>
+			<point x="521" y="669" type="line"/>
+			<point x="521" y="247" type="line" smooth="yes"/>
+			<point x="521" y="80"/>
+			<point x="453" y="31"/>
+			<point x="349" y="31" type="curve" smooth="yes"/>
+			<point x="255" y="31"/>
+			<point x="190" y="86"/>
+			<point x="190" y="237" type="curve" smooth="yes"/>
+			<point x="190" y="359" type="line" smooth="yes"/>
+			<point x="190" y="462"/>
+			<point x="190" y="589"/>
+			<point x="194" y="669" type="curve"/>
+			<point x="109" y="669" type="line"/>
+			<point x="113" y="589"/>
+			<point x="113" y="462"/>
+			<point x="113" y="359" type="curve" smooth="yes"/>
+			<point x="113" y="224" type="line" smooth="yes"/>
+			<point x="113" y="50"/>
+			<point x="211" y="-16"/>
+		</contour>
+		<contour>
+			<point x="542" y="643" type="line"/>
+			<point x="607" y="646"/>
+			<point x="652" y="672"/>
+			<point x="652" y="752" type="curve" smooth="yes"/>
+			<point x="652" y="769"/>
+			<point x="648" y="792"/>
+			<point x="641" y="806" type="curve"/>
+			<point x="633" y="813"/>
+			<point x="625" y="816"/>
+			<point x="613" y="816" type="curve" smooth="yes"/>
+			<point x="595" y="816"/>
+			<point x="579" y="802"/>
+			<point x="579" y="781" type="curve" smooth="yes"/>
+			<point x="579" y="756"/>
+			<point x="615" y="738"/>
+			<point x="615" y="711" type="curve" smooth="yes"/>
+			<point x="615" y="684"/>
+			<point x="593" y="669"/>
+			<point x="542" y="669" type="curve"/>
+		</contour>
+		<contour>
+			<point x="38" y="653" type="line"/>
+			<point x="135" y="640" type="line"/>
+			<point x="169" y="640" type="line"/>
+			<point x="271" y="653" type="line"/>
+			<point x="271" y="669" type="line"/>
+			<point x="38" y="669" type="line"/>
+		</contour>
+		<contour>
+			<point x="438" y="653" type="line"/>
+			<point x="529" y="642" type="line"/>
+			<point x="542" y="642" type="line"/>
+			<point x="542" y="669" type="line"/>
+			<point x="438" y="669" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="aboveUC" x="349" y="689"/>
+	<anchor name="belowLC" x="333" y="-20"/>
+</glyph>

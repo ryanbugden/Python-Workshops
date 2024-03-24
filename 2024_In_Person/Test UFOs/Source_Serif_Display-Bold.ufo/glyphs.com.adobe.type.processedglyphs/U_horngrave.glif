@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uhorngrave" format="2">
-	<unicode hex="1EEA"/>
 	<advance width="637"/>
 	<outline>
 		<contour>
@@ -28,8 +27,8 @@
 			<point x="578" y="657"/>
 			<point x="525" y="657" type="curve"/>
 			<point x="442" y="657" type="line"/>
-			<point name="hintSet0010" x="442" y="636" type="line"/>
-			<point name="hintSet0011" x="514" y="626" type="line"/>
+			<point x="442" y="636" type="line"/>
+			<point x="514" y="626" type="line"/>
 			<point x="514" y="244" type="line"/>
 			<point x="514" y="102"/>
 			<point x="456" y="52"/>
@@ -38,7 +37,7 @@
 			<point x="233" y="102"/>
 			<point x="233" y="243" type="curve"/>
 			<point x="233" y="352" type="line"/>
-			<point name="hintSet0016" x="233" y="442"/>
+			<point x="233" y="442"/>
 			<point x="233" y="549"/>
 			<point x="236" y="627" type="curve"/>
 			<point x="299" y="636" type="line"/>
@@ -83,10 +82,11 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -16 68</string>
-							<string>hstem 631.5 25.5</string>
-							<string>vstem 93 140</string>
-							<string>vstem 514 30</string>
+							<string>hstem -16 45</string>
+							<string>hstem 649.5 20.5</string>
+							<string>vstem 115 71</string>
+							<string>vstem 522 27</string>
+							<string>vstem 616 35</string>
 						</array>
 					</dict>
 					<dict>
@@ -94,11 +94,11 @@
 						<string>hintSet0002</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -16 68</string>
-							<string>hstem 634 23</string>
-							<string>vstem 93 140</string>
-							<string>vstem 514 30</string>
-							<string>vstem 599 61</string>
+							<string>hstem -16 45</string>
+							<string>hstem 644 26</string>
+							<string>vstem 115 71</string>
+							<string>vstem 522 27</string>
+							<string>vstem 616 35</string>
 						</array>
 					</dict>
 					<dict>
@@ -106,49 +106,16 @@
 						<string>hintSet0007</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -16 68</string>
-							<string>hstem 631.5 25.5</string>
-							<string>vstem 93 140</string>
-							<string>vstem 514 30</string>
-							<string>vstem 599 61</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hintSet0010</string>
-						<key>stems</key>
-						<array>
-							<string>hstem -16 68</string>
-							<string>hstem 636 21</string>
-							<string>vstem 93 140</string>
-							<string>vstem 514 30</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hintSet0011</string>
-						<key>stems</key>
-						<array>
-							<string>hstem -16 68</string>
-							<string>hstem 631 26</string>
-							<string>vstem 93 140</string>
-							<string>vstem 514 30</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hintSet0016</string>
-						<key>stems</key>
-						<array>
-							<string>hstem -16 68</string>
-							<string>hstem 631.5 25.5</string>
-							<string>vstem 93 140</string>
-							<string>vstem 514 30</string>
+							<string>hstem -16 45</string>
+							<string>hstem 649.5 20.5</string>
+							<string>vstem 115 71</string>
+							<string>vstem 522 27</string>
+							<string>vstem 616 35</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>0b34c88ce1d5798ba1856fc9533c65261373e0803fddbe6941e088e75f23232e825a17ba098a3fa548e7a7d273a6f99c4aeea86b407b26c05b0114ec2a4600c5</string>
+				<string>f8c6ed1cc9bbd099c73b48d97be86b390724a4207e5e2be464f020f9c44e2a7f103ce3a46124a5cb45826bbb4c62582676b61f4624180728b21c66b230bbe83f</string>
 			</dict>
 		</dict>
 	</lib>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="question" format="2">
-	<unicode hex="003F"/>
 	<advance width="382"/>
 	<outline>
 		<contour>
@@ -42,7 +41,7 @@
 			<point x="88" y="310"/>
 			<point x="95" y="286"/>
 			<point x="107" y="253" type="curve"/>
-			<point x="120" y="218" type="line"/>
+			<point name="hintSet0015" x="120" y="218" type="line"/>
 			<point x="154" y="218" type="line"/>
 			<point x="154" y="255" type="line"/>
 			<point x="154" y="282"/>
@@ -64,9 +63,9 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -13 149</string>
-							<string>vstem 65 149</string>
-							<string>vstem 295 55</string>
+							<string>hstem -7 108</string>
+							<string>vstem 89 108</string>
+							<string>vstem 294 31</string>
 						</array>
 					</dict>
 					<dict>
@@ -74,9 +73,19 @@
 						<string>hintSet0012</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -13 149</string>
-							<string>vstem 120 34</string>
-							<string>vstem 295 55</string>
+							<string>hstem -7 108</string>
+							<string>vstem 105 45</string>
+							<string>vstem 294 31</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0015</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -7 108</string>
+							<string>vstem 131 19</string>
+							<string>vstem 294 31</string>
 						</array>
 					</dict>
 					<dict>
@@ -84,14 +93,14 @@
 						<string>hintSet0020</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -13 149</string>
-							<string>vstem 65 149</string>
-							<string>vstem 295 55</string>
+							<string>hstem -7 108</string>
+							<string>vstem 89 108</string>
+							<string>vstem 294 31</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>d6f342eb712a8aa5a5f403d056697c062b05e873d5af69a86f12863f970c1ba7f281482e797bef0099cd1b0cac6df10c9093e696d5fbdfcee81fbcf363182863</string>
+				<string>3d0284a1b3d4ca0d3320a693aa39e7c3834ba539f5f9980f418c53ba09f0f64628d0f13372b6cd6f650e97d9a01ebc18f7e74c21fbb1b060e55d19d4a2e04741</string>
 			</dict>
 		</dict>
 	</lib>

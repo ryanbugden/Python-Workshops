@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcedilla" format="2">
+	<advance width="359"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="182" y="-87" type="line"/>
+			<point x="217" y="-92"/>
+			<point x="240" y="-107"/>
+			<point x="240" y="-134" type="curve"/>
+			<point x="240" y="-166"/>
+			<point x="222" y="-180"/>
+			<point x="179" y="-180" type="curve"/>
+			<point x="162" y="-180"/>
+			<point x="151" y="-178"/>
+			<point x="133" y="-170" type="curve"/>
+			<point x="127" y="-205" type="line"/>
+			<point x="147" y="-217"/>
+			<point x="169" y="-224"/>
+			<point x="207" y="-224" type="curve"/>
+			<point x="297" y="-224"/>
+			<point x="330" y="-181"/>
+			<point x="330" y="-130" type="curve"/>
+			<point x="330" y="-97"/>
+			<point x="312" y="-61"/>
+			<point x="224" y="-47" type="curve"/>
+			<point x="230" y="-15" type="line"/>
+			<point x="299" y="-10"/>
+			<point x="340" y="21"/>
+			<point x="361" y="75" type="curve"/>
+			<point x="344" y="87" type="line"/>
+			<point x="328" y="67"/>
+			<point x="316" y="60"/>
+			<point x="290" y="60" type="curve"/>
+			<point x="263" y="60"/>
+			<point x="239" y="74"/>
+			<point x="239" y="118" type="curve"/>
+			<point x="239" y="428" type="line"/>
+			<point x="330" y="428" type="line"/>
+			<point x="330" y="462" type="line"/>
+			<point x="239" y="462" type="line"/>
+			<point x="243" y="614" type="line"/>
+			<point x="181" y="614" type="line"/>
+			<point x="75" y="467" type="line"/>
+			<point x="18" y="454" type="line"/>
+			<point x="18" y="428" type="line"/>
+			<point x="66" y="428" type="line"/>
+			<point x="64" y="251" type="line"/>
+			<point x="64" y="124" type="line"/>
+			<point x="64" y="33"/>
+			<point x="112" y="-11"/>
+			<point x="194" y="-16" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -218 28</string>
+							<string>hstem -12 37</string>
+							<string>hstem 428 24</string>
+							<string>vstem 82 69</string>
+							<string>vstem 226 46</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>d89c745bafb1de821499d98394f41f36ada7327920ae323bab49b7a5400a44cdbc9e28d67a680278f5daf48c046d6b28f6e70ccac340a41767285ab2b787d719</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

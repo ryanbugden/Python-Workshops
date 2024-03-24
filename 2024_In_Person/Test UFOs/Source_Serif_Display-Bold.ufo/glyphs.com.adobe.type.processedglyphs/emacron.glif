@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="emacron" format="2">
-	<unicode hex="0113"/>
 	<advance width="470"/>
 	<outline>
 		<contour>
@@ -24,7 +23,7 @@
 			<point x="390" y="78"/>
 			<point x="356" y="59"/>
 			<point x="310" y="59" type="curve"/>
-			<point x="230" y="59"/>
+			<point name="hintSet0009" x="230" y="59"/>
 			<point x="172" y="126"/>
 			<point x="172" y="246" type="curve"/>
 			<point x="172" y="247" type="line"/>
@@ -35,7 +34,7 @@
 			<point x="434" y="397"/>
 			<point x="364" y="472"/>
 			<point x="250" y="472" type="curve"/>
-			<point x="137" y="472"/>
+			<point name="hintSet0014" x="137" y="472"/>
 			<point x="32" y="386"/>
 			<point x="32" y="222" type="curve"/>
 			<point x="32" y="70"/>
@@ -59,12 +58,38 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -15 74</string>
-							<string>hstem 247 25</string>
-							<string>hstem 446 26</string>
-							<string>hstem 557 67</string>
-							<string>vstem 32 140</string>
-							<string>vstem 317 117</string>
+							<string>hstem -12 49</string>
+							<string>hstem 246 22</string>
+							<string>hstem 442 22</string>
+							<string>hstem 570 48</string>
+							<string>vstem 43 71</string>
+							<string>vstem 347 62</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0009</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -12 49</string>
+							<string>hstem 246 22</string>
+							<string>hstem 442 22</string>
+							<string>hstem 570 48</string>
+							<string>vstem 43 70</string>
+							<string>vstem 347 62</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0014</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -12 49</string>
+							<string>hstem 246 22</string>
+							<string>hstem 442 22</string>
+							<string>hstem 570 48</string>
+							<string>vstem 43 71</string>
+							<string>vstem 347 62</string>
 						</array>
 					</dict>
 					<dict>
@@ -72,16 +97,17 @@
 						<string>hintSet0016</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -15 74</string>
-							<string>hstem 247 25</string>
-							<string>hstem 446 26</string>
-							<string>hstem 557 67</string>
-							<string>vstem 118 262</string>
+							<string>hstem -12 49</string>
+							<string>hstem 246 22</string>
+							<string>hstem 442 22</string>
+							<string>hstem 570 48</string>
+							<string>vstem 43 71</string>
+							<string>vstem 135 220</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>309ba60f8acb456f638fd98de8f8580dcd92fdcbfe2910f622a4bc2c8b70f4ec8d8d49fc686170e2accad01871c032d0cda0aab02e19a3301ebfd8bce0bbbf4e</string>
+				<string>3c5ef9016a1716b883fc47fb0408c1dad7961a798527712796b70c35fc188688a8353829b2ab323a8fa7b783a67c642ad9f8400f71f1d40b1d855960e82cbc53</string>
 			</dict>
 		</dict>
 	</lib>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotlessj" format="2">
-	<unicode hex="0237"/>
 	<advance width="280"/>
 	<outline>
 		<contour>
@@ -13,7 +12,7 @@
 			<point x="213" y="0" type="curve"/>
 			<point x="213" y="330" type="line"/>
 			<point name="hintSet0004" x="217" y="462" type="line"/>
-			<point name="hintSet0005" x="203" y="472" type="line"/>
+			<point x="203" y="472" type="line"/>
 			<point x="20" y="420" type="line"/>
 			<point x="20" y="402" type="line"/>
 			<point x="78" y="385" type="line"/>
@@ -49,9 +48,9 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -225 -21</string>
-							<string>hstem 472 -20</string>
-							<string>vstem 80 133</string>
+							<string>hstem -259 77</string>
+							<string>hstem 464 -20</string>
+							<string>vstem 109 67</string>
 						</array>
 					</dict>
 					<dict>
@@ -59,19 +58,9 @@
 						<string>hintSet0004</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -225 -21</string>
-							<string>hstem 462 -20</string>
-							<string>vstem 80 133</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hintSet0005</string>
-						<key>stems</key>
-						<array>
-							<string>hstem -246 111</string>
-							<string>hstem 472 -20</string>
-							<string>vstem 80 133</string>
+							<string>hstem -259 77</string>
+							<string>hstem 456 -20</string>
+							<string>vstem 109 67</string>
 						</array>
 					</dict>
 					<dict>
@@ -79,14 +68,14 @@
 						<string>hintSet0016</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -225 -21</string>
-							<string>hstem 472 -20</string>
-							<string>vstem 80 133</string>
+							<string>hstem -259 77</string>
+							<string>hstem 464 -20</string>
+							<string>vstem 109 67</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>1984cd829f52ff2f379c898ec8c6ce24d98ec6e502c0cff5a29822dea692a6d535021da58a1e4bb297d48cc39a93d2e6ac21af28f6cedd5588bf6156f9c842cf</string>
+				<string>c2f2e78c8d42fb415b9067efb6a24ed78904bede45d793a5491b22d2de8df8c580e5c2693839e8cf6fa9b9bdb6bfcc546bd8344fa7808ace7010efb4cae44296</string>
 			</dict>
 		</dict>
 	</lib>

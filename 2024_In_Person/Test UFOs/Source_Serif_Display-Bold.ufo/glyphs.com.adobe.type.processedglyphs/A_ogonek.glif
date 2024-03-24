@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aogonek" format="2">
-	<unicode hex="0104"/>
 	<advance width="620"/>
 	<outline>
 		<contour>
@@ -38,7 +37,7 @@
 			<point x="547" y="32" type="line"/>
 			<point x="347" y="660" type="line"/>
 			<point x="272" y="660" type="line"/>
-			<point x="74" y="31" type="line"/>
+			<point name="hintSet0022" x="74" y="31" type="line"/>
 			<point x="12" y="22" type="line"/>
 		</contour>
 		<contour>
@@ -58,17 +57,28 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -229 64</string>
-							<string>hstem 0 26.5</string>
-							<string>hstem 217 27</string>
-							<string>hstem 660 -20</string>
-							<string>vstem 12 170</string>
-							<string>vstem 365 87</string>
+							<string>hstem -230 44</string>
+							<string>hstem 0 21</string>
+							<string>hstem 239 24</string>
+							<string>hstem 678 -20</string>
+							<string>vstem 397 53</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0022</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -230 44</string>
+							<string>hstem 0 20.5</string>
+							<string>hstem 239 24</string>
+							<string>hstem 678 -20</string>
+							<string>vstem 397 53</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>4e045f642df5f579170e723dfeefd0cf8af86ca8771edf996bf03e84416dbcf236e88c1e48bc71f09684bb25a0c0f616f75674ab0ce00d60b189f12a987901d9</string>
+				<string>5e53e567f60504c45e29087eb60eeff5f53a90701b2a7abcab8d3371091019e06cb689b489598f7794689cdeb89c167d4abf923581c804ffed3ac7095ccfa6c1</string>
 			</dict>
 		</dict>
 	</lib>

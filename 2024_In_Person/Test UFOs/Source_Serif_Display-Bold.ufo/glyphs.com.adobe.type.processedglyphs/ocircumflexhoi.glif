@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ocircumflexhoi" format="2">
-	<unicode hex="1ED5"/>
 	<advance width="529"/>
 	<outline>
 		<contour>
@@ -68,10 +67,10 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -15 26</string>
-							<string>hstem 447 25</string>
-							<string>vstem 34 143</string>
-							<string>vstem 351 144</string>
+							<string>hstem -12 21</string>
+							<string>hstem 443 21</string>
+							<string>vstem 44 73</string>
+							<string>vstem 384 74</string>
 						</array>
 					</dict>
 					<dict>
@@ -79,15 +78,15 @@
 						<string>hintSet0017</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -15 26</string>
-							<string>hstem 447 25</string>
-							<string>vstem 34 143</string>
-							<string>vstem 445 56</string>
+							<string>hstem -12 21</string>
+							<string>hstem 443 21</string>
+							<string>vstem 44 73</string>
+							<string>vstem 412 36</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>7fe6ed2a59719737612e7a53c655acfd21ebf15cdfd351c29d12b728d7f2b8650124bce6a888f08c1e0dfa45762bec498cf55cebe81ecd5cb4b2563c49886447</string>
+				<string>9aef1a796b550fdb3fa1264aace1aff18803b83fbd2976e4d3e420588aebe6b6316f06200f407155cf6c9cd1bd3de144a0de022c14371a0c9cdbc6e394d6ea1c</string>
 			</dict>
 		</dict>
 	</lib>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wcircumflex" format="2">
+	<advance width="891"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="686" y="652" type="line"/>
+			<point x="779" y="643" type="line"/>
+			<point x="645" y="134" type="line"/>
+			<point x="502" y="643" type="line"/>
+			<point x="585" y="652" type="line"/>
+			<point x="585" y="669" type="line"/>
+			<point x="360" y="669" type="line"/>
+			<point x="360" y="652" type="line"/>
+			<point x="443" y="643" type="line"/>
+			<point x="292" y="133" type="line"/>
+			<point x="165" y="643" type="line"/>
+			<point x="254" y="652" type="line"/>
+			<point x="254" y="669" type="line"/>
+			<point x="12" y="669" type="line"/>
+			<point x="12" y="652" type="line"/>
+			<point x="77" y="643" type="line"/>
+			<point x="245" y="-6" type="line"/>
+			<point x="281" y="-6" type="line"/>
+			<point x="443" y="550" type="line"/>
+			<point x="599" y="-6" type="line"/>
+			<point x="634" y="-6" type="line"/>
+			<point x="811" y="643" type="line"/>
+			<point x="879" y="652" type="line"/>
+			<point x="879" y="669" type="line"/>
+			<point x="686" y="669" type="line"/>
+		</contour>
+		<contour>
+			<point x="483" y="860" type="line"/>
+			<point x="452" y="860" type="line"/>
+			<point x="319" y="733" type="line"/>
+			<point x="332" y="718" type="line"/>
+			<point x="467" y="804" type="line"/>
+			<point x="602" y="718" type="line"/>
+			<point x="615" y="733" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 15 -21</string>
+							<string>hstem 649.5 20.5</string>
+							<string>vstem 12 866</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>005f0b3e0efbc360c939f0d9cc9dfdaf02cbdf8798cfc668e2035a7078bd9c58c14c303b64fdc2a2b125d68892d31dd0c2113156c137cad2406fd80d496e472d</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ccaron" format="2">
-	<unicode hex="010C"/>
 	<advance width="566"/>
 	<outline>
 		<contour>
@@ -56,14 +55,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -16 26</string>
-							<string>hstem 647 26</string>
-							<string>vstem 36 148</string>
+							<string>hstem -16 21</string>
+							<string>hstem 665 21</string>
+							<string>vstem 47 80</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>881fe38aaf1ef8c98c90529d8ab1c76cdabc627f3071bba0d7eb19922b433b2461e5c88cf18977f5f340152143a688236bee67918316afdc40bb3acf4b992517</string>
+				<string>96ab9a7fc3d9d2fdaa295eb87c554cc75ee55404c928cc5b7a67f3e37b7aa77eac8a56692d054368e921dabba49ce4bf1eb0604920334ebf88c68b43c2809b0a</string>
 			</dict>
 		</dict>
 	</lib>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ellipsis" format="2">
-	<unicode hex="2026"/>
 	<advance width="731"/>
 	<outline>
 		<contour>
@@ -57,13 +56,13 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -11 150</string>
-							<string>vstem3 56 149 291 149 526 149</string>
+							<string>hstem -7 108</string>
+							<string>vstem3 75 108 293 108 511 108</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>34c36506b64b4c716c2cd7d8a39e1cba34a171b65b51cc1e89db1b2bf77bcdfc4c4f3e19c976a3f0b3ea54781dfb9a4966cd8bbe3cf875c259c8de4c30af31e7</string>
+				<string>19ea45f93d03be2623a383bd49fd8dd293b7ad8ae231d59fa2fed3bf0ac52a73a59e568993a10911c73ea7904b4afb0c333c539a85520799487d6fe64ae5fa60</string>
 			</dict>
 		</dict>
 	</lib>

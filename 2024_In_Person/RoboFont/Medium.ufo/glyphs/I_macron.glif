@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Imacron" format="2">
+	<advance width="321"/>
+	<outline>
+		<component base="I"/>
+		<component base="macroncmb.cap" xOffset="160"/>
+	</outline>
+</glyph>

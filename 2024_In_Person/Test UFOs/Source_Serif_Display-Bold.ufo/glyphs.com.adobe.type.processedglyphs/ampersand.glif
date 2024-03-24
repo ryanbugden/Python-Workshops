@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ampersand" format="2">
-	<unicode hex="0026"/>
 	<advance width="676"/>
 	<outline>
 		<contour>
@@ -51,7 +50,7 @@
 			<point x="547" y="300"/>
 			<point x="570" y="390" type="curve"/>
 			<point x="648" y="401" type="line"/>
-			<point name="hintSet0019" x="648" y="423" type="line"/>
+			<point x="648" y="423" type="line"/>
 			<point x="446" y="423" type="line"/>
 			<point x="446" y="401" type="line"/>
 			<point x="529" y="390" type="line"/>
@@ -106,11 +105,11 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -15 67</string>
-							<string>hstem 395.5 27.5</string>
-							<string>hstem 647 26</string>
-							<string>vstem 21 127</string>
-							<string>vstem 342 99</string>
+							<string>hstem -12 53</string>
+							<string>hstem 399.5 20.5</string>
+							<string>hstem 664 22</string>
+							<string>vstem 24 74</string>
+							<string>vstem 336 58</string>
 						</array>
 					</dict>
 					<dict>
@@ -118,11 +117,11 @@
 						<string>hintSet0006</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -15 67</string>
-							<string>hstem 395.5 27.5</string>
-							<string>hstem 647 26</string>
-							<string>vstem 103 112</string>
-							<string>vstem 342 99</string>
+							<string>hstem -12 53</string>
+							<string>hstem 399.5 20.5</string>
+							<string>hstem 664 22</string>
+							<string>vstem 100 63</string>
+							<string>vstem 336 58</string>
 						</array>
 					</dict>
 					<dict>
@@ -130,23 +129,11 @@
 						<string>hintSet0014</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 21 -21</string>
-							<string>hstem 401 22</string>
-							<string>hstem 647 26</string>
-							<string>vstem 21 127</string>
-							<string>vstem 342 99</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hintSet0019</string>
-						<key>stems</key>
-						<array>
-							<string>hstem -15 67</string>
-							<string>hstem 395.5 27.5</string>
-							<string>hstem 647 26</string>
-							<string>vstem 103 112</string>
-							<string>vstem 342 99</string>
+							<string>hstem -12 30.5</string>
+							<string>hstem 399.5 20.5</string>
+							<string>hstem 664 22</string>
+							<string>vstem 100 63</string>
+							<string>vstem 336 58</string>
 						</array>
 					</dict>
 					<dict>
@@ -154,11 +141,11 @@
 						<string>hintSet0031</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -15 67</string>
-							<string>hstem 395.5 27.5</string>
-							<string>hstem 647 26</string>
-							<string>vstem 21 127</string>
-							<string>vstem 342 99</string>
+							<string>hstem -12 53</string>
+							<string>hstem 399.5 20.5</string>
+							<string>hstem 664 22</string>
+							<string>vstem 24 74</string>
+							<string>vstem 336 58</string>
 						</array>
 					</dict>
 					<dict>
@@ -166,16 +153,16 @@
 						<string>hintSet0035</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -15 67</string>
-							<string>hstem 395.5 27.5</string>
-							<string>hstem 647 26</string>
-							<string>vstem 103 112</string>
-							<string>vstem 342 99</string>
+							<string>hstem -12 53</string>
+							<string>hstem 399.5 20.5</string>
+							<string>hstem 664 22</string>
+							<string>vstem 100 63</string>
+							<string>vstem 336 58</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>f49f26496cd4e37f862fc82db2eadb855b61bbe3851a2eccc8e5a770ae0548613dc86a4d742be9284def16dcc3c07f58e7668dfd51aae0e7c3ef2ab15f3e48a9</string>
+				<string>9e34d1386fee7d50b1f54c63439ccc58872065a9983e77b1e0389b6165203e1340092a5bafe619d17a820442bed85015e58dab7620cb23e2df6a07bc14804018</string>
 			</dict>
 		</dict>
 	</lib>

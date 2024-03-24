@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="S" format="2">
-	<unicode hex="0053"/>
 	<advance width="494"/>
 	<outline>
 		<contour>
@@ -46,7 +45,7 @@
 			<point x="68" y="191" type="line"/>
 			<point x="47" y="191" type="line"/>
 			<point x="39" y="36" type="line"/>
-			<point x="92" y="3"/>
+			<point name="hintSet0020" x="92" y="3"/>
 			<point x="153" y="-16"/>
 		</contour>
 	</outline>
@@ -61,10 +60,10 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -16 26</string>
-							<string>hstem 647 26</string>
-							<string>vstem 48 104</string>
-							<string>vstem 341 111</string>
+							<string>hstem -16 21</string>
+							<string>hstem 665 21</string>
+							<string>vstem 52 58</string>
+							<string>vstem 367 62</string>
 						</array>
 					</dict>
 					<dict>
@@ -72,10 +71,10 @@
 						<string>hintSet0006</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -16 26</string>
-							<string>hstem 647 26</string>
-							<string>vstem 48 104</string>
-							<string>vstem 396 24</string>
+							<string>hstem -16 21</string>
+							<string>hstem 665 21</string>
+							<string>vstem 52 58</string>
+							<string>vstem 381 18</string>
 						</array>
 					</dict>
 					<dict>
@@ -83,15 +82,26 @@
 						<string>hintSet0014</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -16 26</string>
-							<string>hstem 647 26</string>
-							<string>vstem 48 104</string>
-							<string>vstem 341 111</string>
+							<string>hstem -16 21</string>
+							<string>hstem 665 21</string>
+							<string>vstem 44 20</string>
+							<string>vstem 367 62</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0020</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -16 21</string>
+							<string>hstem 665 21</string>
+							<string>vstem 52 58</string>
+							<string>vstem 367 62</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>9e65301dae4d9dc33f1386e86bcca9d7b36b70d90133eb0c53759e6c2915b361d1291d3cda6c9724d2057c73864821d2635b9ea6e0f5806ad1ab749665f9a153</string>
+				<string>59099d33ce5decfd184ff1eebf9db0fe63e9dfa46929e5d882284086b0e6617eca6b734ae202f17deb56b07945166f3222b0279bd2eb000c80179d41ed7c16f9</string>
 			</dict>
 		</dict>
 	</lib>

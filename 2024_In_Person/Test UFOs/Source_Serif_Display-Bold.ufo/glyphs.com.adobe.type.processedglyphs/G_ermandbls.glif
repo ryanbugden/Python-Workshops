@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Germandbls" format="2">
-	<unicode hex="1E9E"/>
 	<advance width="674"/>
 	<outline>
 		<contour>
@@ -76,11 +75,11 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 26.5</string>
-							<string>hstem 647 26</string>
-							<string>vstem 88 140</string>
-							<string>vstem 356 119</string>
-							<string>vstem 526 126</string>
+							<string>hstem 0 20.5</string>
+							<string>hstem 665 21</string>
+							<string>vstem 108 71</string>
+							<string>vstem 364 59</string>
+							<string>vstem 551 63</string>
 						</array>
 					</dict>
 					<dict>
@@ -88,11 +87,12 @@
 						<string>hintSet0010</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -16 26</string>
-							<string>hstem 647 26</string>
-							<string>vstem 88 140</string>
-							<string>vstem 356 119</string>
-							<string>vstem 526 126</string>
+							<string>hstem -16 22</string>
+							<string>hstem 665 21</string>
+							<string>vstem 108 71</string>
+							<string>vstem 301 20</string>
+							<string>vstem 364 59</string>
+							<string>vstem 551 63</string>
 						</array>
 					</dict>
 					<dict>
@@ -100,16 +100,16 @@
 						<string>hintSet0025</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 26.5</string>
-							<string>hstem 647 26</string>
-							<string>vstem 88 140</string>
-							<string>vstem 356 119</string>
-							<string>vstem 526 126</string>
+							<string>hstem 0 20.5</string>
+							<string>hstem 665 21</string>
+							<string>vstem 108 71</string>
+							<string>vstem 364 59</string>
+							<string>vstem 551 63</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>85210f16b1287d11d91efc712c67be8db1c2031819eb8d638148ae3750d36f5d054710426312b4947b7ad2c61c383315721ec79f7d16b6897fee5cf9575dc3c6</string>
+				<string>c7883cc30b80736b7944bb8c35bb4d272a00c4f1455a6863a369cdb65642da365f72c7c1650285d77f9e3b7a9dcc0f9d38d6197b1e548a5b3aac0bee93e8af76</string>
 			</dict>
 		</dict>
 	</lib>

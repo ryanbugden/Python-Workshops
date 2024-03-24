@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tcaron" format="2">
-	<unicode hex="0164"/>
 	<advance width="580"/>
 	<outline>
 		<contour>
@@ -54,14 +53,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 27</string>
-							<string>hstem 630 27</string>
-							<string>vstem 220 140</string>
+							<string>hstem 0 21</string>
+							<string>hstem 646 24</string>
+							<string>vstem 249 71</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>578d66e83117d82dbb38dd43fdd8e9911109da5df9f7e584915d3cde181cdf4f36760cc234cc3bb18df7d6b589007f40d9c6da641a090b2bdf51c1463b19154b</string>
+				<string>448e49c051adb01ba3eacc676b0130d6c2ada8e499d8c5a7d7b64e4dbe8804d91ecd14422f4bf9b24ca9819fd8cb1bc9c70c8a782074ed7fedf899559b395a25</string>
 			</dict>
 		</dict>
 	</lib>

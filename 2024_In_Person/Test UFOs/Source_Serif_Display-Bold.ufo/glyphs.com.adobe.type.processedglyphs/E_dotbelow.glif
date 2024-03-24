@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Edotbelow" format="2">
-	<unicode hex="1EB8"/>
 	<advance width="532"/>
 	<outline>
 		<contour>
@@ -67,11 +66,11 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 26.5</string>
-							<string>hstem 321 29</string>
-							<string>hstem 631 26</string>
-							<string>vstem 98 140</string>
-							<string>vstem 371 21</string>
+							<string>hstem 0 20.5</string>
+							<string>hstem 330 24</string>
+							<string>hstem 649.5 20.5</string>
+							<string>vstem 123 71</string>
+							<string>vstem 355 16</string>
 						</array>
 					</dict>
 					<dict>
@@ -79,11 +78,11 @@
 						<string>hintSet0006</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 27</string>
-							<string>hstem 321 29</string>
-							<string>hstem 630 27</string>
-							<string>vstem 98 140</string>
-							<string>vstem 371 21</string>
+							<string>hstem 0 24</string>
+							<string>hstem 330 24</string>
+							<string>hstem 646 24</string>
+							<string>vstem 123 71</string>
+							<string>vstem 355 16</string>
 						</array>
 					</dict>
 					<dict>
@@ -91,17 +90,18 @@
 						<string>hintSet0028</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -209 137</string>
-							<string>hstem 0 27</string>
-							<string>hstem 321 29</string>
-							<string>hstem 630 27</string>
-							<string>vstem 216 140</string>
-							<string>vstem 371 21</string>
+							<string>hstem -187 105</string>
+							<string>hstem 0 24</string>
+							<string>hstem 330 24</string>
+							<string>hstem 646 24</string>
+							<string>vstem 123 71</string>
+							<string>vstem 241 106</string>
+							<string>vstem 355 16</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>725928420b95ca6db58ab21bd56f97fb4ecf23d7dde3d6c285dcdcfe83e34cf1112d513d33718d24f0bf93f30e8d46b0173af2c435c1f4f1933cfdebaaf3eb67</string>
+				<string>47e598ed39fd6a26ac362168a9def92212e46f0ac4c290928d6e7f8ac19cbf5b8c21e165bd8b41958ce454c184cc57b1a9dda118f7f0017f92a51378e8a44107</string>
 			</dict>
 		</dict>
 	</lib>

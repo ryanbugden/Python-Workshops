@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="two" format="2">
-	<unicode hex="0032"/>
 	<advance width="508"/>
 	<outline>
 		<contour>
@@ -52,14 +51,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 112</string>
-							<string>hstem 620 26</string>
-							<string>vstem 317 134</string>
+							<string>hstem 0 64</string>
+							<string>hstem 638 21</string>
+							<string>vstem 334 71</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>4491b75084c65a65bed84c6cf0e5265699ef66e8e294fff908f19aa42c803c3c85d7a0e72259a4b198f9a275a4fc64b6584cd38136c36fbed517e046cad96b8e</string>
+				<string>dd4f22be02e103f64c3fd38b7a70edd38f0f5bceb010d31f693cb44f11a20f5961238d3e30044ca4c4d2fafe473c542df1d8d6e639a6be12b943b1bcaf6afedb</string>
 			</dict>
 		</dict>
 	</lib>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zcaron" format="2">
-	<unicode hex="017D"/>
 	<advance width="520"/>
 	<outline>
 		<contour>
@@ -40,14 +39,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 27</string>
-							<string>hstem 630 27</string>
-							<string>vstem 24 473</string>
+							<string>hstem 0 24</string>
+							<string>hstem 646 24</string>
+							<string>vstem 24 457</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>46c2930388a43628b0be68c24ea63dbaa2d88201bfc888d9b066e31bda19a0778911710f52cb8a52ca08953193eac76eff8dc8765aa6cea9d54233e611520330</string>
+				<string>c74e50be27ee5bfc5cb64feaf086875afb2bc859605ddcb7a78562eadeba17bf65cbd67180766e3ec1721aead808f5b1dce1607b9874f51cc34f01ac22ae54b4</string>
 			</dict>
 		</dict>
 	</lib>

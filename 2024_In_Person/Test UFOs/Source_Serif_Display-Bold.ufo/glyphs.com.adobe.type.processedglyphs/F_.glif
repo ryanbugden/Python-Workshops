@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="F" format="2">
-	<unicode hex="0046"/>
 	<advance width="508"/>
 	<outline>
 		<contour>
@@ -51,11 +50,11 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 26.5</string>
-							<string>hstem 321 29</string>
-							<string>hstem 631 26</string>
-							<string>vstem 98 140</string>
-							<string>vstem 367 21</string>
+							<string>hstem 0 20.5</string>
+							<string>hstem 330 24</string>
+							<string>hstem 649.5 20.5</string>
+							<string>vstem 123 71</string>
+							<string>vstem 351 16</string>
 						</array>
 					</dict>
 					<dict>
@@ -63,16 +62,16 @@
 						<string>hintSet0020</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 26.5</string>
-							<string>hstem 321 29</string>
-							<string>hstem 630 27</string>
-							<string>vstem 98 140</string>
-							<string>vstem 367 21</string>
+							<string>hstem 0 20.5</string>
+							<string>hstem 330 24</string>
+							<string>hstem 646 24</string>
+							<string>vstem 123 71</string>
+							<string>vstem 351 16</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>283af51b6ce55a6e2c66033713cca51cef6b0086e55d80cd58af5979955988a2b4a2c52be95cf33027e4d1105589807647633be0339bf2cea5d0acfd176b386d</string>
+				<string>e0106825031ebb53bb24ca9988b49eac77bc16d40aaac561a96b3ddaac3790d7cc33b1f55d9f0b92b4a2a49e1fff20f38d574031275c0190c68b9ee0e2419724</string>
 			</dict>
 		</dict>
 	</lib>

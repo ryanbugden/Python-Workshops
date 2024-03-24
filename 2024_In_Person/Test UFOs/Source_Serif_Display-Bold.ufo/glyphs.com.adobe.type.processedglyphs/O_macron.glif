@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Omacron" format="2">
-	<unicode hex="014C"/>
 	<advance width="646"/>
 	<outline>
 		<contour>
@@ -32,7 +31,7 @@
 			<point x="419" y="10"/>
 		</contour>
 		<contour>
-			<point name="hintSet0010" x="187" y="727" type="line"/>
+			<point x="187" y="727" type="line"/>
 			<point x="459" y="727" type="line"/>
 			<point x="459" y="794" type="line"/>
 			<point x="187" y="794" type="line"/>
@@ -49,27 +48,17 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -16 26</string>
-							<string>hstem 647 26</string>
-							<string>hstem 727 67</string>
-							<string>vstem 36 151</string>
-							<string>vstem 458 151</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hintSet0010</string>
-						<key>stems</key>
-						<array>
-							<string>hstem -16 26</string>
-							<string>hstem 647 26</string>
-							<string>hstem 727 67</string>
-							<string>vstem 187 272</string>
+							<string>hstem -16 22</string>
+							<string>hstem 664 22</string>
+							<string>hstem 750 48</string>
+							<string>vstem 47 80</string>
+							<string>vstem 195 250</string>
+							<string>vstem 513 80</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>634cb0f39ae8e01d1be4db5ca833c40d2b065f3ba6a6e07edc037bb39cf847a000d40e25be084edfdd124faaf5b19858d5754442d6edd29e33268419d46b2b9d</string>
+				<string>cfac4b6c228faa06c6292cc00fd353dbb46110c529c9bbedc4a204ebc1ae601ccd0f2fa0377430fff9aa38db709666c48d78b7b00dd307ae52b42198ce41cf59</string>
 			</dict>
 		</dict>
 	</lib>

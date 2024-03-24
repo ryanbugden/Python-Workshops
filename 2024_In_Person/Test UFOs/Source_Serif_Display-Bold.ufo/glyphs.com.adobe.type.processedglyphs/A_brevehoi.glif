@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Abrevehoi" format="2">
-	<unicode hex="1EB2"/>
 	<advance width="620"/>
 	<outline>
 		<contour>
@@ -18,7 +17,7 @@
 			<point x="547" y="32" type="line"/>
 			<point x="347" y="660" type="line"/>
 			<point x="272" y="660" type="line"/>
-			<point x="74" y="31" type="line"/>
+			<point name="hintSet0014" x="74" y="31" type="line"/>
 			<point x="12" y="22" type="line"/>
 		</contour>
 		<contour>
@@ -70,18 +69,29 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 26.5</string>
-							<string>hstem 217 27</string>
-							<string>hstem 660 -20</string>
-							<string>hstem 707 68</string>
-							<string>hstem 918 79</string>
-							<string>vstem 12 170</string>
-							<string>vstem 331 56</string>
+							<string>hstem 0 21</string>
+							<string>hstem 239 24</string>
+							<string>hstem 678 -20</string>
+							<string>hstem 730 49</string>
+							<string>vstem 336 36</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0014</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 20.5</string>
+							<string>hstem 239 24</string>
+							<string>hstem 678 -20</string>
+							<string>hstem 730 49</string>
+							<string>hstem 928 53</string>
+							<string>vstem 336 36</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>a5bd9415deb594e5ae7378f1fc710e76c450358517369c7dcf4b1d902b8cb8c3e76aafad49662ce279cdac24256fd68f843aa59c9c26ca7767fec9ed3bd85cfb</string>
+				<string>b0124809601021c429ae53148c11b6fbaa472a26ebacc0ec8b023ec4dd66401eb911b705056f1d1fcca3ec99866f41791184bc28f7f6c43ec6a367b4b30fd60e</string>
 			</dict>
 		</dict>
 	</lib>

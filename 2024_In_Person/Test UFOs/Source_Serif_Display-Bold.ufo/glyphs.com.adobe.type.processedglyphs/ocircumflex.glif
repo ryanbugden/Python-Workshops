@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ocircumflex" format="2">
-	<unicode hex="00F4"/>
 	<advance width="529"/>
 	<outline>
 		<contour>
@@ -52,15 +51,15 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -15 26</string>
-							<string>hstem 447 25</string>
-							<string>vstem 34 143</string>
-							<string>vstem 351 144</string>
+							<string>hstem -12 21</string>
+							<string>hstem 443 21</string>
+							<string>vstem 44 73</string>
+							<string>vstem 384 74</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>0cd6341cda7d7a37da1a6425dc569241ae00c7a0b6abdc6cdbaa5660fff5a427ab38a1de14a94988e6f115572be497ad0b096c4c308d33f91e405719da75c0f8</string>
+				<string>9600ca9c398ea7c80f152e0be67d93602712e0d6b3e8c5a2e7f5b8b1ffb3b277b5139a93f6a297a38b9a2bfa4e8242b251f96b70650789f7a2300e660305d07e</string>
 			</dict>
 		</dict>
 	</lib>

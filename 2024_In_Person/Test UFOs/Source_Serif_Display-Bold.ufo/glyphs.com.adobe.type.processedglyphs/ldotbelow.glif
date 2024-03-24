@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ldotbelow" format="2">
-	<unicode hex="1E37"/>
 	<advance width="286"/>
 	<outline>
 		<contour>
@@ -12,7 +11,7 @@
 			<point x="213" y="154"/>
 			<point x="213" y="209" type="curve"/>
 			<point x="213" y="521" type="line"/>
-			<point x="217" y="720" type="line"/>
+			<point name="hintSet0006" x="217" y="720" type="line"/>
 			<point x="203" y="731" type="line"/>
 			<point x="20" y="683" type="line"/>
 			<point x="20" y="665" type="line"/>
@@ -49,10 +48,21 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -209 137</string>
-							<string>hstem 0 26</string>
-							<string>hstem 731 -20</string>
-							<string>vstem 80 133</string>
+							<string>hstem -187 105</string>
+							<string>hstem 0 20</string>
+							<string>hstem 744 -20</string>
+							<string>vstem 109 67</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0006</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -187 105</string>
+							<string>hstem 0 20</string>
+							<string>hstem 736 -20</string>
+							<string>vstem 109 67</string>
 						</array>
 					</dict>
 					<dict>
@@ -60,15 +70,15 @@
 						<string>hintSet0014</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -209 137</string>
-							<string>hstem 0 26</string>
-							<string>hstem 731 -20</string>
-							<string>vstem 75 140</string>
+							<string>hstem -187 105</string>
+							<string>hstem 0 20</string>
+							<string>hstem 744 -20</string>
+							<string>vstem 86 106</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>3b06a056f1a906ed4521ccc8927d8a5cf0909486e0d90fa272de8f250b2551e56241fb337b8af82089d1863caab2f55f2ff5dcebc06c323b1114a56a37bd1852</string>
+				<string>fa71a6208d0a677377a2e889ed212cc378114b29531d944e4430b042d91b4904dbd80c6b4bff0477185b8f72a4d6ccf9f690cbc65a7ec5b4032db12b7875a8e8</string>
 			</dict>
 		</dict>
 	</lib>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aacute" format="2">
-	<unicode hex="00C1"/>
 	<advance width="620"/>
 	<outline>
 		<contour>
@@ -9,7 +8,7 @@
 			<point x="333" y="244" type="line"/>
 		</contour>
 		<contour>
-			<point name="hintSet0003" x="12" y="0" type="line"/>
+			<point x="12" y="0" type="line"/>
 			<point x="182" y="0" type="line"/>
 			<point x="182" y="22" type="line"/>
 			<point x="107" y="31" type="line"/>
@@ -23,7 +22,7 @@
 			<point x="547" y="32" type="line"/>
 			<point x="347" y="660" type="line"/>
 			<point x="272" y="660" type="line"/>
-			<point x="74" y="31" type="line"/>
+			<point name="hintSet0017" x="74" y="31" type="line"/>
 			<point x="12" y="22" type="line"/>
 		</contour>
 		<contour>
@@ -56,26 +55,26 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 26.5</string>
-							<string>hstem 217 27</string>
-							<string>hstem 660 -20</string>
-							<string>vstem 12 596</string>
+							<string>hstem 0 21</string>
+							<string>hstem 239 24</string>
+							<string>hstem 678 -20</string>
+							<string>vstem 12 588</string>
 						</array>
 					</dict>
 					<dict>
 						<key>pointTag</key>
-						<string>hintSet0003</string>
+						<string>hintSet0017</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 26.5</string>
-							<string>hstem 217 27</string>
-							<string>hstem 660 -20</string>
-							<string>vstem 12 170</string>
+							<string>hstem 0 20.5</string>
+							<string>hstem 239 24</string>
+							<string>hstem 678 -20</string>
+							<string>vstem 12 588</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>f94778a2acfa3ee887103537b981c731cecb1210df3f3c8fd58137ce2a0312d953b9e716e37aa71c38fb74493be66b7fb7a147ef9b3fbcd172f1a168ddb8715d</string>
+				<string>de4016c076c6745230702f4e4d12b39f5581e88b4ccbd5d56c0feafdfc80b1615129520e8ad68e58a2b74cba9962f2f67bfd8d81843b79091e0fbf13feb5af04</string>
 			</dict>
 		</dict>
 	</lib>

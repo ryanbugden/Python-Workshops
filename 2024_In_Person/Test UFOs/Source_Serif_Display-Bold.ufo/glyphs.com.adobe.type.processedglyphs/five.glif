@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="five" format="2">
-	<unicode hex="0035"/>
 	<advance width="508"/>
 	<outline>
 		<contour>
@@ -54,16 +53,16 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -15 26</string>
-							<string>hstem 334 45</string>
-							<string>hstem 519 112</string>
-							<string>vstem 95 24.5</string>
-							<string>vstem 325 144</string>
+							<string>hstem -12 21</string>
+							<string>hstem 359 27</string>
+							<string>hstem 583 64</string>
+							<string>vstem 97 20</string>
+							<string>vstem 357 74</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>ea7b81ed5329ce61cb377475d1b68b91be53df1b8b29975a855ee2c74d239647625295e5d2788995d680684c2a906cbc23d5e8dfaae5c1b517d73909307f868b</string>
+				<string>532d0153ab215a39ce8750daac5d141b1c2355442d9d758abba2740a9db17a252325e49878785727938093bc8ef23d155be96aee9cbda0ef369f5768c2118de7</string>
 			</dict>
 		</dict>
 	</lib>

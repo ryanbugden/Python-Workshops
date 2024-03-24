@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Emacron" format="2">
-	<unicode hex="0112"/>
 	<advance width="532"/>
 	<outline>
 		<contour>
@@ -59,11 +58,11 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 27</string>
-							<string>hstem 321 29</string>
-							<string>hstem 630 27</string>
-							<string>hstem 727 67</string>
-							<string>vstem 154 272</string>
+							<string>hstem 0 24</string>
+							<string>hstem 330 24</string>
+							<string>hstem 646 24</string>
+							<string>hstem 750 48</string>
+							<string>vstem 166 250</string>
 						</array>
 					</dict>
 					<dict>
@@ -71,12 +70,12 @@
 						<string>hintSet0004</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 26.5</string>
-							<string>hstem 321 29</string>
-							<string>hstem 631 26</string>
-							<string>hstem 727 67</string>
-							<string>vstem 98 140</string>
-							<string>vstem 371 21</string>
+							<string>hstem 0 20.5</string>
+							<string>hstem 330 24</string>
+							<string>hstem 649.5 20.5</string>
+							<string>hstem 750 48</string>
+							<string>vstem 123 71</string>
+							<string>vstem 355 16</string>
 						</array>
 					</dict>
 					<dict>
@@ -84,17 +83,17 @@
 						<string>hintSet0010</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 27</string>
-							<string>hstem 321 29</string>
-							<string>hstem 630 27</string>
-							<string>hstem 727 67</string>
-							<string>vstem 98 140</string>
-							<string>vstem 371 21</string>
+							<string>hstem 0 24</string>
+							<string>hstem 330 24</string>
+							<string>hstem 646 24</string>
+							<string>hstem 750 48</string>
+							<string>vstem 123 71</string>
+							<string>vstem 355 16</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>dc9d7c2d81451e7b6f5eb865310d96923ec60126eea709d17bc827cc6051052e324453e40fd449aa904317a493c58d7847608734615e5eb12374f7851a808e9e</string>
+				<string>2c5245b6f96f0489bf8b89c29ea7c6e41689f42b1ebe4ca017d3afda19aee6ebdc661722354f9ee75ed01ee06051d526e631e9cd4072fd9942177922ca27295c</string>
 			</dict>
 		</dict>
 	</lib>

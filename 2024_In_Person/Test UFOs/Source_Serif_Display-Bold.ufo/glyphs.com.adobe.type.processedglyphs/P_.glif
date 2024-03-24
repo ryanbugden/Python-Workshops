@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="P" format="2">
-	<unicode hex="0050"/>
 	<advance width="549"/>
 	<outline>
 		<contour>
@@ -57,11 +56,11 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 27</string>
-							<string>hstem 276 28</string>
-							<string>hstem 630 27</string>
-							<string>vstem 98 140</string>
-							<string>vstem 387 141</string>
+							<string>hstem 0 21</string>
+							<string>hstem 287 25</string>
+							<string>hstem 646 24</string>
+							<string>vstem 123 71</string>
+							<string>vstem 415 75</string>
 						</array>
 					</dict>
 					<dict>
@@ -69,11 +68,11 @@
 						<string>hintSet0007</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 26.5</string>
-							<string>hstem 276 28</string>
-							<string>hstem 631 26</string>
-							<string>vstem 98 140</string>
-							<string>vstem 387 141</string>
+							<string>hstem 0 20.5</string>
+							<string>hstem 287 25</string>
+							<string>hstem 649.5 20.5</string>
+							<string>vstem 123 71</string>
+							<string>vstem 415 75</string>
 						</array>
 					</dict>
 					<dict>
@@ -81,16 +80,16 @@
 						<string>hintSet0013</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 27</string>
-							<string>hstem 276 28</string>
-							<string>hstem 630 27</string>
-							<string>vstem 98 140</string>
-							<string>vstem 387 141</string>
+							<string>hstem 0 21</string>
+							<string>hstem 287 25</string>
+							<string>hstem 646 24</string>
+							<string>vstem 123 71</string>
+							<string>vstem 415 75</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>e12fae95eeb184c5fd12b0fd4a3787d61e826b314081508bb01310c31364aa9737d84303bb568e5be3f4c655a28a43a8cda4be16bea6af203c12058dbf06dbec</string>
+				<string>aff0dde9a038b3841c5c49523241a04647ff20a18c2d84672e1bb9e757f6bb955d8c3c3c156e9cc5d4a02703cb8bd00fb19d2850586275645b4a73d78da390ee</string>
 			</dict>
 		</dict>
 	</lib>

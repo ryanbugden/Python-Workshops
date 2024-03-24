@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guilsinglleft" format="2">
-	<unicode hex="2039"/>
 	<advance width="308"/>
 	<outline>
 		<contour>
@@ -24,13 +23,13 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 28 426</string>
-							<string>vstem 22 251</string>
+							<string>hstem 38 401</string>
+							<string>vstem 28 210</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w308l26028l27342l126241l273440l260454l22257l22225</string>
+				<string>w258l22638l23850l86238l238427l226439l28254l28222</string>
 			</dict>
 		</dict>
 	</lib>

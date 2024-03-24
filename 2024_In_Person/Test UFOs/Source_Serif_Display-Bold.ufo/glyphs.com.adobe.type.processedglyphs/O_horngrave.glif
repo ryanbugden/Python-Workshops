@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ohorngrave" format="2">
-	<unicode hex="1EDC"/>
 	<advance width="646"/>
 	<outline>
 		<contour>
@@ -82,10 +81,10 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -16 26</string>
-							<string>hstem 647 26</string>
-							<string>vstem 36 151</string>
-							<string>vstem 458 151</string>
+							<string>hstem -16 22</string>
+							<string>hstem 664 22</string>
+							<string>vstem 47 80</string>
+							<string>vstem 513 80</string>
 						</array>
 					</dict>
 					<dict>
@@ -93,10 +92,10 @@
 						<string>hintSet0008</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -16 26</string>
-							<string>hstem 647 26</string>
-							<string>vstem 36 151</string>
-							<string>vstem 545 65</string>
+							<string>hstem -16 22</string>
+							<string>hstem 664 22</string>
+							<string>vstem 47 80</string>
+							<string>vstem 535 46</string>
 						</array>
 					</dict>
 					<dict>
@@ -104,15 +103,15 @@
 						<string>hintSet0016</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -16 26</string>
-							<string>hstem 647 26</string>
-							<string>vstem 36 151</string>
-							<string>vstem 458 151</string>
+							<string>hstem -16 22</string>
+							<string>hstem 664 22</string>
+							<string>vstem 47 80</string>
+							<string>vstem 513 80</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>29f3d7187ec85e2bf01c3fe5ff636f11ca13112b19e76332f37be5173cbe8fcabe5bfa69f674ed8691c02a9680d94548f4facd785b5d587cb498fdfd228487d7</string>
+				<string>1ff9baad499346a36be905702b320268a5340e362d49d0592a2ebcad031b4583eeae00cf9c65b71c8b87f99d1c3092f6e9a7df0bbcb1d0a64b0858de2f7b689b</string>
 			</dict>
 		</dict>
 	</lib>

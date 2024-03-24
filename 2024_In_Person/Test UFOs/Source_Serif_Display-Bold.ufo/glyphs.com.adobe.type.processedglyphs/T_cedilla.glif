@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tcedilla" format="2">
-	<unicode hex="0162"/>
 	<advance width="580"/>
 	<outline>
 		<contour>
@@ -67,10 +66,10 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -222 38</string>
-							<string>hstem 0 27</string>
-							<string>hstem 630 27</string>
-							<string>vstem 220 140</string>
+							<string>hstem -218 28</string>
+							<string>hstem 0 21</string>
+							<string>hstem 646 24</string>
+							<string>vstem 249 71</string>
 						</array>
 					</dict>
 					<dict>
@@ -78,10 +77,11 @@
 						<string>hintSet0009</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -222 38</string>
-							<string>hstem 0 27</string>
-							<string>hstem 630 27</string>
-							<string>vstem 324 73</string>
+							<string>hstem -218 28</string>
+							<string>hstem 0 21</string>
+							<string>hstem 646 24</string>
+							<string>vstem 249 71</string>
+							<string>vstem 329 46</string>
 						</array>
 					</dict>
 					<dict>
@@ -89,15 +89,15 @@
 						<string>hintSet0018</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -222 38</string>
-							<string>hstem 0 27</string>
-							<string>hstem 630 27</string>
-							<string>vstem 220 140</string>
+							<string>hstem -218 28</string>
+							<string>hstem 0 21</string>
+							<string>hstem 646 24</string>
+							<string>vstem 249 71</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>5e15d88148ce0125753cd7adcc1be271e3090a70c26908b99585ef9020cffcd18a255670ab20730f5bd1127790f66a445e4fc821b1b9d3811c31238f56e2a718</string>
+				<string>ef7e30d15f0faf65dc7c4b1750818d2952fed263d0823d415ddd37b699feabcdd205487bba7169ad5cad1ea5e30732a2c295a87fe71a0d5dbe4b2ea84b030004</string>
 			</dict>
 		</dict>
 	</lib>

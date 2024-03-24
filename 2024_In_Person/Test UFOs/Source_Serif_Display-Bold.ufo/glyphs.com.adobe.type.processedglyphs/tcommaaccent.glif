@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tcommaaccent" format="2">
-	<unicode hex="021B"/>
 	<advance width="336"/>
 	<outline>
 		<contour>
@@ -16,11 +15,11 @@
 			<point x="206" y="63"/>
 			<point x="206" y="110" type="curve"/>
 			<point x="206" y="428" type="line"/>
-			<point name="hintSet0006" x="310" y="428" type="line"/>
+			<point x="310" y="428" type="line"/>
 			<point x="310" y="458" type="line"/>
 			<point x="206" y="458" type="line"/>
 			<point x="210" y="610" type="line"/>
-			<point name="hintSet0010" x="163" y="610" type="line"/>
+			<point x="163" y="610" type="line"/>
 			<point x="80" y="463" type="line"/>
 			<point x="14" y="450" type="line"/>
 			<point x="14" y="428" type="line"/>
@@ -63,32 +62,9 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -228 -21</string>
-							<string>hstem -15 62</string>
-							<string>hstem 428 30</string>
-							<string>vstem 71 135</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hintSet0006</string>
-						<key>stems</key>
-						<array>
-							<string>hstem -228 -21</string>
-							<string>hstem -15 62</string>
-							<string>hstem 428 30</string>
-							<string>vstem 71 137</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hintSet0010</string>
-						<key>stems</key>
-						<array>
-							<string>hstem -228 -21</string>
-							<string>hstem -15 62</string>
-							<string>hstem 428 30</string>
-							<string>vstem 71 135</string>
+							<string>hstem -12 37</string>
+							<string>hstem 428 24</string>
+							<string>vstem 82 69</string>
 						</array>
 					</dict>
 					<dict>
@@ -96,15 +72,14 @@
 						<string>hintSet0018</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -228 -21</string>
-							<string>hstem -15 62</string>
-							<string>hstem 428 30</string>
-							<string>vstem 144 108</string>
+							<string>hstem -12 37</string>
+							<string>hstem 428 24</string>
+							<string>vstem 140 93</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>26b9008426ca24c7d3b15f80eed81b74d6186608cf721b1f3556389e7bc59c1733e5fff272acb6ce02a004687604eee881184e5878ea242a48f5971424300e1e</string>
+				<string>9d01e3ead7d20d37e69fb7668df3d5802dc537855da4885cad1b3c732156520f0145d33f5d9216adf7fa18f2105f69a4a529f51c1579e2dc22962b85834fe35f</string>
 			</dict>
 		</dict>
 	</lib>

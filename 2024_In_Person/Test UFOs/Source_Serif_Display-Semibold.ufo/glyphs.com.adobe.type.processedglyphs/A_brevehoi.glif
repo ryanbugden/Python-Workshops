@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abrevehoi" format="2">
+	<advance width="617"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="12" y="0" type="line"/>
+			<point x="190" y="0" type="line"/>
+			<point x="190" y="20" type="line"/>
+			<point x="108" y="29" type="line"/>
+			<point x="170" y="226" type="line"/>
+			<point x="359" y="226" type="line"/>
+			<point x="419" y="29" type="line"/>
+			<point x="341" y="20" type="line"/>
+			<point x="341" y="0" type="line"/>
+			<point x="605" y="0" type="line"/>
+			<point x="605" y="20" type="line"/>
+			<point x="541" y="30" type="line"/>
+			<point x="335" y="667" type="line"/>
+			<point x="280" y="667" type="line"/>
+			<point name="hintSet0014" x="76" y="29" type="line"/>
+			<point x="12" y="20" type="line"/>
+		</contour>
+		<contour>
+			<point x="177" y="252" type="line"/>
+			<point x="266" y="536" type="line"/>
+			<point x="352" y="252" type="line"/>
+		</contour>
+		<contour>
+			<point x="162" y="840" type="line"/>
+			<point x="175" y="779"/>
+			<point x="218" y="716"/>
+			<point x="306" y="716" type="curve"/>
+			<point x="394" y="716"/>
+			<point x="437" y="779"/>
+			<point x="451" y="840" type="curve"/>
+			<point x="427" y="851" type="line"/>
+			<point x="406" y="807"/>
+			<point x="366" y="777"/>
+			<point x="306" y="777" type="curve"/>
+			<point x="247" y="777"/>
+			<point x="207" y="807"/>
+			<point x="186" y="851" type="curve"/>
+		</contour>
+		<contour>
+			<point x="287" y="824" type="line"/>
+			<point x="348" y="833"/>
+			<point x="381" y="859"/>
+			<point x="381" y="901" type="curve"/>
+			<point x="381" y="951"/>
+			<point x="338" y="981"/>
+			<point x="259" y="991" type="curve"/>
+			<point x="252" y="922" type="line"/>
+			<point x="309" y="917"/>
+			<point x="333" y="905"/>
+			<point x="333" y="883" type="curve"/>
+			<point x="333" y="867"/>
+			<point x="319" y="854"/>
+			<point x="283" y="846" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 21</string>
+							<string>hstem 239 24</string>
+							<string>hstem 678 -20</string>
+							<string>hstem 730 49</string>
+							<string>vstem 336 36</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0014</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 20.5</string>
+							<string>hstem 239 24</string>
+							<string>hstem 678 -20</string>
+							<string>hstem 730 49</string>
+							<string>hstem 928 53</string>
+							<string>vstem 336 36</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>b0124809601021c429ae53148c11b6fbaa472a26ebacc0ec8b023ec4dd66401eb911b705056f1d1fcca3ec99866f41791184bc28f7f6c43ec6a367b4b30fd60e</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

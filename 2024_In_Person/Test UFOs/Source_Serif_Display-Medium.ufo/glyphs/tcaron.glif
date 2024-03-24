@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcaron" format="2">
+	<advance width="306"/>
+	<outline>
+		<component base="t"/>
+		<component base="caron.alt" xOffset="234"/>
+	</outline>
+	<anchor name="aboveLC" x="146" y="585"/>
+	<anchor name="baseLC" x="185" y="0"/>
+	<anchor name="belowLC" x="185" y="-20"/>
+</glyph>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="omacron" format="2">
-	<unicode hex="014D"/>
 	<advance width="529"/>
 	<outline>
 		<contour>
@@ -49,11 +48,11 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -15 26</string>
-							<string>hstem 447 25</string>
-							<string>hstem 557 67</string>
-							<string>vstem 34 143</string>
-							<string>vstem 351 144</string>
+							<string>hstem -12 21</string>
+							<string>hstem 443 21</string>
+							<string>hstem 570 48</string>
+							<string>vstem 44 73</string>
+							<string>vstem 384 74</string>
 						</array>
 					</dict>
 					<dict>
@@ -61,15 +60,17 @@
 						<string>hintSet0010</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -15 26</string>
-							<string>hstem 447 25</string>
-							<string>hstem 557 67</string>
-							<string>vstem 133 262</string>
+							<string>hstem -12 21</string>
+							<string>hstem 443 21</string>
+							<string>hstem 570 48</string>
+							<string>vstem 44 73</string>
+							<string>vstem 141 220</string>
+							<string>vstem 384 74</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>0526d8621b93e4162990e90b27db3a9a4fdf2aa4d26c53b934a97cac3bb8e97c0d72837d9298822341453f6c840907d2ef36e01e9abf1e4eeffce9541e60c54d</string>
+				<string>04d4effde00e0075cddad0ba333dfba02c2b2e865c42669a71fb9dccc6152f96494b7a784ce1b5ded220b8499e5a2c9ce42f8a01bf5996cdffdda7cd6381df81</string>
 			</dict>
 		</dict>
 	</lib>

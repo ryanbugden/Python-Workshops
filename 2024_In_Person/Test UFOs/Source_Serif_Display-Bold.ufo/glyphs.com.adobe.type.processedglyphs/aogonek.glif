@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aogonek" format="2">
-	<unicode hex="0105"/>
 	<advance width="485"/>
 	<outline>
 		<contour>
@@ -61,13 +60,13 @@
 			<point x="201" y="-15"/>
 			<point x="241" y="3"/>
 			<point x="280" y="54" type="curve"/>
-			<point x="289" y="13"/>
+			<point name="hintSet0023" x="289" y="13"/>
 			<point x="320" y="-14"/>
 			<point x="380" y="-14" type="curve"/>
 			<point x="383" y="-14"/>
 			<point x="386" y="-14"/>
 			<point x="393" y="-13" type="curve"/>
-			<point x="320" y="-49"/>
+			<point name="hintSet0025" x="320" y="-49"/>
 			<point x="280" y="-89"/>
 			<point x="280" y="-145" type="curve"/>
 			<point name="hintSet0026" x="280" y="-191"/>
@@ -100,10 +99,11 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -229 64</string>
-							<string>hstem -14 56</string>
-							<string>hstem 444 28</string>
-							<string>vstem 280 86</string>
+							<string>hstem -230 44</string>
+							<string>hstem -8 37</string>
+							<string>hstem 438 26</string>
+							<string>vstem 39 71</string>
+							<string>vstem 267 53</string>
 						</array>
 					</dict>
 					<dict>
@@ -111,11 +111,11 @@
 						<string>hintSet0006</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -229 64</string>
-							<string>hstem -14 56</string>
-							<string>hstem 444 28</string>
-							<string>vstem 28 126</string>
-							<string>vstem 278 133</string>
+							<string>hstem -230 44</string>
+							<string>hstem -8 37</string>
+							<string>hstem 438 26</string>
+							<string>vstem 39 71</string>
+							<string>vstem 291 68</string>
 						</array>
 					</dict>
 					<dict>
@@ -123,11 +123,35 @@
 						<string>hintSet0021</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -229 64</string>
-							<string>hstem -15 68</string>
-							<string>hstem 444 28</string>
-							<string>vstem 28 126</string>
-							<string>vstem 280 86</string>
+							<string>hstem -230 44</string>
+							<string>hstem -12 49</string>
+							<string>hstem 438 26</string>
+							<string>vstem 39 71</string>
+							<string>vstem 292 67</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0023</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -230 44</string>
+							<string>hstem -8 37</string>
+							<string>hstem 438 26</string>
+							<string>vstem 39 71</string>
+							<string>vstem 292 67</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0025</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -230 44</string>
+							<string>hstem -12 49</string>
+							<string>hstem 438 26</string>
+							<string>vstem 39 71</string>
+							<string>vstem 267 53</string>
 						</array>
 					</dict>
 					<dict>
@@ -135,10 +159,11 @@
 						<string>hintSet0026</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -229 64</string>
-							<string>hstem -14 56</string>
-							<string>hstem 444 28</string>
-							<string>vstem 280 86</string>
+							<string>hstem -230 44</string>
+							<string>hstem -8 37</string>
+							<string>hstem 438 26</string>
+							<string>vstem 39 71</string>
+							<string>vstem 267 53</string>
 						</array>
 					</dict>
 					<dict>
@@ -146,16 +171,16 @@
 						<string>hintSet0027</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -229 64</string>
-							<string>hstem -15 68</string>
-							<string>hstem 444 28</string>
-							<string>vstem 28 126</string>
-							<string>vstem 278 133</string>
+							<string>hstem -230 44</string>
+							<string>hstem -12 49</string>
+							<string>hstem 438 26</string>
+							<string>vstem 39 71</string>
+							<string>vstem 291 68</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>cfdcc851d7a8f3ca1adcfed2248d3a9281ae2f8da99e6a99a89e7c74b3e2f65236afbf008a514545e48e7460ef7e19bdb3e9f7bf82d4e17419f78216fa7c5e78</string>
+				<string>3f70ca2e05970f0f4a60ba1988378641be062e5abc1ba48a63f2ac310226725dc8e32bdbbafe911304001c5552d5dd02fd1bae9772379daa6e6acbfa3d9004c5</string>
 			</dict>
 		</dict>
 	</lib>

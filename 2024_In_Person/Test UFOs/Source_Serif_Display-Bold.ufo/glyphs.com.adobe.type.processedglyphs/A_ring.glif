@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aring" format="2">
-	<unicode hex="00C5"/>
 	<advance width="620"/>
 	<outline>
 		<contour>
@@ -18,7 +17,7 @@
 			<point x="547" y="32" type="line"/>
 			<point x="347" y="660" type="line"/>
 			<point x="272" y="660" type="line"/>
-			<point x="74" y="31" type="line"/>
+			<point name="hintSet0014" x="74" y="31" type="line"/>
 			<point x="12" y="22" type="line"/>
 		</contour>
 		<contour>
@@ -27,7 +26,7 @@
 			<point x="333" y="244" type="line"/>
 		</contour>
 		<contour>
-			<point name="hintSet0019" x="308" y="733" type="curve"/>
+			<point x="308" y="733" type="curve"/>
 			<point x="267" y="733"/>
 			<point x="244" y="766"/>
 			<point x="244" y="801" type="curve"/>
@@ -66,33 +65,32 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 26.5</string>
-							<string>hstem 217 27</string>
-							<string>hstem 660 -20</string>
-							<string>hstem 704 29</string>
-							<string>hstem 868 29</string>
-							<string>vstem 12 170</string>
-							<string>vstem 208 36</string>
-							<string>vstem 372 36</string>
+							<string>hstem 0 21</string>
+							<string>hstem 239 24</string>
+							<string>hstem 678 -20</string>
+							<string>hstem 723 22</string>
+							<string>hstem 878 22</string>
+							<string>vstem 215 25</string>
+							<string>vstem 368 25</string>
 						</array>
 					</dict>
 					<dict>
 						<key>pointTag</key>
-						<string>hintSet0019</string>
+						<string>hintSet0014</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 26.5</string>
-							<string>hstem 217 27</string>
-							<string>hstem 660 -20</string>
-							<string>hstem 704 29</string>
-							<string>hstem 868 29</string>
-							<string>vstem 208 36</string>
-							<string>vstem 372 36</string>
+							<string>hstem 0 20.5</string>
+							<string>hstem 239 24</string>
+							<string>hstem 678 -20</string>
+							<string>hstem 723 22</string>
+							<string>hstem 878 22</string>
+							<string>vstem 215 25</string>
+							<string>vstem 368 25</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>fef3c2022cc2b62cc66e6c089e45fa6ba4619c32a26617f4511e466be9d431fb7f04eeb15bb47dd80644cd5f9fc8bae6604df26aafdf1986425fa897a0753e5a</string>
+				<string>b93b96097f3d813d14e6944326caf8d5fc4f6b7b30b814cfaaaac4517c5f906950c61c240a834dcb897f0c371eb5a0b4d1ce1b5190749459ff8c4551694e59b2</string>
 			</dict>
 		</dict>
 	</lib>

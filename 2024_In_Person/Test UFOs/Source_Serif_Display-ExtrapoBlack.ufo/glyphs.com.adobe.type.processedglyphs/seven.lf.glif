@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.lf" format="2">
+	<advance width="493"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="66" y="0" type="line"/>
+			<point x="261" y="0" type="line"/>
+			<point x="477" y="503" type="line"/>
+			<point x="477" y="615" type="line"/>
+			<point x="21" y="615" type="line"/>
+			<point x="21" y="455" type="line"/>
+			<point x="405" y="455" type="line"/>
+			<point x="58" y="18" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 12</string>
+							<string>hstem 583 64</string>
+							<string>vstem 29 390</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w451l1160l1910l419613l419647l29647l29583l383583l10812</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

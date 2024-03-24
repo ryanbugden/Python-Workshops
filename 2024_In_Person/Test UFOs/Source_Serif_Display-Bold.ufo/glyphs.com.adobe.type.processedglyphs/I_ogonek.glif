@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iogonek" format="2">
-	<unicode hex="012E"/>
 	<advance width="336"/>
 	<outline>
 		<contour>
@@ -61,9 +60,10 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 26.5</string>
-							<string>hstem 636 21</string>
-							<string>vstem 98 140</string>
+							<string>hstem -230 44</string>
+							<string>hstem 0 20.5</string>
+							<string>hstem 649.5 20.5</string>
+							<string>vstem 123 71</string>
 						</array>
 					</dict>
 					<dict>
@@ -71,10 +71,10 @@
 						<string>hintSet0008</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -229 64</string>
-							<string>hstem 0 26.5</string>
-							<string>hstem 631.5 25.5</string>
-							<string>vstem 80 87</string>
+							<string>hstem -230 44</string>
+							<string>hstem 0 20.5</string>
+							<string>hstem 649.5 20.5</string>
+							<string>vstem 68 53</string>
 						</array>
 					</dict>
 					<dict>
@@ -82,14 +82,15 @@
 						<string>hintSet0015</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 26.5</string>
-							<string>hstem 631.5 25.5</string>
-							<string>vstem 98 140</string>
+							<string>hstem -230 44</string>
+							<string>hstem 0 20.5</string>
+							<string>hstem 649.5 20.5</string>
+							<string>vstem 123 71</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>a08e3477bd6164a34513be95c9c6a4d7ad205920ddf3cae7b3af7817116f0485643e35682dfe694ffc198f768eb92af9788255cbcfa3afe9d85212b130178c68</string>
+				<string>87b23e28f770360f3f7a113bd7bd567bdb66e03f0d4a2bec0e0d9d35f738d88992a1efc0c61ad2f3133238822ebb646f0744938c737726291297aad61a299e99</string>
 			</dict>
 		</dict>
 	</lib>

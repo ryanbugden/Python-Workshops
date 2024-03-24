@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Macute" format="2">
+	<advance width="798"/>
+	<outline>
+		<component base="M"/>
+		<component base="acutecmb.cap" xOffset="410"/>
+	</outline>
+</glyph>

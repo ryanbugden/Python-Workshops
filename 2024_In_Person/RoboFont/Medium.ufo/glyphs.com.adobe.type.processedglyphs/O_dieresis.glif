@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Odieresis" format="2">
+	<advance width="641"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="321" y="-16" type="curve"/>
+			<point x="466" y="-16"/>
+			<point x="596" y="109"/>
+			<point x="596" y="331" type="curve"/>
+			<point x="596" y="560"/>
+			<point x="467" y="684"/>
+			<point x="321" y="684" type="curve"/>
+			<point x="175" y="684"/>
+			<point x="45" y="556"/>
+			<point x="45" y="335" type="curve"/>
+			<point x="45" y="105"/>
+			<point x="174" y="-16"/>
+		</contour>
+		<contour>
+			<point x="321" y="7" type="curve"/>
+			<point x="193" y="7"/>
+			<point x="138" y="149"/>
+			<point x="138" y="335" type="curve"/>
+			<point x="138" y="520"/>
+			<point x="193" y="661"/>
+			<point x="321" y="661" type="curve"/>
+			<point x="448" y="661"/>
+			<point x="503" y="516"/>
+			<point x="503" y="331" type="curve"/>
+			<point x="503" y="145"/>
+			<point x="448" y="7"/>
+		</contour>
+		<contour>
+			<point x="219" y="743" type="curve"/>
+			<point x="247" y="743"/>
+			<point x="271" y="763"/>
+			<point x="271" y="793" type="curve"/>
+			<point x="271" y="824"/>
+			<point x="247" y="844"/>
+			<point x="219" y="844" type="curve"/>
+			<point x="192" y="844"/>
+			<point x="169" y="824"/>
+			<point x="169" y="793" type="curve"/>
+			<point x="169" y="763"/>
+			<point x="192" y="743"/>
+		</contour>
+		<contour>
+			<point x="422" y="743" type="curve"/>
+			<point x="449" y="743"/>
+			<point x="472" y="763"/>
+			<point x="472" y="793" type="curve"/>
+			<point x="472" y="824"/>
+			<point x="449" y="844"/>
+			<point x="422" y="844" type="curve"/>
+			<point x="394" y="844"/>
+			<point x="371" y="824"/>
+			<point x="371" y="793" type="curve"/>
+			<point x="371" y="763"/>
+			<point x="394" y="743"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -16 22</string>
+							<string>hstem 664 22</string>
+							<string>hstem 748 97</string>
+							<string>vstem 47 80</string>
+							<string>vstem 173 97</string>
+							<string>vstem 370 97</string>
+							<string>vstem 513 80</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>3c3b2addb4ee8cece14eb5f21ae421c63846dce1aa40b6cf2cb1f17829a162132c3697f0c49b8a898b365e1e10e9638770749f39d8c4a03a0b930242cbed64fd</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

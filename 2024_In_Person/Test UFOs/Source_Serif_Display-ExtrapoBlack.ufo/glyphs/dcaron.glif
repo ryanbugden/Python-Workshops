@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcaron" format="2">
+	<advance width="569"/>
+	<outline>
+		<component base="d"/>
+		<component base="caron.alt" xOffset="562"/>
+	</outline>
+	<anchor name="aboveLC" x="404" y="718"/>
+	<anchor name="belowLC" x="315" y="-20"/>
+</glyph>

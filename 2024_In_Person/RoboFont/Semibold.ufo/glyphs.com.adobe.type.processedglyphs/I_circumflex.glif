@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Icircumflex" format="2">
+	<advance width="320"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="37" y="651" type="line"/>
+			<point x="116" y="642" type="line"/>
+			<point x="119" y="563"/>
+			<point x="120" y="452"/>
+			<point x="120" y="359" type="curve"/>
+			<point x="120" y="315" type="line"/>
+			<point x="120" y="221"/>
+			<point x="119" y="107"/>
+			<point x="116" y="26" type="curve"/>
+			<point x="37" y="17" type="line"/>
+			<point x="37" y="0" type="line"/>
+			<point x="281" y="0" type="line"/>
+			<point x="281" y="17" type="line"/>
+			<point x="203" y="26" type="line"/>
+			<point x="200" y="107"/>
+			<point x="200" y="221"/>
+			<point x="200" y="315" type="curve"/>
+			<point x="200" y="359" type="line"/>
+			<point x="200" y="452"/>
+			<point x="200" y="563"/>
+			<point x="203" y="642" type="curve"/>
+			<point x="281" y="651" type="line"/>
+			<point x="281" y="668" type="line"/>
+			<point x="37" y="668" type="line"/>
+		</contour>
+		<contour>
+			<point x="176" y="860" type="line"/>
+			<point x="143" y="860" type="line"/>
+			<point x="11" y="732" type="line"/>
+			<point x="24" y="717" type="line"/>
+			<point x="159" y="803" type="line"/>
+			<point x="295" y="717" type="line"/>
+			<point x="308" y="732" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 20.5</string>
+							<string>hstem 649.5 20.5</string>
+							<string>vstem 123 71</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>f62b01fd75b993631d3b0de10980e278aa11258daf0bb7ada138fc36510e8be2b7e2686613d7d95e90e63290f115bc382d8babed30bcba21d8541a21d992a6c4</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

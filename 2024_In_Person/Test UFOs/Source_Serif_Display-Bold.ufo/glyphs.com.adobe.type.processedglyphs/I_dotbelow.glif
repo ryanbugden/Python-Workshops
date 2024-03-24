@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Idotbelow" format="2">
-	<unicode hex="1ECA"/>
 	<advance width="336"/>
 	<outline>
 		<contour>
@@ -22,7 +21,7 @@
 			<point x="238" y="219"/>
 			<point x="238" y="310" type="curve"/>
 			<point x="238" y="354" type="line"/>
-			<point name="hintSet0012" x="238" y="443"/>
+			<point x="238" y="443"/>
 			<point x="239" y="549"/>
 			<point x="242" y="627" type="curve"/>
 			<point x="307" y="636" type="line"/>
@@ -30,7 +29,7 @@
 			<point x="28" y="657" type="line"/>
 		</contour>
 		<contour>
-			<point x="168" y="-209" type="curve"/>
+			<point name="hintSet0016" x="168" y="-209" type="curve"/>
 			<point x="206" y="-209"/>
 			<point x="238" y="-181"/>
 			<point x="238" y="-141" type="curve"/>
@@ -55,25 +54,25 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 26.5</string>
-							<string>hstem 636 21</string>
-							<string>vstem 98 140</string>
+							<string>hstem 0 20.5</string>
+							<string>hstem 649.5 20.5</string>
+							<string>vstem 123 71</string>
 						</array>
 					</dict>
 					<dict>
 						<key>pointTag</key>
-						<string>hintSet0012</string>
+						<string>hintSet0016</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -209 137</string>
-							<string>hstem 0 26.5</string>
-							<string>hstem 631.5 25.5</string>
-							<string>vstem 98 140</string>
+							<string>hstem -187 105</string>
+							<string>hstem 0 20.5</string>
+							<string>hstem 649.5 20.5</string>
+							<string>vstem 105 106</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>96469eda46e4a8945a66a8f2e1e871aa42b2b9a942afa290fe6a9561d209967728347efe88345b007d542abb8a5775a98ae35cd77a27badcce43b6d3b49571cc</string>
+				<string>331a41135275efb15326102df343d371131c3f28aa8511395982a80e82211cf51b00a867c1ea86d827af6b6b0ed6cde3de3bcc403cb469b8490b7b7225fefcd3</string>
 			</dict>
 		</dict>
 	</lib>

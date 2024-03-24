@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="six" format="2">
-	<unicode hex="0036"/>
 	<advance width="508"/>
 	<outline>
 		<contour>
@@ -28,14 +27,14 @@
 			<point x="482" y="331"/>
 			<point x="401" y="387"/>
 			<point x="307" y="387" type="curve"/>
-			<point x="258" y="387"/>
+			<point name="hintSet0009" x="258" y="387"/>
 			<point x="215" y="373"/>
 			<point x="177" y="330" type="curve"/>
 			<point x="198" y="499"/>
 			<point x="282" y="581"/>
 			<point x="437" y="624" type="curve"/>
 			<point x="433" y="646" type="line"/>
-			<point x="192" y="623"/>
+			<point name="hintSet0012" x="192" y="623"/>
 			<point x="29" y="468"/>
 			<point x="29" y="260" type="curve"/>
 			<point x="29" y="85"/>
@@ -53,16 +52,40 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -15 26</string>
-							<string>hstem 334 53</string>
-							<string>hstem 646 -20</string>
-							<string>vstem 29 143</string>
-							<string>vstem 343 139</string>
+							<string>hstem -12 21</string>
+							<string>hstem 347 41</string>
+							<string>hstem 659 -20</string>
+							<string>vstem 40 74</string>
+							<string>vstem 368 69</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0009</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -12 21</string>
+							<string>hstem 347 41</string>
+							<string>hstem 659 -20</string>
+							<string>vstem 40 76</string>
+							<string>vstem 368 69</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0012</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -12 21</string>
+							<string>hstem 347 41</string>
+							<string>hstem 659 -20</string>
+							<string>vstem 40 74</string>
+							<string>vstem 368 69</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>9ac2b845d072d688ee3580f902d59a01cf952d7981daa545c587051c9be767b3bd2ce40be7b069e29e14fb2674cc300c07e387f15a0d16e5e2c6eaf4f24491c6</string>
+				<string>74e2de1fbc3f11da062f2e46aa844a0d248a4ae2621c579421d813605cd9b11065fba59cee938a2213a08349d72e6d23f8bf7ff15b92596acf4763da76e07187</string>
 			</dict>
 		</dict>
 	</lib>

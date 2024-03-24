@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four" format="2">
-	<unicode hex="0034"/>
 	<advance width="508"/>
 	<outline>
 		<contour>
@@ -34,16 +33,16 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 10 -21</string>
-							<string>hstem 131 105</string>
-							<string>hstem 633 -20</string>
-							<string>vstem 25 46</string>
-							<string>vstem 274 128</string>
+							<string>hstem 6 -21</string>
+							<string>hstem 163 62</string>
+							<string>hstem 655 -20</string>
+							<string>vstem 28 29</string>
+							<string>vstem 284 66</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w508l274-11l402-11l402131l485131l485236l402236l402633l298633l25216l25131l274131l172391l274549l274236l71236</string>
+				<string>w470l284-15l350-15l350163l450163l450225l350225l350655l304655l28217l28163l284163l169404l284590l284225l57225</string>
 			</dict>
 		</dict>
 	</lib>

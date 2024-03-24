@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wacute" format="2">
+	<advance width="891"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="689" y="650" type="line"/>
+			<point x="780" y="641" type="line"/>
+			<point x="649" y="138" type="line"/>
+			<point x="508" y="641" type="line"/>
+			<point x="590" y="650" type="line"/>
+			<point x="590" y="667" type="line"/>
+			<point x="361" y="667" type="line"/>
+			<point x="361" y="650" type="line"/>
+			<point x="444" y="641" type="line"/>
+			<point x="296" y="137" type="line"/>
+			<point x="171" y="641" type="line"/>
+			<point x="259" y="650" type="line"/>
+			<point x="259" y="667" type="line"/>
+			<point x="12" y="667" type="line"/>
+			<point x="12" y="650" type="line"/>
+			<point x="76" y="641" type="line"/>
+			<point x="243" y="-5" type="line"/>
+			<point x="284" y="-5" type="line"/>
+			<point x="443" y="544" type="line"/>
+			<point x="596" y="-5" type="line"/>
+			<point x="636" y="-5" type="line"/>
+			<point x="812" y="641" type="line"/>
+			<point x="879" y="650" type="line"/>
+			<point x="879" y="667" type="line"/>
+			<point x="689" y="667" type="line"/>
+		</contour>
+		<contour>
+			<point x="408" y="734" type="curve"/>
+			<point x="419" y="719" type="line"/>
+			<point x="465" y="742"/>
+			<point x="506" y="760"/>
+			<point x="546" y="781" type="curve"/>
+			<point x="582" y="800"/>
+			<point x="592" y="815"/>
+			<point x="592" y="832" type="curve"/>
+			<point x="592" y="850"/>
+			<point x="579" y="864"/>
+			<point x="559" y="864" type="curve"/>
+			<point x="542" y="864"/>
+			<point x="527" y="855"/>
+			<point x="500" y="828" type="curve"/>
+			<point x="465" y="794"/>
+			<point x="437" y="764"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 15 -21</string>
+							<string>hstem 649.5 20.5</string>
+							<string>vstem 12 866</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>1182e51c5bd0314c10aa00a67d3ede23d0411c584fbcf1c170983ccad8043e0be755a9aaad9ff7f04650c28bbd55f0aeb88392ff1f1c8e283d6db0520477a1d5</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

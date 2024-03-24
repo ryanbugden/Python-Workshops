@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ecircumflex" format="2">
-	<unicode hex="00EA"/>
 	<advance width="470"/>
 	<outline>
 		<contour>
@@ -24,7 +23,7 @@
 			<point x="390" y="78"/>
 			<point x="356" y="59"/>
 			<point x="310" y="59" type="curve"/>
-			<point x="230" y="59"/>
+			<point name="hintSet0009" x="230" y="59"/>
 			<point x="172" y="126"/>
 			<point x="172" y="246" type="curve"/>
 			<point x="172" y="247" type="line"/>
@@ -35,7 +34,7 @@
 			<point x="434" y="397"/>
 			<point x="364" y="472"/>
 			<point x="250" y="472" type="curve"/>
-			<point x="137" y="472"/>
+			<point name="hintSet0014" x="137" y="472"/>
 			<point x="32" y="386"/>
 			<point x="32" y="222" type="curve"/>
 			<point x="32" y="70"/>
@@ -62,16 +61,40 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -15 74</string>
-							<string>hstem 247 25</string>
-							<string>hstem 446 26</string>
-							<string>vstem 32 140</string>
-							<string>vstem 317 117</string>
+							<string>hstem -12 49</string>
+							<string>hstem 246 22</string>
+							<string>hstem 442 22</string>
+							<string>vstem 43 71</string>
+							<string>vstem 347 62</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0009</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -12 49</string>
+							<string>hstem 246 22</string>
+							<string>hstem 442 22</string>
+							<string>vstem 43 70</string>
+							<string>vstem 347 62</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0014</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -12 49</string>
+							<string>hstem 246 22</string>
+							<string>hstem 442 22</string>
+							<string>vstem 43 71</string>
+							<string>vstem 347 62</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>eeb616073f402f4874e815588db31788698636c1b0619e340c20e6816a2e6baecf562c6d79e4d36d1a08bb3ad92c44434639da14dc00d86c03bfa332550c301b</string>
+				<string>3ab6e83b4dfb56a455dd4ae9dc4884df0d7673a4d2ece18833e3ed7f8f7cc1e311c698e9544e877b1a21c33fd52438ca4b3a46ef316a65c80b8b436bc3f7c741</string>
 			</dict>
 		</dict>
 	</lib>

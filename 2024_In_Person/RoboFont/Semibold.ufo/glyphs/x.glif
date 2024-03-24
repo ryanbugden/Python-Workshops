@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="x" format="2">
+	<advance width="464"/>
+	<outline>
+		<contour>
+			<point x="5" y="0" type="line"/>
+			<point x="151" y="0" type="line"/>
+			<point x="151" y="16" type="line"/>
+			<point x="85" y="25" type="line"/>
+			<point x="71" y="25" type="line"/>
+			<point x="5" y="17" type="line"/>
+		</contour>
+		<contour>
+			<point x="46" y="0" type="line"/>
+			<point x="78" y="0" type="line"/>
+			<point x="155" y="114" type="line"/>
+			<point x="232" y="229" type="line"/>
+			<point x="225" y="235" type="line"/>
+			<point x="215" y="243" type="line"/>
+		</contour>
+		<contour>
+			<point x="255" y="0" type="line"/>
+			<point x="457" y="0" type="line"/>
+			<point x="457" y="17" type="line"/>
+			<point x="376" y="29" type="line"/>
+			<point x="345" y="29" type="line"/>
+			<point x="255" y="16" type="line"/>
+		</contour>
+		<contour>
+			<point x="235" y="209" type="line"/>
+			<point x="406" y="453" type="line"/>
+			<point x="374" y="453" type="line"/>
+			<point x="296" y="338" type="line"/>
+			<point x="220" y="224" type="line"/>
+			<point x="227" y="217" type="line"/>
+		</contour>
+		<contour>
+			<point x="330" y="0" type="line"/>
+			<point x="423" y="0" type="line"/>
+			<point x="259" y="252" type="line"/>
+			<point x="137" y="453" type="line"/>
+			<point x="44" y="453" type="line"/>
+			<point x="198" y="215" type="line"/>
+		</contour>
+		<contour>
+			<point x="12" y="436" type="line"/>
+			<point x="91" y="424" type="line"/>
+			<point x="121" y="424" type="line"/>
+			<point x="215" y="437" type="line"/>
+			<point x="215" y="453" type="line"/>
+			<point x="12" y="453" type="line"/>
+		</contour>
+		<contour>
+			<point x="301" y="437" type="line"/>
+			<point x="367" y="428" type="line"/>
+			<point x="381" y="428" type="line"/>
+			<point x="443" y="436" type="line"/>
+			<point x="443" y="453" type="line"/>
+			<point x="301" y="453" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="aboveLC" x="246" y="473"/>
+	<anchor name="belowLC" x="214" y="-20"/>
+</glyph>

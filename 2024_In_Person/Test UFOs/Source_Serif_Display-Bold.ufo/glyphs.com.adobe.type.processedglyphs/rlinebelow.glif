@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rlinebelow" format="2">
-	<unicode hex="1E5F"/>
 	<advance width="429"/>
 	<outline>
 		<contour>
@@ -29,7 +28,7 @@
 			<point x="245" y="429"/>
 			<point x="213" y="340" type="curve"/>
 			<point name="hintSet0012" x="213" y="462" type="line"/>
-			<point name="hintSet0013" x="199" y="472" type="line"/>
+			<point x="199" y="472" type="line"/>
 			<point x="20" y="420" type="line"/>
 			<point x="20" y="402" type="line"/>
 			<point x="78" y="385" type="line"/>
@@ -60,10 +59,10 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -165 67</string>
-							<string>hstem 0 26.5</string>
-							<string>hstem 462 -20</string>
-							<string>vstem 80 133</string>
+							<string>hstem -146 48</string>
+							<string>hstem 0 20.5</string>
+							<string>hstem 456 -20</string>
+							<string>vstem 109 67</string>
 						</array>
 					</dict>
 					<dict>
@@ -71,10 +70,10 @@
 						<string>hintSet0005</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -165 67</string>
-							<string>hstem 0 26.5</string>
-							<string>hstem 336 136</string>
-							<string>vstem 80 133</string>
+							<string>hstem -146 48</string>
+							<string>hstem 0 20.5</string>
+							<string>hstem 374 90</string>
+							<string>vstem 109 67</string>
 						</array>
 					</dict>
 					<dict>
@@ -82,21 +81,10 @@
 						<string>hintSet0012</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -165 67</string>
-							<string>hstem 0 26.5</string>
-							<string>hstem 462 -20</string>
-							<string>vstem 80 133</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hintSet0013</string>
-						<key>stems</key>
-						<array>
-							<string>hstem -165 67</string>
-							<string>hstem 0 26.5</string>
-							<string>hstem 336 136</string>
-							<string>vstem 80 133</string>
+							<string>hstem -146 48</string>
+							<string>hstem 0 20.5</string>
+							<string>hstem 456 -20</string>
+							<string>vstem 109 67</string>
 						</array>
 					</dict>
 					<dict>
@@ -104,15 +92,15 @@
 						<string>hintSet0021</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -165 67</string>
-							<string>hstem 0 26.5</string>
-							<string>hstem 462 -20</string>
-							<string>vstem 26 262</string>
+							<string>hstem -146 48</string>
+							<string>hstem 0 20.5</string>
+							<string>hstem 456 -20</string>
+							<string>vstem 40 220</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>459cf91af54fa38c5b9ed76746a7b7c21acfd369268f1d0cd112cf81a91808c637576f0ebcfdc17dd95d5fb63e5a60178118ed017973b0c029a354b00c9faa11</string>
+				<string>04c7a61faea304e51e5e8acea20fdb72a225e39babc68ecd39c15f4df89603ba0cb39e574cd6a8816db939de869e8113f5df34d972fa2a0fa84ca8fe476aba01</string>
 			</dict>
 		</dict>
 	</lib>

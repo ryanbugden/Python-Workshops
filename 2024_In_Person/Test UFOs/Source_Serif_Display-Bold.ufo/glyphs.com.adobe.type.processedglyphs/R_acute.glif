@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Racute" format="2">
-	<unicode hex="0154"/>
 	<advance width="639"/>
 	<outline>
 		<contour>
@@ -90,11 +89,11 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 26.5</string>
-							<string>hstem 310 25</string>
-							<string>hstem 630 27</string>
-							<string>vstem 98 140</string>
-							<string>vstem 396 135</string>
+							<string>hstem 0 20.5</string>
+							<string>hstem 310 24</string>
+							<string>hstem 646 24</string>
+							<string>vstem 123 71</string>
+							<string>vstem 419 75</string>
 						</array>
 					</dict>
 					<dict>
@@ -102,11 +101,11 @@
 						<string>hintSet0013</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 26.5</string>
-							<string>hstem 310 25</string>
-							<string>hstem 631 26</string>
-							<string>vstem 98 140</string>
-							<string>vstem 396 135</string>
+							<string>hstem 0 20.5</string>
+							<string>hstem 310 24</string>
+							<string>hstem 649.5 20.5</string>
+							<string>vstem 123 71</string>
+							<string>vstem 419 75</string>
 						</array>
 					</dict>
 					<dict>
@@ -114,16 +113,16 @@
 						<string>hintSet0026</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -11 37</string>
-							<string>hstem 320 15</string>
-							<string>hstem 630 27</string>
-							<string>vstem 98 140</string>
-							<string>vstem 396 135</string>
+							<string>hstem -8 27.5</string>
+							<string>hstem 320 14</string>
+							<string>hstem 646 24</string>
+							<string>vstem 123 71</string>
+							<string>vstem 419 75</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>a7ed160e9ba820057a7a6e8a1c43fadddd3bb5b9a98fe4c27a6a84fe2a1aa72698262f190d78d4a11e1ede7968ef86169a94601fa1a6f1b871f5f8a8f5fc31fd</string>
+				<string>8cb6d3d27e4d6c3defb786c28e900bca37f4a0937500519b3f8c22226d7221624d7d1ec8a2152e788596c6db260c45024bf7169c0ebdf4a4a02af7e0b95e2186</string>
 			</dict>
 		</dict>
 	</lib>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="exclam" format="2">
-	<unicode hex="0021"/>
 	<advance width="262"/>
 	<outline>
 		<contour>
@@ -46,8 +45,8 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -10 149</string>
-							<string>vstem 57 149</string>
+							<string>hstem -7 108</string>
+							<string>vstem 80 108</string>
 						</array>
 					</dict>
 					<dict>
@@ -55,13 +54,13 @@
 						<string>hintSet0005</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -10 149</string>
-							<string>vstem 56 150</string>
+							<string>hstem -7 108</string>
+							<string>vstem 116.5 34.5</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>846daab33145e98dd51a97dd07e78cf9826ddc1645f6499c4c97edc1f52a33b18f3a2d858e145f7a0d33fa88789616e1f708ff6536168bc58bede91d50d2a507</string>
+				<string>9887cadcb956db40350a87bb014eb537ac1ba5badb8641a07db03d7a5dcbb98bbbc0da2ece217a171cc02afdbac47cd57a56c054519bc0d68e579be807ccf97d</string>
 			</dict>
 		</dict>
 	</lib>

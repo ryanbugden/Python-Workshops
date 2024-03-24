@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acircumflexdotbelow" format="2">
-	<unicode hex="1EAD"/>
 	<advance width="485"/>
 	<outline>
 		<contour>
@@ -75,18 +74,18 @@
 			<point x="199" y="-209"/>
 		</contour>
 		<contour>
-			<point name="hintSet0031" x="154" y="130" type="curve"/>
+			<point x="154" y="130" type="curve"/>
 			<point x="154" y="186"/>
 			<point x="185" y="218"/>
 			<point x="235" y="242" type="curve"/>
-			<point x="244" y="247"/>
+			<point name="hintSet0033" x="244" y="247"/>
 			<point x="259" y="252"/>
 			<point x="278" y="258" type="curve"/>
 			<point x="278" y="76" type="line"/>
 			<point x="255" y="59"/>
 			<point x="239" y="53"/>
 			<point x="217" y="53" type="curve"/>
-			<point x="181" y="53"/>
+			<point name="hintSet0036" x="181" y="53"/>
 			<point x="154" y="77"/>
 		</contour>
 	</outline>
@@ -101,11 +100,11 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -209 137</string>
-							<string>hstem -14 56</string>
-							<string>hstem 444 28</string>
-							<string>vstem 28 126</string>
-							<string>vstem 278 133</string>
+							<string>hstem -187 105</string>
+							<string>hstem -8 37</string>
+							<string>hstem 438 26</string>
+							<string>vstem 39 71</string>
+							<string>vstem 291 68</string>
 						</array>
 					</dict>
 					<dict>
@@ -113,11 +112,11 @@
 						<string>hintSet0016</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -209 137</string>
-							<string>hstem -15 68</string>
-							<string>hstem 444 28</string>
-							<string>vstem 28 126</string>
-							<string>vstem 278 133</string>
+							<string>hstem -187 105</string>
+							<string>hstem -12 49</string>
+							<string>hstem 438 26</string>
+							<string>vstem 39 71</string>
+							<string>vstem 292 67</string>
 						</array>
 					</dict>
 					<dict>
@@ -125,11 +124,11 @@
 						<string>hintSet0018</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -209 137</string>
-							<string>hstem -14 56</string>
-							<string>hstem 444 28</string>
-							<string>vstem 28 126</string>
-							<string>vstem 278 133</string>
+							<string>hstem -187 105</string>
+							<string>hstem -8 37</string>
+							<string>hstem 438 26</string>
+							<string>vstem 39 71</string>
+							<string>vstem 291 68</string>
 						</array>
 					</dict>
 					<dict>
@@ -137,27 +136,42 @@
 						<string>hintSet0026</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -209 137</string>
-							<string>hstem -15 68</string>
-							<string>hstem 444 28</string>
-							<string>vstem 167 140</string>
+							<string>hstem -187 105</string>
+							<string>hstem -12 49</string>
+							<string>hstem 438 26</string>
+							<string>vstem 39 71</string>
+							<string>vstem 170 106</string>
+							<string>vstem 291 68</string>
 						</array>
 					</dict>
 					<dict>
 						<key>pointTag</key>
-						<string>hintSet0031</string>
+						<string>hintSet0033</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -209 137</string>
-							<string>hstem -15 68</string>
-							<string>hstem 444 28</string>
-							<string>vstem 28 126</string>
-							<string>vstem 278 133</string>
+							<string>hstem -187 105</string>
+							<string>hstem -12 49</string>
+							<string>hstem 438 26</string>
+							<string>vstem 39 71</string>
+							<string>vstem 291 68</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0036</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -187 105</string>
+							<string>hstem -12 49</string>
+							<string>hstem 438 26</string>
+							<string>vstem 39 71</string>
+							<string>vstem 170 106</string>
+							<string>vstem 291 68</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>a2a70d2ef8b947ae15bb836d32a416fa49c83ebfeeda7e3c40ec0c2fa713e68c7d989cdfe1fed51140ed8a02aaf9087b94694ff004f562eb339230eb4f510a04</string>
+				<string>a796e2a5b5fb3ab769395b78de001f21afe859f94ef948fd135aa1ab56defa3fa74d0362942a5f2355a4373d916d7d8dd7f88cc6f55bc7cd1154528e2c0f2200</string>
 			</dict>
 		</dict>
 	</lib>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine.tosf" format="2">
+	<advance width="546"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="228" y="300" type="curve"/>
+			<point x="228" y="428"/>
+			<point x="247" y="473"/>
+			<point x="278" y="473" type="curve"/>
+			<point x="309" y="473"/>
+			<point x="316" y="402"/>
+			<point x="316" y="278" type="curve"/>
+			<point x="316" y="240"/>
+			<point x="314" y="206"/>
+			<point x="311" y="174" type="curve"/>
+			<point x="294" y="170"/>
+			<point x="284" y="167"/>
+			<point x="274" y="167" type="curve"/>
+			<point x="247" y="167"/>
+			<point x="228" y="212"/>
+		</contour>
+		<contour>
+			<point x="81" y="-143" type="line"/>
+			<point x="327" y="-139"/>
+			<point x="529" y="18"/>
+			<point x="529" y="236" type="curve"/>
+			<point x="529" y="410"/>
+			<point x="424" y="504"/>
+			<point x="272" y="504" type="curve"/>
+			<point x="160" y="504"/>
+			<point x="20" y="455"/>
+			<point x="20" y="284" type="curve"/>
+			<point x="20" y="154"/>
+			<point x="113" y="102"/>
+			<point x="194" y="102" type="curve"/>
+			<point name="hintSet0011" x="234" y="102"/>
+			<point x="271" y="105"/>
+			<point x="306" y="138" type="curve"/>
+			<point x="279" y="-26"/>
+			<point x="202" y="-90"/>
+			<point x="77" y="-117" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 118 41</string>
+							<string>hstem 501 21</string>
+							<string>vstem 32 70</string>
+							<string>vstem 356 73</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0011</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 118 41</string>
+							<string>hstem 501 21</string>
+							<string>vstem 32 70</string>
+							<string>vstem 354 75</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>fcce235fdff95a6dcd2843dc2dc233ab6d05dd9346e9a3eafecc239a5333a63ea87ee0f6d347904cdb84859290708b52f665060a949563790c4e1884bb2d301e</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

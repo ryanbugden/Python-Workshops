@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedbl" format="2">
+	<advance width="341"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="92" y="735" type="curve"/>
+			<point x="66" y="735"/>
+			<point x="52" y="717"/>
+			<point x="52" y="685" type="curve"/>
+			<point x="52" y="646"/>
+			<point x="69" y="534"/>
+			<point x="73" y="502" type="curve"/>
+			<point x="83" y="429" type="line"/>
+			<point x="100" y="429" type="line"/>
+			<point x="110" y="502" type="line"/>
+			<point x="114" y="534"/>
+			<point x="131" y="646"/>
+			<point x="131" y="685" type="curve"/>
+			<point x="131" y="717"/>
+			<point x="117" y="735"/>
+		</contour>
+		<contour>
+			<point x="250" y="735" type="curve"/>
+			<point x="224" y="735"/>
+			<point x="210" y="717"/>
+			<point x="210" y="685" type="curve"/>
+			<point x="210" y="646"/>
+			<point x="227" y="534"/>
+			<point x="231" y="502" type="curve"/>
+			<point x="241" y="429" type="line"/>
+			<point x="258" y="429" type="line"/>
+			<point x="268" y="502" type="line"/>
+			<point x="272" y="534"/>
+			<point x="289" y="646"/>
+			<point x="289" y="685" type="curve"/>
+			<point x="289" y="717"/>
+			<point x="275" y="735"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 736 -20</string>
+							<string>vstem 78 25</string>
+							<string>vstem 233 25</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>9dc81d20ed22e399c4e5e483dffeb5172e6574d4c411012fce009baae86da36524c2ec5ccd67327afa8e0954f4aaca6ed8c8add9856c0d72c69360a094b66eeb</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

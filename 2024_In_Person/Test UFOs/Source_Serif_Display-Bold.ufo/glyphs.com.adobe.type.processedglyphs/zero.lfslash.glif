@@ -64,10 +64,10 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -15 26</string>
-							<string>hstem 620 26</string>
-							<string>vstem 31 137</string>
-							<string>vstem 348 136</string>
+							<string>hstem -12 21</string>
+							<string>hstem 638 21</string>
+							<string>vstem 48 70</string>
+							<string>vstem 366 70</string>
 						</array>
 					</dict>
 					<dict>
@@ -75,10 +75,10 @@
 						<string>hintSet0002</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -15 26</string>
-							<string>hstem 631 -20</string>
-							<string>vstem 31 137</string>
-							<string>vstem 348 136</string>
+							<string>hstem -12 21</string>
+							<string>hstem 647 -20</string>
+							<string>vstem 48 70</string>
+							<string>vstem 366 70</string>
 						</array>
 					</dict>
 					<dict>
@@ -87,9 +87,9 @@
 						<key>stems</key>
 						<array>
 							<string>hstem 21 -21</string>
-							<string>hstem 620 26</string>
-							<string>vstem 31 137</string>
-							<string>vstem 348 136</string>
+							<string>hstem 638 21</string>
+							<string>vstem 48 70</string>
+							<string>vstem 366 70</string>
 						</array>
 					</dict>
 					<dict>
@@ -97,15 +97,15 @@
 						<string>hintSet0010</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -15 26</string>
-							<string>hstem 620 26</string>
-							<string>vstem 31 137</string>
-							<string>vstem 348 136</string>
+							<string>hstem -12 21</string>
+							<string>hstem 638 21</string>
+							<string>vstem 48 70</string>
+							<string>vstem 366 70</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>df541b045216d99c9647fb4b222b291a731b549ec478589f013bbeeccf5caa694903ef7d9a9edd5eaebdfd94dd87b2a33e8825e2bc1c2daf385eaa6214200bc9</string>
+				<string>6c6836c745da7e2227a60863292887db0c674c812527dc3c443a43b02c24385de0867538e8005aea2e445700ce0dd990cb2e39dbcffbf6c374cd6d6cd042cb29</string>
 			</dict>
 		</dict>
 	</lib>

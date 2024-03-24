@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abrevehoi" format="2">
+	<advance width="628"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="12" y="0" type="line"/>
+			<point x="161" y="0" type="line"/>
+			<point x="161" y="28" type="line"/>
+			<point x="104" y="36" type="line"/>
+			<point x="150" y="195" type="line"/>
+			<point x="295" y="195" type="line"/>
+			<point x="341" y="36" type="line"/>
+			<point x="284" y="28" type="line"/>
+			<point x="284" y="0" type="line"/>
+			<point x="616" y="0" type="line"/>
+			<point x="616" y="28" type="line"/>
+			<point x="561" y="38" type="line"/>
+			<point x="377" y="642" type="line"/>
+			<point x="253" y="642" type="line"/>
+			<point name="hintSet0014" x="68" y="37" type="line"/>
+			<point x="12" y="28" type="line"/>
+		</contour>
+		<contour>
+			<point x="159" y="225" type="line"/>
+			<point x="224" y="448" type="line"/>
+			<point x="286" y="225" type="line"/>
+		</contour>
+		<contour>
+			<point x="149" y="825" type="line"/>
+			<point x="167" y="754"/>
+			<point x="210" y="684"/>
+			<point x="312" y="684" type="curve"/>
+			<point x="414" y="684"/>
+			<point x="457" y="754"/>
+			<point x="475" y="825" type="curve"/>
+			<point x="441" y="841" type="line"/>
+			<point x="410" y="799"/>
+			<point x="370" y="771"/>
+			<point x="312" y="771" type="curve"/>
+			<point x="254" y="771"/>
+			<point x="214" y="799"/>
+			<point x="183" y="841" type="curve"/>
+		</contour>
+		<contour>
+			<point x="279" y="809" type="line"/>
+			<point x="362" y="818"/>
+			<point x="402" y="844"/>
+			<point x="402" y="900" type="curve"/>
+			<point x="402" y="962"/>
+			<point x="349" y="1001"/>
+			<point x="252" y="1013" type="curve"/>
+			<point x="246" y="908" type="line"/>
+			<point x="309" y="903"/>
+			<point x="326" y="892"/>
+			<point x="326" y="872" type="curve"/>
+			<point x="326" y="859"/>
+			<point x="325" y="846"/>
+			<point x="277" y="836" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 21</string>
+							<string>hstem 239 24</string>
+							<string>hstem 678 -20</string>
+							<string>hstem 730 49</string>
+							<string>vstem 336 36</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0014</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 20.5</string>
+							<string>hstem 239 24</string>
+							<string>hstem 678 -20</string>
+							<string>hstem 730 49</string>
+							<string>hstem 928 53</string>
+							<string>vstem 336 36</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>b0124809601021c429ae53148c11b6fbaa472a26ebacc0ec8b023ec4dd66401eb911b705056f1d1fcca3ec99866f41791184bc28f7f6c43ec6a367b4b30fd60e</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

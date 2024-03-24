@@ -42,15 +42,15 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -15 26</string>
-							<string>hstem 647 26</string>
-							<string>vstem 31 143</string>
-							<string>vstem 341 143</string>
+							<string>hstem -12 21</string>
+							<string>hstem 665 21</string>
+							<string>vstem 48 74</string>
+							<string>vstem 362 74</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>c588e598f1ce3e76eb6328b30dfdd909b7ae8bdd84cd1e60d549fa0d6bd6771fa30f53f482c1d69747099a2191fceb21aad5ba05004143ab3817ac8f48f78280</string>
+				<string>24828a78f79b93bf31261bca4cfc76be15719e544e3748d13ff52c4074ceb65bcd305004e78768b90a06e2706940c7a65a6af6fd1aa2e83da624bbc600394e78</string>
 			</dict>
 		</dict>
 	</lib>

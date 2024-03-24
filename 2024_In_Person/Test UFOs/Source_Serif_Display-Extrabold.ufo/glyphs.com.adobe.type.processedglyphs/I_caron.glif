@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Icaron" format="2">
+	<advance width="340"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="26" y="632" type="line"/>
+			<point x="89" y="622" type="line"/>
+			<point x="92" y="546"/>
+			<point x="93" y="441"/>
+			<point x="93" y="353" type="curve"/>
+			<point x="93" y="309" type="line"/>
+			<point x="93" y="219"/>
+			<point x="92" y="111"/>
+			<point x="89" y="32" type="curve"/>
+			<point x="26" y="23" type="line"/>
+			<point x="26" y="0" type="line"/>
+			<point x="313" y="0" type="line"/>
+			<point x="313" y="23" type="line"/>
+			<point x="251" y="32" type="line"/>
+			<point x="248" y="111"/>
+			<point x="247" y="219"/>
+			<point x="247" y="309" type="curve"/>
+			<point x="247" y="353" type="line"/>
+			<point x="247" y="441"/>
+			<point x="248" y="546"/>
+			<point x="251" y="623" type="curve"/>
+			<point x="313" y="632" type="line"/>
+			<point x="313" y="654" type="line"/>
+			<point x="26" y="654" type="line"/>
+		</contour>
+		<contour>
+			<point x="20" y="872" type="line"/>
+			<point x="4" y="853" type="line"/>
+			<point x="137" y="709" type="line"/>
+			<point x="203" y="709" type="line"/>
+			<point x="336" y="853" type="line"/>
+			<point x="320" y="872" type="line"/>
+			<point x="170" y="790" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 20.5</string>
+							<string>hstem 649.5 20.5</string>
+							<string>vstem 123 71</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>fab7729b85e60ab645462f5737e3bfeee80befd220250341b3e3222436f21c70be3263df0118903600f8b4ea49de9fbee589d02087c68beedd8dddb6d6638ef1</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

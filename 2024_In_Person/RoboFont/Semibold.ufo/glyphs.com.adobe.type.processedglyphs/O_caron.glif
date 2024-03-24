@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ocaron" format="2">
+	<advance width="641"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="320" y="7" type="curve"/>
+			<point x="192" y="7"/>
+			<point x="135" y="150"/>
+			<point x="135" y="335" type="curve"/>
+			<point x="135" y="520"/>
+			<point x="192" y="662"/>
+			<point x="320" y="662" type="curve"/>
+			<point x="449" y="662"/>
+			<point x="505" y="516"/>
+			<point x="505" y="331" type="curve"/>
+			<point x="505" y="145"/>
+			<point x="449" y="7"/>
+		</contour>
+		<contour>
+			<point x="320" y="-16" type="curve"/>
+			<point x="466" y="-16"/>
+			<point x="595" y="110"/>
+			<point x="595" y="331" type="curve"/>
+			<point x="595" y="560"/>
+			<point x="467" y="684"/>
+			<point x="320" y="684" type="curve"/>
+			<point x="175" y="684"/>
+			<point x="45" y="556"/>
+			<point x="45" y="335" type="curve"/>
+			<point x="45" y="105"/>
+			<point x="174" y="-16"/>
+		</contour>
+		<contour>
+			<point x="185" y="863" type="line"/>
+			<point x="172" y="848" type="line"/>
+			<point x="304" y="720" type="line"/>
+			<point x="337" y="720" type="line"/>
+			<point x="469" y="848" type="line"/>
+			<point x="456" y="863" type="line"/>
+			<point x="320" y="778" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -16 22</string>
+							<string>hstem 664 22</string>
+							<string>vstem 47 80</string>
+							<string>vstem 513 80</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>00d23da9d583d9e4a8620536ecbb2f72280be9d5383881590cddcaae68817e602a95746ea96a23b04b75ef4b97c7befcdf71b8aa817a4ffada4e3425f7553ba9</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

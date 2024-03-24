@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Adieresis" format="2">
-	<unicode hex="00C4"/>
 	<advance width="620"/>
 	<outline>
 		<contour>
@@ -18,7 +17,7 @@
 			<point x="547" y="32" type="line"/>
 			<point x="347" y="660" type="line"/>
 			<point x="272" y="660" type="line"/>
-			<point x="74" y="31" type="line"/>
+			<point name="hintSet0014" x="74" y="31" type="line"/>
 			<point x="12" y="22" type="line"/>
 		</contour>
 		<contour>
@@ -27,7 +26,7 @@
 			<point x="333" y="244" type="line"/>
 		</contour>
 		<contour>
-			<point name="hintSet0019" x="197" y="720" type="curve"/>
+			<point x="197" y="720" type="curve"/>
 			<point x="230" y="720"/>
 			<point x="258" y="742"/>
 			<point x="258" y="779" type="curve"/>
@@ -66,30 +65,30 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 26.5</string>
-							<string>hstem 217 27</string>
-							<string>hstem 660 -20</string>
-							<string>hstem 720 118</string>
-							<string>vstem 12 170</string>
-							<string>vstem 358 122</string>
+							<string>hstem 0 21</string>
+							<string>hstem 239 24</string>
+							<string>hstem 678 -20</string>
+							<string>hstem 748 97</string>
+							<string>vstem 157 97</string>
+							<string>vstem 354 97</string>
 						</array>
 					</dict>
 					<dict>
 						<key>pointTag</key>
-						<string>hintSet0019</string>
+						<string>hintSet0014</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 26.5</string>
-							<string>hstem 217 27</string>
-							<string>hstem 660 -20</string>
-							<string>hstem 720 118</string>
-							<string>vstem 136 122</string>
-							<string>vstem 358 122</string>
+							<string>hstem 0 20.5</string>
+							<string>hstem 239 24</string>
+							<string>hstem 678 -20</string>
+							<string>hstem 748 97</string>
+							<string>vstem 157 97</string>
+							<string>vstem 354 97</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>8c5f8efa8fd9407d1abb4cfbe9302cc5d8ae2f0dd1c6c2864947a473e5519366f2440a87ffb12fe2e57b36d9ecd96f4a7da3c16d48f37cc3cb8297e734b12d0c</string>
+				<string>228e8b6c0c862135735d08124799126171fe60017044264624966ea11ded7b11708651a5417cace1bd307bbb58f66c8d59b725e2f963f2a9b889a78f9095dff9</string>
 			</dict>
 		</dict>
 	</lib>

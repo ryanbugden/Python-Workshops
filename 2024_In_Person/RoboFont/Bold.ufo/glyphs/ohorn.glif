@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ohorn" format="2">
+	<advance width="504"/>
+	<outline>
+		<component base="o"/>
+		<component base="horncmb" xOffset="369" yOffset="-82"/>
+	</outline>
+	<anchor name="aboveLC" x="252" y="473"/>
+	<anchor name="belowLC" x="252" y="-20"/>
+</glyph>

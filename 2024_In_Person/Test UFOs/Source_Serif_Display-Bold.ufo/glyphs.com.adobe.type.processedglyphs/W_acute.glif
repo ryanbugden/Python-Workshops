@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Wacute" format="2">
-	<unicode hex="1E82"/>
 	<advance width="897"/>
 	<outline>
 		<contour>
@@ -11,23 +10,23 @@
 			<point x="634" y="636" type="line"/>
 			<point x="634" y="657" type="line"/>
 			<point x="371" y="657" type="line"/>
-			<point name="hintSet0007" x="371" y="636" type="line"/>
+			<point x="371" y="636" type="line"/>
 			<point x="447" y="623" type="line"/>
 			<point x="326" y="175" type="line"/>
-			<point name="hintSet0010" x="217" y="626" type="line"/>
+			<point x="217" y="626" type="line"/>
 			<point x="294" y="636" type="line"/>
 			<point x="294" y="657" type="line"/>
 			<point x="12" y="657" type="line"/>
-			<point name="hintSet0014" x="12" y="636" type="line"/>
-			<point name="hintSet0015" x="69" y="627" type="line"/>
+			<point x="12" y="636" type="line"/>
+			<point x="69" y="627" type="line"/>
 			<point x="228" y="-2" type="line"/>
 			<point x="310" y="-2" type="line"/>
 			<point x="445" y="501" type="line"/>
 			<point x="578" y="-2" type="line"/>
 			<point x="657" y="-2" type="line"/>
 			<point x="822" y="627" type="line"/>
-			<point name="hintSet0022" x="885" y="636" type="line"/>
-			<point name="hintSet0023" x="885" y="657" type="line"/>
+			<point x="885" y="636" type="line"/>
+			<point x="885" y="657" type="line"/>
 			<point x="712" y="657" type="line"/>
 		</contour>
 		<contour>
@@ -60,74 +59,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 19 -21</string>
-							<string>hstem 631 26</string>
-							<string>vstem 712 173</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hintSet0007</string>
-						<key>stems</key>
-						<array>
-							<string>hstem 19 -21</string>
-							<string>hstem 636 21</string>
-							<string>vstem 12 873</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hintSet0010</string>
-						<key>stems</key>
-						<array>
-							<string>hstem 19 -21</string>
-							<string>hstem 631 26</string>
-							<string>vstem 12 873</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hintSet0014</string>
-						<key>stems</key>
-						<array>
-							<string>hstem 19 -21</string>
-							<string>hstem 636 21</string>
-							<string>vstem 12 873</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hintSet0015</string>
-						<key>stems</key>
-						<array>
-							<string>hstem 19 -21</string>
-							<string>hstem 631.5 25.5</string>
-							<string>vstem 712 173</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hintSet0022</string>
-						<key>stems</key>
-						<array>
-							<string>hstem 19 -21</string>
-							<string>hstem 636 21</string>
-							<string>vstem 712 173</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>hintSet0023</string>
-						<key>stems</key>
-						<array>
-							<string>hstem 19 -21</string>
-							<string>hstem 631 26</string>
-							<string>vstem 712 173</string>
+							<string>hstem 15 -21</string>
+							<string>hstem 649.5 20.5</string>
+							<string>vstem 12 866</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>d65a5b2e6f15fa208d6591b5b9564a64daacce51de8cf064705699cd9130a579b146ab74a77a6529a9c37d3230a15ca325735837473e93f61189db1fa0531324</string>
+				<string>1182e51c5bd0314c10aa00a67d3ede23d0411c584fbcf1c170983ccad8043e0be755a9aaad9ff7f04650c28bbd55f0aeb88392ff1f1c8e283d6db0520477a1d5</string>
 			</dict>
 		</dict>
 	</lib>

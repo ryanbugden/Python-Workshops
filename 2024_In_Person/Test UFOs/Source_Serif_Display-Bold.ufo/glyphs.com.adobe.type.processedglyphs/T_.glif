@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="T" format="2">
-	<unicode hex="0054"/>
 	<advance width="580"/>
 	<outline>
 		<contour>
@@ -45,14 +44,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 0 27</string>
-							<string>hstem 630 27</string>
-							<string>vstem 220 140</string>
+							<string>hstem 0 21</string>
+							<string>hstem 646 24</string>
+							<string>vstem 249 71</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>4eba233748d11feee939f259dfe6976de1c630ca91cd123887f0a31c0ba04abd200cf970707f8be28dee9a8ed35c4103a1e2ec722205cda23e84341a2ed906b6</string>
+				<string>df1402d31d7a633d31577bfbb51314f4677f720623231f271b1e0558414a9078454b014696168dca6391b387ff8c0633302852102224a236dc6d35f554dd5d51</string>
 			</dict>
 		</dict>
 	</lib>

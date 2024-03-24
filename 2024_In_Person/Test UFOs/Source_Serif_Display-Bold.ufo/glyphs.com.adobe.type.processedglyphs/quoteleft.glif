@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quoteleft" format="2">
-	<unicode hex="2018"/>
-	<unicode hex="02BB"/>
 	<advance width="192"/>
 	<outline>
 		<contour>
@@ -38,13 +36,13 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem 721 -20</string>
-							<string>vstem 28 135</string>
+							<string>hstem 734 -20</string>
+							<string>vstem 43 103</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w192c97469135469163497c163535163556150581c120598l81620100659124677c168699l1587219169728643c285502853033510c414925747777469</string>
+				<string>w188c96513126513146532c146563146579137595c116609l8063399676117693c157716l1497349471243661c435854356846548c525307051483513</string>
 			</dict>
 		</dict>
 	</lib>

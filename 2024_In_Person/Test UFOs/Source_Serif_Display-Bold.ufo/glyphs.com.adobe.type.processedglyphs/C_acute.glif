@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Cacute" format="2">
-	<unicode hex="0106"/>
 	<advance width="566"/>
 	<outline>
 		<contour>
@@ -65,14 +64,14 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -16 26</string>
-							<string>hstem 647 26</string>
-							<string>vstem 36 148</string>
+							<string>hstem -16 21</string>
+							<string>hstem 665 21</string>
+							<string>vstem 47 80</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>1690b7329aa9da9ca66f0f100221a5b6ba2b1295fbebc345350a42a62294d53487a3b27c85a0ec0253fb9fbfdec78b70c4dbba8274736e82568f71d8d662c7f3</string>
+				<string>78a2dc7bb9c1654146d854e96d52db075435769fa528e930389ef729533e9cab71792cfa98f5e8306827128979a3888551811e6432f812c2f9b5dc88b0101131</string>
 			</dict>
 		</dict>
 	</lib>

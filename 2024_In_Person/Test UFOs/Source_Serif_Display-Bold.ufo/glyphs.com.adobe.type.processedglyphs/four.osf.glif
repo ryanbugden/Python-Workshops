@@ -33,15 +33,15 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -2 105</string>
-							<string>hstem 500 -20</string>
-							<string>vstem 22 46</string>
-							<string>vstem 271 128</string>
+							<string>hstem 26 62</string>
+							<string>hstem 518 -20</string>
+							<string>vstem 24 29</string>
+							<string>vstem 280 66</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>w503l271-144l399-144l399-2l482-2l482103l399103l399500l295500l2283l22-2l271-2l169258l271416l271103l68103</string>
+				<string>w465l280-152l346-152l34626l44626l44688l34688l346518l300518l2480l2426l28026l165267l280453l28088l5388</string>
 			</dict>
 		</dict>
 	</lib>

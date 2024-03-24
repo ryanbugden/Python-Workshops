@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Cdotaccent" format="2">
-	<unicode hex="010A"/>
 	<advance width="566"/>
 	<outline>
 		<contour>
@@ -61,16 +60,16 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -16 26</string>
-							<string>hstem 647 26</string>
-							<string>hstem 714 136</string>
-							<string>vstem 36 148</string>
-							<string>vstem 274 140</string>
+							<string>hstem -16 21</string>
+							<string>hstem 665 21</string>
+							<string>hstem 744 105</string>
+							<string>vstem 47 80</string>
+							<string>vstem 292 106</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>56bd9ba6833f6a70e6d929b4c1a4dc266f07b34ddd97ddf322b9ab618196041fa50a6ab9212f61e2f9a7bef6a97d21c3fb3d642b9ecbb2916b0b321c0cb0a687</string>
+				<string>355136895bf880b5793eccd1c750d8547feeef03cd76d0cc3b03e862d8cad3c7c36974eed9f0d7fd7f24b5babfae7e47811328bcd36652517ce5fe76b5713db2</string>
 			</dict>
 		</dict>
 	</lib>

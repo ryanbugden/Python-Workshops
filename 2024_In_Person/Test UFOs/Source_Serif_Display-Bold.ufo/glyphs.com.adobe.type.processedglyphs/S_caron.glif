@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Scaron" format="2">
-	<unicode hex="0160"/>
 	<advance width="494"/>
 	<outline>
 		<contour>
@@ -46,7 +45,7 @@
 			<point x="68" y="191" type="line"/>
 			<point x="47" y="191" type="line"/>
 			<point x="39" y="36" type="line"/>
-			<point x="92" y="3"/>
+			<point name="hintSet0020" x="92" y="3"/>
 			<point x="153" y="-16"/>
 		</contour>
 		<contour>
@@ -70,10 +69,10 @@
 						<string>hintSet0000</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -16 26</string>
-							<string>hstem 647 26</string>
-							<string>vstem 48 104</string>
-							<string>vstem 341 111</string>
+							<string>hstem -16 21</string>
+							<string>hstem 665 21</string>
+							<string>vstem 52 58</string>
+							<string>vstem 367 62</string>
 						</array>
 					</dict>
 					<dict>
@@ -81,10 +80,10 @@
 						<string>hintSet0006</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -16 26</string>
-							<string>hstem 647 26</string>
-							<string>vstem 48 104</string>
-							<string>vstem 396 24</string>
+							<string>hstem -16 21</string>
+							<string>hstem 665 21</string>
+							<string>vstem 52 58</string>
+							<string>vstem 381 18</string>
 						</array>
 					</dict>
 					<dict>
@@ -92,15 +91,26 @@
 						<string>hintSet0014</string>
 						<key>stems</key>
 						<array>
-							<string>hstem -16 26</string>
-							<string>hstem 647 26</string>
-							<string>vstem 48 104</string>
-							<string>vstem 341 111</string>
+							<string>hstem -16 21</string>
+							<string>hstem 665 21</string>
+							<string>vstem 44 20</string>
+							<string>vstem 367 62</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0020</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -16 21</string>
+							<string>hstem 665 21</string>
+							<string>vstem 52 58</string>
+							<string>vstem 367 62</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>9d4aba2b9be570b9e526999bdd9fd65e3fbaceae35c72ec397eb6df15d7cb60c12a60ba1a4db0590c0838a7e44f68eca453252971bf114c33c5083421da83099</string>
+				<string>84d58d588dedc890fae02854ed8979aca7d8d8f2108e8c1e48d3eb9374e56ea3105f4ba3c6516db483699081cf268b705e8a41c42a2e80475553eded53aaadd8</string>
 			</dict>
 		</dict>
 	</lib>

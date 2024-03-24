@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ocircumflexdotbelow" format="2">
+	<advance width="502"/>
+	<outline>
+		<contour>
+			<point name="hintSet0000" x="252" y="-188" type="curve"/>
+			<point x="281" y="-188"/>
+			<point x="305" y="-168"/>
+			<point x="305" y="-134" type="curve"/>
+			<point x="305" y="-102"/>
+			<point x="281" y="-82"/>
+			<point x="252" y="-82" type="curve"/>
+			<point x="222" y="-82"/>
+			<point x="198" y="-102"/>
+			<point x="198" y="-134" type="curve"/>
+			<point x="198" y="-168"/>
+			<point x="222" y="-188"/>
+		</contour>
+		<contour>
+			<point x="252" y="9" type="curve"/>
+			<point x="170" y="9"/>
+			<point x="119" y="84"/>
+			<point x="119" y="224" type="curve"/>
+			<point x="119" y="365"/>
+			<point x="170" y="443"/>
+			<point x="252" y="443" type="curve"/>
+			<point x="332" y="443"/>
+			<point x="383" y="368"/>
+			<point x="383" y="228" type="curve"/>
+			<point x="383" y="87"/>
+			<point x="332" y="9"/>
+		</contour>
+		<contour>
+			<point x="252" y="-12" type="curve"/>
+			<point x="361" y="-12"/>
+			<point x="459" y="73"/>
+			<point x="459" y="228" type="curve"/>
+			<point x="459" y="385"/>
+			<point x="362" y="464"/>
+			<point x="252" y="464" type="curve"/>
+			<point x="141" y="464"/>
+			<point x="44" y="380"/>
+			<point x="44" y="224" type="curve"/>
+			<point x="44" y="69"/>
+			<point x="140" y="-12"/>
+		</contour>
+		<contour>
+			<point x="374" y="528" type="line"/>
+			<point x="389" y="541" type="line"/>
+			<point x="266" y="711" type="line"/>
+			<point x="237" y="711" type="line"/>
+			<point x="114" y="541" type="line"/>
+			<point x="129" y="528" type="line"/>
+			<point x="252" y="640" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.adobe.type.autohint.v2</key>
+			<dict>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>pointTag</key>
+						<string>hintSet0000</string>
+						<key>stems</key>
+						<array>
+							<string>hstem -187 105</string>
+							<string>hstem -12 21</string>
+							<string>hstem 443 21</string>
+							<string>vstem 44 73</string>
+							<string>vstem 198 106</string>
+							<string>vstem 384 74</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>b5a69c72fc41f2e7114b5d248406654bd2cecfeaae90dc04afe5eccd4eaef991ca2494b081b4c5c1408f7412f214b5922d69111865c3e52d8729df5e11903106</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>
