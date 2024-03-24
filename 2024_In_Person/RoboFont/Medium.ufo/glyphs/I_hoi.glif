@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ihoi" format="2">
-	<advance width="321"/>
-	<outline>
-		<component base="I"/>
-		<component base="hoicmb.cap" xOffset="160"/>
-	</outline>
-</glyph>

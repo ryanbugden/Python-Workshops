@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ubreve" format="2">
-	<advance width="551"/>
-	<outline>
-		<component base="u"/>
-		<component base="brevecmb" xOffset="273"/>
-	</outline>
-</glyph>

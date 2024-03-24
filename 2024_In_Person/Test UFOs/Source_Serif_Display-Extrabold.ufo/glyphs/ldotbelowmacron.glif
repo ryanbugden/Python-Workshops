@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ldotbelowmacron" format="2">
-	<advance width="289"/>
-	<outline>
-		<component base="ldotbelow"/>
-		<component base="macroncmb" xOffset="144" yOffset="249"/>
-	</outline>
-</glyph>

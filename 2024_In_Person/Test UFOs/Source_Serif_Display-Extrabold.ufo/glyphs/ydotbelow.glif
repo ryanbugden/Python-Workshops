@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ydotbelow" format="2">
-	<advance width="495"/>
-	<outline>
-		<component base="y"/>
-		<component base="dotbelowcmb" xOffset="360" yOffset="-28"/>
-	</outline>
-</glyph>
