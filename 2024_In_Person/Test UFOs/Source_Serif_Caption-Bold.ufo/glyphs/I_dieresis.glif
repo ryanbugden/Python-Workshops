@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idieresis" format="2">
+	<unicode hex="00CF"/>
+	<advance width="411"/>
+	<outline>
+		<contour>
+			<point x="312" y="165" type="curve" smooth="yes"/>
+			<point x="266" y="165"/>
+			<point x="229" y="128"/>
+			<point x="229" y="82" type="curve" smooth="yes"/>
+			<point x="229" y="36"/>
+			<point x="266" y="0"/>
+			<point x="312" y="0" type="curve" smooth="yes"/>
+			<point x="358" y="0"/>
+			<point x="394" y="36"/>
+			<point x="394" y="82" type="curve" smooth="yes"/>
+			<point x="394" y="128"/>
+			<point x="358" y="165"/>
+		</contour>
+		<contour>
+			<point x="99" y="165" type="curve" smooth="yes"/>
+			<point x="53" y="165"/>
+			<point x="17" y="128"/>
+			<point x="17" y="82" type="curve" smooth="yes"/>
+			<point x="17" y="36"/>
+			<point x="53" y="0"/>
+			<point x="99" y="0" type="curve" smooth="yes"/>
+			<point x="145" y="0"/>
+			<point x="182" y="36"/>
+			<point x="182" y="82" type="curve" smooth="yes"/>
+			<point x="182" y="128"/>
+			<point x="145" y="165"/>
+		</contour>
+		<component base="I" xScale="-1" yScale="-1" xOffset="411" yOffset="869"/>
+	</outline>
+</glyph>
