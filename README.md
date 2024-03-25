@@ -14,7 +14,10 @@
 - [Scripting in RoboFont](https://robofont.com/documentation/reference/fontparts/), specifically
 - [Scripting in Glyphs](https://glyphsapp.com/learn/scripting-glyphs-part-1), specifically
 - [Python for Designers](https://pythonfordesigners.com/), by Roberto Arista
-- [RoboFont Script Database](https://docs.google.com/spreadsheets/d/1uyeZXfwLe-vs1YmIDQvQwDBjTQohCd9dbRN2WqGJQf8/edit#gid=907448291)
+
+Scripts & Extensions
+- [RoboFont Script Database](https://docs.google.com/spreadsheets/d/1uyeZXfwLe-vs1YmIDQvQwDBjTQohCd9dbRN2WqGJQf8/edit#gid=907448291), an informal collection of little scripts for RoboFont.
+- [RoboFont Mechanic](https://robofontmechanic.com/), an extension that gives you quick access to other extensions.
 
 ### Extra resources:
 - [DrawBot Proofing](https://github.com/adobe-type-tools/drawBotProofing), by Frank Grießhammer & Josh Hadley
