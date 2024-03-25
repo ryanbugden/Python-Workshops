@@ -1,4 +1,6 @@
+# Import a library to get the RoboFont UI stuff
 from mojo.UI import CurrentSpaceCenter
+
 # Get the font
 font = CurrentFont()
 # Get the text in Space Center

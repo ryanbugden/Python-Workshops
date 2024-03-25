@@ -701,8 +701,6 @@
 			<string>bitcoin</string>
 			<string>fraction</string>
 			<string>slash.frac</string>
-			<string>figurespace</string>
-			<string>space.frac</string>
 			<string>percent</string>
 			<string>perthousand</string>
 			<string>onequarter</string>
@@ -1460,14 +1458,6 @@
 			<string>Igravecyr.scbgr</string>
 			<string>El.scbgr</string>
 			<string>Ef.scbgr</string>
-			<string>enspace</string>
-			<string>emspace</string>
-			<string>threeperemspace</string>
-			<string>fourperemspace</string>
-			<string>sixperemspace</string>
-			<string>thinspace</string>
-			<string>hairspace</string>
-			<string>zerowidthspace</string>
 			<string>caron.alt</string>
 			<string>commabelowcmb.alt</string>
 			<string>tonos.cap</string>

@@ -1,11 +1,12 @@
 font = CurrentFont()
-
+# Set up some a leader glyph, and some follower glyphs, for the left sidebearing
 left_spacing_relationships = {
                 "O": ["C", "G", "Q"],
                 "n": ["i"],
                 "o": ["c", "d", "e"],
                 }
-                
+
+# Loop through that dictionary
 for leader_glyph_name, follower_glyph_names in left_spacing_relationships.items():
     # Get the leader glyph object
     leader_glyph = font[leader_glyph_name]

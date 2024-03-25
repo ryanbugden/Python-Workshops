@@ -1,3 +1,4 @@
+# Set up some interpolation value hypotheses
 interpolations = {
             "Medium": 0.1,
             "Semibold": 0.3,
@@ -6,10 +7,12 @@ interpolations = {
             "Black": 0.8,
             }
 
+# Get the first (frontmost) and second fonts
 all_fonts = AllFonts()
 first_font = all_fonts[0]
 second_font = all_fonts[1]
 print(first_font.path)
+# Loop through the dictionary above
 for style_name, factor in interpolations.items():
     # Make a new empty font object, but don't open it yet.
     new_font = NewFont(showInterface=False)
@@ -17,6 +20,7 @@ for style_name, factor in interpolations.items():
     new_font.interpolate(factor, first_font, second_font)
     # Set the correct glyph order
     new_font.glyphOrder = first_font.glyphOrder
+    # Set the font info names
     new_font.info.familyName = first_font.info.familyName
     new_font.info.styleName = style_name
     # Save the font file

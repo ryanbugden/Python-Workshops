@@ -1,3 +1,4 @@
+# Factor goes from 0 to 1. We're extrapolating by choosing 2!
 factor = 2
 
 # Get all the fonts
@@ -12,6 +13,7 @@ new_font = NewFont(showInterface=False)
 new_font.interpolate(factor, first_font, second_font)
 # Set the correct glyph order
 new_font.glyphOrder = first_font.glyphOrder
+
 # Open the font
 new_font.openInterface()
 

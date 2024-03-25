@@ -1,3 +1,5 @@
+# menuTitle: Stretch All Glyphs Into Cap Area
+
 font = CurrentFont()
 
 # Loop through every glyph
@@ -13,7 +15,6 @@ for glyph in font:
     with glyph.undo():
         # Scale the glyph vertically
         glyph.scaleBy((1, y_scale), origin=(glyph.width / 2, 0))
-    
-    # Move it back to baseline
-    glyph.moveBy((0, -glyph.bounds[1]))
+        # Move it vertically back to baseline
+        glyph.moveBy((0, -glyph.bounds[1]))
     

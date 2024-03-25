@@ -1,8 +1,5 @@
-# menuTitle : Copy Glyph Names Menu
-
 from mojo.subscriber import Subscriber, registerFontOverviewSubscriber
 from AppKit import NSPasteboardTypeString, NSPasteboard
-
 
 class copyGlyphsAs(Subscriber):
     
