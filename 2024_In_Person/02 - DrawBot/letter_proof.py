@@ -1,8 +1,11 @@
 # Make a function that draws a glyph, feed it a glyph name, font name,
 # and whether or not you want it to be outlined.
 def draw_glyph(glyph_name, font_name, has_stroke):
+    baseline_height = 100
     # Set the font
     font(font_name)
+    # Set the font size
+    fontSize(600)
     # Set the fill and stroke for has_stroke == True
     if has_stroke == True:
         fill(None)
@@ -13,27 +16,23 @@ def draw_glyph(glyph_name, font_name, has_stroke):
     else:
         fill(0, 0.2)
         stroke(None)
-    text(glyph_name, (my_width/2, baseline_height), align='center')
+    text(glyph_name, (width()/2, baseline_height), align='center')
 
-baseline_height = 30
+# Make a list of glyph names
 my_glyphs = ["a", "b", "c", "d", "e", "f"]
 # Loop through each of those glyphs
 for glyph_name in my_glyphs:
     newPage('LetterLandscape')
-    my_width = width()
-    my_height = height()
-    # Draw background white.
+    # Draw white background
     fill(1)
-    rect(0, 0, my_width, my_height)
-    # Set the fontSize
-    fontSize(600)
-    # First make the Helvetica glyph
+    rect(0, 0, width(), height())
+    # Run the function, with some different fonts, and settings
     draw_glyph(glyph_name, 'Helvetica', False)
-    # First make the Arial glyph
     draw_glyph(glyph_name, 'Arial', True)
     draw_glyph(glyph_name, 'Times New Roman', True)
     draw_glyph(glyph_name, 'Courier', True)
     draw_glyph(glyph_name, 'Menlo', True)
     draw_glyph(glyph_name, 'Monaco', False)
 
-saveImage("letter_proof.pdf")
+# Save whole set of pages as a PDF
+saveImage("_output/letter_proof.pdf")
