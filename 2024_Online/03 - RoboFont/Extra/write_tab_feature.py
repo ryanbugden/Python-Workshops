@@ -2,12 +2,14 @@
 
 f = CurrentFont()
 
+# Start off the feature code
 tab_feature = """
 feature tnum {
     sub @default_figures by @tabular_figures;
 } tnum;
 """
 
+# Make lists of glyph names to fill in the @ definitions
 tab_on  = []
 tab_off = []
 for g_name in f.glyphOrder:
@@ -18,4 +20,5 @@ for g_name in f.glyphOrder:
 tab_on  = f"@tabular_figures = [{' '.join(tab_on)}];\n"
 tab_off = f"@default_figures = [{' '.join(tab_off)}];\n"
 
+# Inject the features into the font
 f.features.text = tab_on + tab_off + tab_feature

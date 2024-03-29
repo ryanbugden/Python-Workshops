@@ -1,8 +1,10 @@
 # menuTitle: Make Bad Tabular Figures
 
 f = CurrentFont()
-tab_width = f['zero'].width  # The desired width for each glyph
+# The desired width for each glyph
+tab_width = f['zero'].width  
 
+# Make a list of the glyphs we want to influence
 figures = ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"]
 
 for g_name in figures:
