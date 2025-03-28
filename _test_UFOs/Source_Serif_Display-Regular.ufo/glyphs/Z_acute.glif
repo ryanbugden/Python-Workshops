@@ -4,6 +4,5 @@
 	<advance width="501"/>
 	<outline>
 		<component base="Z"/>
-		<component base="acutecmb.cap" xOffset="244"/>
 	</outline>
 </glyph>

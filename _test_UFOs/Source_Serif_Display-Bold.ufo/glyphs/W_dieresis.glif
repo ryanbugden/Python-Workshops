@@ -4,6 +4,5 @@
 	<advance width="897"/>
 	<outline>
 		<component base="W"/>
-		<component base="dieresiscmb.cap" xOffset="486"/>
 	</outline>
 </glyph>

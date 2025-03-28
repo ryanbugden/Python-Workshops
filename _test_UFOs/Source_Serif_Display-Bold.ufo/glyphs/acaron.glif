@@ -4,6 +4,5 @@
 	<advance width="485"/>
 	<outline>
 		<component base="a"/>
-		<component base="caroncmb" xOffset="235"/>
 	</outline>
 </glyph>

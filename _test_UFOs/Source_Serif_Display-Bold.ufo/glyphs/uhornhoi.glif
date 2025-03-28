@@ -4,6 +4,5 @@
 	<advance width="557"/>
 	<outline>
 		<component base="uhorn"/>
-		<component base="hoicmb" xOffset="278"/>
 	</outline>
 </glyph>

@@ -3,7 +3,6 @@
 	<unicode hex="FB04"/>
 	<advance width="868"/>
 	<outline>
-		<component base="f.ligalong"/>
 		<component base="f_l" xOffset="289"/>
 	</outline>
 </glyph>

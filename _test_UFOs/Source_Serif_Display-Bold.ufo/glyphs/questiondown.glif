@@ -2,7 +2,4 @@
 <glyph name="questiondown" format="2">
 	<unicode hex="00BF"/>
 	<advance width="382"/>
-	<outline>
-		<component base="questiondown.cap" yOffset="-200"/>
-	</outline>
 </glyph>

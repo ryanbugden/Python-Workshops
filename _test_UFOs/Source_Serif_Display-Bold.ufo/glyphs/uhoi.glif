@@ -4,6 +4,5 @@
 	<advance width="557"/>
 	<outline>
 		<component base="u"/>
-		<component base="hoicmb" xOffset="278"/>
 	</outline>
 </glyph>

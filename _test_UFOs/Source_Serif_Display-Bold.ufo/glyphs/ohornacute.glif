@@ -2,8 +2,4 @@
 <glyph name="ohornacute" format="2">
 	<unicode hex="1EDB"/>
 	<advance width="529"/>
-	<outline>
-		<component base="ohorn"/>
-		<component base="acutecmb" xOffset="264"/>
-	</outline>
 </glyph>

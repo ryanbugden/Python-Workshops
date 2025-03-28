@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="weight" minimum="400" maximum="700" default="400">
+      <labelname xml:lang="en">Weight</labelname>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="../_test_UFOs/Source_Serif_Display-Bold.ufo" name="source.1" familyname="Source Serif 4 Display" stylename="Bold">
+      <location>
+        <dimension name="weight" xvalue="700"/>
+      </location>
+    </source>
+    <source filename="../_test_UFOs/Source_Serif_Display-Regular.ufo" name="source.2" familyname="Source Serif 4 Display" stylename="Regular">
+      <location>
+        <dimension name="weight" xvalue="400"/>
+      </location>
+    </source>
+  </sources>
+  <variable-fonts>
+    <variable-font name="VF">
+      <axis-subsets>
+        <axis-subset name="weight"/>
+      </axis-subsets>
+      <lib>
+        <dict>
+          <key>public.fontInfo</key>
+          <dict>
+            <key>familyName</key>
+            <string>VARIABLE TEST FAMILY NAME</string>
+            <key>postscriptFontName</key>
+            <string>VariableTest-Postscript</string>
+            <key>postscriptFullName</key>
+            <string>VariableTestPostscript</string>
+          </dict>
+          <key>public.skipExportGlyphs</key>
+          <array>
+            <string>A</string>
+          </array>
+        </dict>
+      </lib>
+    </variable-font>
+  </variable-fonts>
+  <instances>
+    <instance familyname="Source Serif 4 Display" stylename="Bold" filename="instances/Source Serif 4 Display-Bold.ufo">
+      <location>
+        <dimension name="weight" xvalue="700"/>
+      </location>
+    </instance>
+    <instance familyname="Source Serif 4 Display" stylename="Regular" filename="instances/Source Serif 4 Display-Regular.ufo">
+      <location>
+        <dimension name="weight" xvalue="400"/>
+      </location>
+    </instance>
+  </instances>
+</designspace>

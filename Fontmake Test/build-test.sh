@@ -1,0 +1,1 @@
+fontmake --mm-designspace "Source_Serif-Test.designspace" --output variable --output-path "TEST-Variable.ttf" --flatten-components --verbose INFO

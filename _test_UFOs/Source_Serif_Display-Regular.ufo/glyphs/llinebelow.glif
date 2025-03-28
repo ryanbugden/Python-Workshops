@@ -4,6 +4,5 @@
 	<advance width="273"/>
 	<outline>
 		<component base="l"/>
-		<component base="macronbelowcmb" xOffset="139"/>
 	</outline>
 </glyph>

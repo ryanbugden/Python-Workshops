@@ -4,6 +4,5 @@
 	<advance width="485"/>
 	<outline>
 		<component base="a"/>
-		<component base="ringcmb" xOffset="235"/>
 	</outline>
 </glyph>

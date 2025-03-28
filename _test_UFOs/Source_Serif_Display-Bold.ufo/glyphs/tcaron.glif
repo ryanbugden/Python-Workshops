@@ -4,7 +4,6 @@
 	<advance width="336"/>
 	<outline>
 		<component base="t"/>
-		<component base="caron.alt" xOffset="271"/>
 	</outline>
 	<anchor name="aboveLC" x="170" y="590"/>
 	<anchor name="baseLC" x="201" y="0"/>

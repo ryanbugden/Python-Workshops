@@ -2,8 +2,4 @@
 <glyph name="Ldotbelowmacron" format="2">
 	<unicode hex="1E38"/>
 	<advance width="512"/>
-	<outline>
-		<component base="Ldotbelow"/>
-		<component base="macroncmb.cap" xOffset="171"/>
-	</outline>
 </glyph>

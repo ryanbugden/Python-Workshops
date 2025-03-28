@@ -2,8 +2,4 @@
 <glyph name="ohornhoi" format="2">
 	<unicode hex="1EDF"/>
 	<advance width="529"/>
-	<outline>
-		<component base="ohorn"/>
-		<component base="hoicmb" xOffset="264"/>
-	</outline>
 </glyph>

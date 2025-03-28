@@ -4,6 +4,5 @@
 	<advance width="273"/>
 	<outline>
 		<component base="dotlessi"/>
-		<component base="dieresiscmb.tight" xOffset="140"/>
 	</outline>
 </glyph>

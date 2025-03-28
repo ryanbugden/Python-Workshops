@@ -4,6 +4,5 @@
 	<advance width="646"/>
 	<outline>
 		<component base="O"/>
-		<component base="gravecmb.cap" xOffset="323"/>
 	</outline>
 </glyph>

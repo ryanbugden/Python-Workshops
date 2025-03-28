@@ -4,6 +4,5 @@
 	<advance width="633"/>
 	<outline>
 		<component base="N"/>
-		<component base="dotbelowcmb" xOffset="311"/>
 	</outline>
 </glyph>

@@ -2,8 +2,4 @@
 <glyph name="acircumflexdotbelow" format="2">
 	<unicode hex="1EAD"/>
 	<advance width="485"/>
-	<outline>
-		<component base="acircumflex"/>
-		<component base="dotbelowcmb" xOffset="237"/>
-	</outline>
 </glyph>

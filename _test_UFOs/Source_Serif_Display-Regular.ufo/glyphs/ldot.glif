@@ -4,6 +4,5 @@
 	<advance width="273"/>
 	<outline>
 		<component base="l"/>
-		<component base="periodcentered" xOffset="150" yOffset="48"/>
 	</outline>
 </glyph>
