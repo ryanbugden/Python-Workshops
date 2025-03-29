@@ -18,7 +18,7 @@
 
 ### Scripts & Extensions
 - [RoboFont Mechanic](https://robofontmechanic.com/): an extension that gives you quick access to other extensions.
-- [RoboFont Script Database](https://docs.google.com/spreadsheets/d/1uyeZXfwLe-vs1YmIDQvQwDBjTQohCd9dbRN2WqGJQf8/edit#gid=907448291): an informal collection of little scripts for RoboFont.
+- [RoboFont Script Database](https://scripts.robofontmechanic.com/): a collection of little scripts for RoboFont.
 
 ### Extra resources:
 - [DrawBot Proofing](https://github.com/adobe-type-tools/drawBotProofing), by Frank Grießhammer & Josh Hadley
