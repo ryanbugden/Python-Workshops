@@ -1,6 +1,3 @@
-# Choose which punctuation to exclude
-exclude = ["period", "comma", "greater", "less"]
-
 # Choose an angle
 slant_angle = 15
 # Get our font object
@@ -9,17 +6,11 @@ font = CurrentFont()
 new_font = font.copy()
 # Loop through all glyphs in this copy of the font
 for glyph in new_font:    
-    # Exclude punctuation
-    if glyph.name in exclude:
-        # Don’t complete the loop stuff
-        continue
     # Skew each contour and anchor in each glyph
     for contour in glyph.contours:    
         contour.skewBy(slant_angle, origin=(glyph.width/2, 0))
     for anchor in glyph.anchors:
         anchor.skewBy(slant_angle, origin=(glyph.width/2, 0))
-    # Optional: Add extreme points
-    glyph.extremePoints()
     # Copy glyph to skewed layer
     glyph.copyToLayer("skewed", clear=True)
     # Fix the glyph width

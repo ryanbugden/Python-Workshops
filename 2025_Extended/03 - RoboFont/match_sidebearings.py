@@ -17,10 +17,10 @@ def match_sidebearing_at_y(source_glyph, dest_glyph, y, side="left"):
         value = source_glyph.getRayRightMargin(y)
         dest_glyph.setRayRightMargin(y, value)
 
-
+# Get the current font
 font = CurrentFont()
 
-# Set the left sidebearing of "d" to match "o"
+# Set the left sidebearing of the font’s "d" to match "o"
 match_sidebearing(font["o"], font["d"], side="left")
 
 # Set the "beam" or "ray" left sidebearing of "B" to match "H"
