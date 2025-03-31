@@ -10,6 +10,8 @@ This repository is a centralized place for all Intro to Python [workshops at Typ
 - Presentations & notes
 - Resources & links (below)
 
+---
+
 ### Resources:
 - [DrawBot](https://drawbot.com/content/shapes/primitives.html) API, for scripting in DrawBot
 - [FontParts](https://fontparts.robotools.dev/en/stable/objectref/objects/index.html) API, for scripting with UFO files
@@ -17,6 +19,13 @@ This repository is a centralized place for all Intro to Python [workshops at Typ
 - [Scripting in Glyphs](https://glyphsapp.com/learn/scripting-glyphs-part-1), specifically
 - [Python for Designers](https://pythonfordesigners.com/), by Roberto Arista
 - [mojo.UI](https://robofont.com/documentation/reference/api/mojo/mojo-ui/?highlight=mojo.ui): very simple tools for simple UI interactions in RoboFont
+
+### Illustrations of FontParts 
+For students’ quick reference, I am including my rendition of the [FontParts object map](https://fontparts.robotools.dev/en/stable/objectref/objects/index.html), as well as a new hierarchical representation of the objects’ relationship to one another.
+#### The map
+<img src="./_images/fontparts-object_map-RB.png">
+#### The hierarchy
+<img src="./_images/fontparts-object_hierarchy-RB.png">
 
 ### Scripts & Extensions
 - [RoboFont Mechanic](https://robofontmechanic.com/): an extension that gives you quick access to other extensions.
