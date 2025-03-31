@@ -9,7 +9,7 @@ exclude = ["period", "comma", "greater", "less"]
 
 def get_surrounding_points(pt):
     '''
-    Gets the triplet of point objects surrounding a point, including the point.
+    Gets the points before and after a point.
     '''
     i = pt.index
     prev_pt = pt.contour.points[i - 1]
