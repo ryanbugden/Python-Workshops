@@ -15,7 +15,7 @@ def get_surrounding_points(pt):
     prev_pt = pt.contour.points[i - 1]
     # The only reason this isn't using "i + 1" is because we have to be able to reset to index 0
     next_pt = pt.contour.points[i-len(pt.contour.points)+1]
-    return prev_pt, pt, next_pt
+    return prev_pt, next_pt
     
     
 def get_skewed_coordinates(pt, skew_angle, origin):
@@ -35,7 +35,7 @@ def point_has_vertical_handles(pt):
     if pt.type == "offcurve":
         return False
     # Get the surrounding points
-    prev_pt, pt, next_pt = get_surrounding_points(pt)
+    prev_pt, next_pt = get_surrounding_points(pt)
     # Check to see if surrounding points are both handles
     if prev_pt.type != "offcurve" or next_pt.type != "offcurve":
         return False
