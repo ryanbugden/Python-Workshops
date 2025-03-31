@@ -90,4 +90,3 @@ new_font.info.styleName += " Italic"
 # Actually open the font
 new_font.openInterface()
                 
-                
