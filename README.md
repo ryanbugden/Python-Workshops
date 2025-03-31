@@ -2,11 +2,13 @@
 
 <img src="./_images/workshop_banner.png">
 
+This repository is a centralized place for all Intro to Python [workshops at Type@Cooper](https://coopertype.org/workshops/), led by [Ryan Bugden](https://ryanbugden.com). 
 
-### Materials from Python workshops:
+
+## Materials from Python workshops:
 - Example code
-- Notes
-- Resources & links
+- Presentations & notes
+- Resources & links (below)
 
 ### Resources:
 - [DrawBot](https://drawbot.com/content/shapes/primitives.html) API, for scripting in DrawBot
