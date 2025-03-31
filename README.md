@@ -22,8 +22,10 @@ This repository is a centralized place for all Intro to Python [workshops at Typ
 
 ### Illustrations of FontParts 
 For students’ quick reference, I am including my rendition of the [FontParts object map](https://fontparts.robotools.dev/en/stable/objectref/objects/index.html), as well as a new hierarchical representation of the objects’ relationship to one another.
+
 #### The map
 <img src="./_images/fontparts-object_map-RB.png">
+
 #### The hierarchy
 <img src="./_images/fontparts-object_hierarchy-RB.png">
 
