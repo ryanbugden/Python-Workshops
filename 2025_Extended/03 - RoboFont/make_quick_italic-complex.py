@@ -33,7 +33,7 @@ def point_has_vertical_handles(pt):
     '''
     # We don't care about off-curve points here.
     if pt.type == "offcurve":
-        return True
+        return False
     # Get the surrounding points
     prev_pt, pt, next_pt = get_surrounding_points(pt)
     # Check to see if surrounding points are both handles
