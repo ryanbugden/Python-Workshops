@@ -15,7 +15,7 @@ This repository is a centralized place for all Intro to Python [workshops at Typ
 ### Resources:
 - [DrawBot](https://drawbot.com/content/shapes/primitives.html) API, for scripting in DrawBot
 - [FontParts](https://fontparts.robotools.dev/en/stable/objectref/objects/index.html) API, for scripting with UFO files
-- **[Scripting in RoboFont](https://robofont.com/documentation/reference/fontparts/), specifically**
+- [Scripting in RoboFont](https://robofont.com/documentation/reference/fontparts/), specifically
 - [RoboFont Discord server](https://discord.gg/fbRmAFyZar), where you can discuss scripting, or RoboFont in general.
 - [Scripting in Glyphs](https://glyphsapp.com/learn/scripting-glyphs-part-1), specifically
 - [Python for Designers](https://pythonfordesigners.com/), by Roberto Arista
