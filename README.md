@@ -39,6 +39,9 @@ For students’ quick reference, I am including my rendition of the [FontParts o
 - [Basics of Unicode in Python](https://gist.github.com/arrowtype/713dad14fe9a574d58d1aab61ba9b2f0), by Stephen Nixon & others
 - [DrawBot Grid](https://github.com/mathieureguer/drawbotgrid), by Mathieu Reguer
 - [Proof Generator](https://github.com/grillitype/ProofGenerator), by Grilli Type
+- [Subscriber documentation](https://robofont.com/documentation/reference/api/mojo/mojo-subscriber/)
+- [EZUI documentation](https://typesupply.github.io/ezui/items.html) and [helpful examples](https://gist.github.com/typesupply/15e81a043856c1808e28d61814707653), by Tal Leming
+
 
 ### Acknowledgments:
 
