@@ -1,12 +1,54 @@
 # menuTitle: Make Quick Italic & Rearrange Extremes
 
+import math
 from fontTools.misc.fixedTools import otRound
 
 
 # Choose which punctuation to exclude
-exclude = ["period", "comma", "greater", "less"]
+exclude = []
+OFFSET = False
 
 
+def offset_glyphs(font, glyphs, offset):
+    '''
+    Offset for italic slant
+    Code by Gustavo/Frederik/Lukas
+    https://gist.github.com/gferreira/56e4f13b7f104ec4ff69fb90d402dfe1
+    '''
+    def get_flipped_components(font):
+        flipped_components = []
+        for g in font:
+            for component in g.components:
+                if component.naked().transformation:
+                    # Flipped horizontal
+                    if component.naked().transformation[0] == -1:
+                        flipped_components.append(g.name)
+                    # Flipped vertical
+                    if component.naked().transformation[3] == -1:
+                        flipped_components.append(g.name)
+        return list(set(flipped_components))
+    flipped_components = get_flipped_components(font)
+    print("flipped_components", flipped_components)
+    if offset:
+        component_map = font.getReverseComponentMapping()
+        for glyph in glyphs:
+            with glyph.undo(f"Offset glyph {glyph.name}"):
+                glyph.moveBy((offset, 0))
+            for composed_glyph in component_map.get(glyph.name, []):
+                for component in font[composed_glyph].components:
+                    if component.baseGlyph == glyph.name:
+                        if glyph.name not in flipped_components:
+                            component.moveBy((-offset, 0))
+            glyph.changed()
+        for g_name in flipped_components:
+            for component in font[g_name].components:
+                component.moveBy((offset*2, 0))
+                for composed_glyph in component_map.get(g_name, []):
+                    for component in font[composed_glyph].components:
+                        if component.baseGlyph == g_name:
+                            component.moveBy((-offset, 0))
+                                
+                                
 def get_surrounding_points(pt):
     '''
     Gets the points before and after a point.
@@ -50,7 +92,7 @@ def point_has_vertical_handles(pt):
     
 
 # Choose an angle
-slant_angle = 15
+slant_angle = 10
 # Get our font object
 font = CurrentFont()
 # Copy original font into a new one
@@ -87,6 +129,10 @@ for glyph in new_font:
 # Change font’s italic angle
 new_font.info.italicAngle = -slant_angle
 new_font.info.styleName += " Italic"
+if OFFSET:
+    slant_offset = otRound(math.tan(slant_angle * math.pi / 180) * (font.info.xHeight * 0.5))
+    new_font.lib['com.typemytype.robofont.italicSlantOffset'] = slant_offset
+    offset_glyphs(new_font, new_font, slant_offset)
 # Actually open the font
 new_font.openInterface()
                 
