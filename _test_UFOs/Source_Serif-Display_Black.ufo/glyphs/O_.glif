@@ -32,8 +32,4 @@
 			<point x="405" y="12"/>
 		</contour>
 	</outline>
-	<anchor name="aboveUC" x="324" y="672"/>
-	<anchor name="belowLC" x="324" y="-20"/>
-	<anchor name="hornLC" x="483" y="550"/>
-	<anchor name="ogonek" x="408" y="0"/>
 </glyph>

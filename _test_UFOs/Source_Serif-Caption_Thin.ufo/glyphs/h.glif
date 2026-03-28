@@ -63,6 +63,4 @@
 			<point x="512" y="73"/>
 		</contour>
 	</outline>
-	<anchor name="aboveLC" x="163" y="748"/>
-	<anchor name="belowLC" x="344" y="-20"/>
 </glyph>

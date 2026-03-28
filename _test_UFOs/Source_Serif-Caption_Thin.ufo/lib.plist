@@ -4,6 +4,27 @@
 	<dict>
 		<key>com.ryanbugden.breadcrumbs.active</key>
 		<false/>
+		<key>com.ryanbugden.glyphBeams.beamIdentifiers</key>
+		<dict>
+			<key>Lowercase</key>
+			<array>
+			</array>
+			<key>Plumb</key>
+			<array>
+			</array>
+			<key>Uppercase</key>
+			<array>
+			</array>
+		</dict>
+		<key>com.ryanbugden.glyphBeams.preferences</key>
+		<dict>
+			<key>Lowercase</key>
+			<false/>
+			<key>Plumb</key>
+			<false/>
+			<key>Uppercase</key>
+			<false/>
+		</dict>
 		<key>com.typemytype.robofont.compileSettings.autohint</key>
 		<true/>
 		<key>com.typemytype.robofont.compileSettings.checkOutlines</key>

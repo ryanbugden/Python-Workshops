@@ -49,6 +49,4 @@
 			<point x="724" y="652" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="aboveUC" x="495" y="672"/>
-	<anchor name="belowLC" x="443" y="-20"/>
 </glyph>

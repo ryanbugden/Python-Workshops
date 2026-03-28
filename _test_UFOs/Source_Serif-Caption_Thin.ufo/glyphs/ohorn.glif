@@ -6,6 +6,4 @@
 		<component base="o"/>
 		<component base="horncmb" xOffset="460" yOffset="-78"/>
 	</outline>
-	<anchor name="aboveLC" x="304" y="520"/>
-	<anchor name="belowLC" x="304" y="-20"/>
 </glyph>

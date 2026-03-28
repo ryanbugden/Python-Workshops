@@ -6,6 +6,4 @@
 		<component base="l"/>
 		<component base="caron.alt" xOffset="360"/>
 	</outline>
-	<anchor name="aboveLC" x="186" y="720"/>
-	<anchor name="belowLC" x="189" y="-20"/>
 </glyph>

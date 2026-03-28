@@ -21,6 +21,4 @@
 			<point x="31" y="529" type="curve"/>
 		</contour>
 	</outline>
-	<anchor name="_aboveLC" x="0" y="480"/>
-	<anchor name="aboveLC" x="0" y="736"/>
 </glyph>

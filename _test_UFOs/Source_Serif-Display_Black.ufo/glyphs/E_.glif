@@ -68,7 +68,4 @@
 			<point x="381" y="640" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="aboveUC" x="289" y="672"/>
-	<anchor name="belowLC" x="282" y="-20"/>
-	<anchor name="ogonek" x="394" y="0"/>
 </glyph>

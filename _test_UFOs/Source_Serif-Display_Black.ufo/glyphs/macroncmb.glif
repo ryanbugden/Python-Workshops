@@ -9,6 +9,4 @@
 			<point x="-140" y="627" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="_aboveLC" x="0" y="480"/>
-	<anchor name="aboveLC" x="0" y="627"/>
 </glyph>

@@ -6,6 +6,4 @@
 		<component base="g"/>
 		<component base="commabelowcmb.alt" xOffset="244"/>
 	</outline>
-	<anchor name="aboveLC" x="250" y="694"/>
-	<anchor name="belowLC" x="229" y="-284"/>
 </glyph>

@@ -31,5 +31,4 @@
 		</contour>
 		<component base="caroncmb.cap" yOffset="148"/>
 	</outline>
-	<anchor name="_aboveUC" x="0" y="672"/>
 </glyph>

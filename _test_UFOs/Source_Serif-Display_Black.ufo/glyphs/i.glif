@@ -45,7 +45,4 @@
 			<point x="106" y="539"/>
 		</contour>
 	</outline>
-	<anchor name="aboveLC" x="148" y="689"/>
-	<anchor name="belowLC" x="151" y="-20"/>
-	<anchor name="ogonek" x="193" y="0"/>
 </glyph>
