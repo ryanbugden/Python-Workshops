@@ -4,7 +4,7 @@ margin = 80
 
 # Make 100 pages
 for page_number in range(100):
-    # Make the margin bigger each time
+    # Make the margin bigger each
     margin += 5
     newPage(width, height)
     fill(random(), random(), random(), 1)
