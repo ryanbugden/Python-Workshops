@@ -1,6 +1,7 @@
 width = 1590
 height = 680
 margin = 80
+
 # Manually choose 3 of my favorite colors
 my_colors = [
     (1, 0, 0, 1),
@@ -21,4 +22,4 @@ for page_number in range(100):
     oval(margin, margin, width-(margin*2), height-(margin*2))
 
 # Save a video comprised of all of the pages made above
-saveImage('/Users/Ryan/Documents/Git/public/Python Workshops/2026_Extended/02 - DrawBot/cool_shapes.mp4')
+saveImage('cool_shapes.mp4')
