@@ -35,12 +35,12 @@ For students’ quick reference, I am including my rendition of the [FontParts o
 - [RoboFont Script Database](https://scripts.robofontmechanic.com/): a collection of little scripts for RoboFont.
 
 ### Extra resources:
-- [DrawBot Proofing](https://github.com/adobe-type-tools/drawBotProofing), by Frank Grießhammer & Josh Hadley
-- [Basics of Unicode in Python](https://gist.github.com/arrowtype/713dad14fe9a574d58d1aab61ba9b2f0), by Stephen Nixon & others
-- [DrawBot Grid](https://github.com/mathieureguer/drawbotgrid), by Mathieu Reguer
-- [Proof Generator](https://github.com/grillitype/ProofGenerator), by Grilli Type
 - [Subscriber documentation](https://robofont.com/documentation/reference/api/mojo/mojo-subscriber/)
 - [EZUI documentation](https://typesupply.github.io/ezui/items.html) and [helpful examples](https://gist.github.com/typesupply/15e81a043856c1808e28d61814707653), by Tal Leming
+- [DrawBot Proofing](https://github.com/adobe-type-tools/drawBotProofing), by Frank Grießhammer & Josh Hadley
+- [Proof Generator](https://github.com/grillitype/ProofGenerator), by Grilli Type
+- [Basics of Unicode in Python](https://gist.github.com/arrowtype/713dad14fe9a574d58d1aab61ba9b2f0), by Stephen Nixon & others
+- [DrawBot Grid](https://github.com/mathieureguer/drawbotgrid), by Mathieu Reguer
 
 
 ### Acknowledgments:
